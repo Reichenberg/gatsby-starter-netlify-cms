@@ -1,28 +1,30 @@
 import React from 'react';
 import Helmet from 'react-helmet';
 import { StaticQuery, graphql } from 'gatsby';
-import styled, { createGlobalStyle } from 'styled-components';
+import styled from 'styled-components';
 import bgVideo from '../img/bgVideo.mp4';
-
+import GlobalStyles from './global.style';
 import Navbar from '../components/Navbar';
-
-const GlobalStyles = createGlobalStyle`
-body{padding: 0;
-  margin: 0;
-}`;
 
 const ContentStyled = styled.div`
   #myVideo {
     position: fixed;
     right: 0;
     height: 100vh;
+    z-index: 0;
   }
 
   .overlay {
     position: fixed;
     height: 100vh;
     width: 100vw;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.35);
+    z-index: 1;
+  }
+
+  .content {
+    position: relative;
+    z-index: 2;
   }
 
   background-color: rgb(200, 200, 200);
@@ -58,7 +60,7 @@ const TemplateWrapper = ({ children }) => (
           <meta property="og:image" content="/img/og-image.jpg" />
         </Helmet>
         <GlobalStyles />
-        <video autoPlay muted loop id="myVideo" playbackRate={100}>
+        <video autoPlay muted loop id="myVideo" playbackrate={100}>
           <source src={bgVideo} type="video/mp4" />
         </video>
         <div className="overlay" />
