@@ -34,10 +34,6 @@ button{
     }
 }
 
-text{
-    font-family: Domus Titling;
-}
-
 
 
 `;

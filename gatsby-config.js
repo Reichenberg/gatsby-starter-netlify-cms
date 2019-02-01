@@ -15,14 +15,14 @@ module.exports = {
         name: 'uploads',
       },
     },
-    {
-      resolve: 'gatsby-plugin-web-font-loader',
-      options: {
-        TypeKit: {
-          id: 'kmg5ybz',
-        },
-      },
-    },
+    // {
+    //   resolve: 'gatsby-plugin-web-font-loader',
+    //   options: {
+    //     TypeKit: {
+    //       id: 'kmg5ybz',
+    //     },
+    //   },
+    // },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
