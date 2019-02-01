@@ -62,6 +62,7 @@ const FixedNavStyled = styled.div`
       list-style-type: none;
       font-size: 26px;
       text-align: right;
+      opacity: 0;
 
       li {
         width: 100%;

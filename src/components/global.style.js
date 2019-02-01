@@ -35,7 +35,7 @@ button{
 }
 
 text{
-    font-family: domus titling extralight;
+    font-family: Domus Titling;
 }
 
 

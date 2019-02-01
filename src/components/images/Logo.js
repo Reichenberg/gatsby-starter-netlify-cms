@@ -76,7 +76,6 @@ Chance"
               transform="translate(14.5 47)"
               fill="#fff"
               fontSize="35"
-              fontFamily="Domus Titling Extralight, Domus Titling"
               letterSpacing="0.23em"
             >
               <tspan x="0" y="0">
