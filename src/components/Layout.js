@@ -62,7 +62,7 @@ const TemplateWrapper = ({ children }) => (
           <meta property="og:title" content={data.site.siteMetadata.title} />
           <meta property="og:url" content="/" />
           <meta property="og:image" content="/img/og-image.jpg" />
-          <link rel="preload" href="https://use.typekit.net/kmg5ybz.css" />
+          <link rel="stylesheet" href="https://use.typekit.net/kmg5ybz.css" />
         </Helmet>
         <GlobalStyles />
         <video autoPlay muted loop id="myVideo" playbackrate={100}>
