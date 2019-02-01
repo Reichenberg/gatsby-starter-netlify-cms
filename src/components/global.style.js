@@ -34,6 +34,10 @@ button{
     }
 }
 
+text{
+    font-family: domus titling extralight;
+}
+
 
 
 `;
