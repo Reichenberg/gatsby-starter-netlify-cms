@@ -99,8 +99,8 @@ Chance"
                 transform="translate(15 52.5)"
                 fill="none"
                 stroke="#e7e7e7"
-                stroke-linecap="square"
-                stroke-width="2"
+                strokeLinecap="square"
+                strokeWidth="2"
               />
             </PoseGroup>
           </g>

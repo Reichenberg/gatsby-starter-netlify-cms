@@ -2,12 +2,36 @@ import React, { Component } from 'react';
 import { Link } from 'gatsby';
 import styled from 'styled-components';
 import HammoIcon from './images/HammoIcon';
+import SocialBar from './SocialBar';
+import LogoStatic from '../components/images/LogoStatic';
 
 import posed, { PoseGroup } from 'react-pose';
 
 const NavPosed = posed.div({
-  open: { width: '75%', height: '100%', borderTopLeftRadius: '0px' },
-  closed: { width: '75px', height: '75px', borderTopLeftRadius: '5px' },
+  open: {
+    width: '75%',
+    height: '100%',
+    borderTopLeftRadius: '0px',
+    ease: 'anticipate',
+    transition: { duration: 200 },
+  },
+  closed: {
+    width: '75px',
+    height: '75px',
+    borderTopLeftRadius: '5px',
+    ease: 'backIn',
+    transition: { duration: 200 },
+  },
+});
+
+const BlackLogoPosed = posed.div({
+  open: { opacity: 1, y: 0, transition: { delay: 200, duration: 250 } },
+  closed: { opacity: 0, y: -20, transition: { duration: 0 } },
+});
+
+const LinksPosed = posed.ul({
+  open: { opacity: 1, x: 0, transition: { delay: 200 } },
+  closed: { opacity: 0, x: 30, transition: { duration: 0 } },
 });
 
 const FixedNavStyled = styled.div`
@@ -19,8 +43,37 @@ const FixedNavStyled = styled.div`
     width: 75px;
     height: 75px;
     background-color: #eaeaea;
-    opacity: 0.95;
+    opacity: 0.98;
     box-shadow: -5px -5px 20px rgba(0, 0, 0, 0.2);
+    .logo {
+      width: 70%;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 20px;
+      svg {
+        width: 100%;
+      }
+    }
+
+    ul {
+      position: absolute;
+      bottom: 50px;
+      right: 20px;
+      list-style-type: none;
+      font-size: 26px;
+      text-align: right;
+
+      li {
+        width: 100%;
+        height: 45px;
+      }
+
+      a {
+        text-decoration: none;
+        color: #676767;
+        font-size: 26px;
+      }
+    }
     button {
       width: 75px;
       height: 75px;
@@ -35,9 +88,6 @@ const FixedNavStyled = styled.div`
         display: block;
         margin: auto;
       }
-    }
-
-    .close-icon {
     }
   }
 `;
@@ -63,7 +113,23 @@ class Navbar extends Component {
     return (
       <FixedNavStyled>
         <NavPosed className="nav" pose={open ? 'open' : 'closed'}>
-          {/* 'open'  should change size state using pose, will also display nav options using POSE states*/}
+          <BlackLogoPosed className="logo" pose={open ? 'open' : 'closed'}>
+            <LogoStatic />
+          </BlackLogoPosed>
+          <LinksPosed>
+            <li>
+              <Link>Articles</Link>
+            </li>
+            <li>
+              <Link>Photos</Link>
+            </li>
+            <li>
+              <Link>Videos</Link>
+            </li>
+            <li>
+              <Link>Work With Me</Link>
+            </li>
+          </LinksPosed>
           <button onClick={this.toggleModal}>
             <div className="ham-icon">
               <HammoIcon open={open} />
@@ -71,6 +137,7 @@ class Navbar extends Component {
             </div>
           </button>
         </NavPosed>
+        <SocialBar open={open} />
       </FixedNavStyled>
     );
   }

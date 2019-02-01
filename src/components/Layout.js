@@ -54,6 +54,10 @@ const TemplateWrapper = ({ children }) => (
             content={data.site.siteMetadata.description}
           />
           <meta name="theme-color" content="#eaeaea" />
+          <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1.0"
+          />
           <meta property="og:type" content="business.business" />
           <meta property="og:title" content={data.site.siteMetadata.title} />
           <meta property="og:url" content="/" />

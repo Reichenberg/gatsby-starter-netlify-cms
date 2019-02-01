@@ -4,8 +4,9 @@ const GlobalStyles = createGlobalStyle`
 body{
     padding: 0;
   margin: 0;
-  font-family: 'DINosaur';
+  font-family: dinosaur;
   color: #efefef;
+  font-weight: 400;
 
 
   h1{
@@ -27,6 +28,10 @@ button{
     margin: 0;
     border: none;
     background: transparent;
+
+    &:hover, &:focus{
+        outline: none;
+    }
 }
 
 
