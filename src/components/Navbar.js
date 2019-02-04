@@ -119,7 +119,7 @@ class Navbar extends Component {
           </BlackLogoPosed>
           <LinksPosed>
             <li>
-              <Link>Articles</Link>
+              <Link to="/Articles">Articles</Link>
             </li>
             <li>
               <Link>Photos</Link>
