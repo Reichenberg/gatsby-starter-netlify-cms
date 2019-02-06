@@ -31,7 +31,7 @@ const BlackLogoPosed = posed.div({
 
 const LinksPosed = posed.ul({
   open: { opacity: 1, x: 0, transition: { delay: 200 } },
-  closed: { opacity: 0, x: 30, transition: { duration: 0 } },
+  closed: { opacity: 0, x: 200, transition: { duration: 0 } },
 });
 
 const FixedNavStyled = styled.div`
@@ -114,18 +114,17 @@ class Navbar extends Component {
     return (
       <FixedNavStyled>
         <NavPosed className="nav" pose={open ? 'open' : 'closed'}>
-          <BlackLogoPosed className="logo" pose={open ? 'open' : 'closed'}>
-            <LogoStatic />
-          </BlackLogoPosed>
+          <Link to="/">
+            <BlackLogoPosed className="logo" pose={open ? 'open' : 'closed'}>
+              <LogoStatic />
+            </BlackLogoPosed>
+          </Link>
           <LinksPosed>
             <li>
               <Link to="/Articles">Articles</Link>
             </li>
             <li>
               <Link>Photos</Link>
-            </li>
-            <li>
-              <Link>Videos</Link>
             </li>
             <li>
               <Link>Work With Me</Link>

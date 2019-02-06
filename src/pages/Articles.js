@@ -33,11 +33,11 @@ export default class Articles extends React.Component {
             <Logo />
           </header>
           <PoseGroup animateOnMount>
-            {posts.map(item => {
-              <FadeIn key={item.node.slug}>
+            {posts.map(item => (
+              <FadeIn key={item.node.frontmatter.title}>
                 {item.node.frontmatter.title}
-              </FadeIn>;
-            })}
+              </FadeIn>
+            ))}
           </PoseGroup>
         </IndexStyled>
       </Layout>

@@ -20,6 +20,19 @@ const FadeIn = posed.section({
   exit: { opacity: 0, y: 20 },
 });
 
+const FadeUp = posed.section({
+  enter: {
+    opacity: 1,
+    y: 0,
+    transition: {
+      delay: 700,
+      ease: 'easeOut',
+      duration: 1000,
+    },
+  },
+  exit: { opacity: 0, y: 50 },
+});
+
 export default class IndexPage extends React.Component {
   render() {
     const { data } = this.props;
@@ -45,6 +58,13 @@ export default class IndexPage extends React.Component {
             <FadeIn className="featured-header" key={1}>
               <h2>Featured</h2>
             </FadeIn>
+            <FadeUp key={2}>
+              {posts.map((item, i) => (
+                <h1 key={item.node.frontmatter.title}>
+                  {item.node.frontmatter.title}
+                </h1>
+              ))}
+            </FadeUp>
           </PoseGroup>
         </IndexStyled>
       </Layout>
