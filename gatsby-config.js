@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Chance on Travel',
+    title: 'Chance Made a Travel Blog?',
     description:
       'Attempting to share the experience of existential dread.... I mean travel, adventures, regretful food comas, and any mistakes along the way. Travel advice from flights to food and fun.',
   },
