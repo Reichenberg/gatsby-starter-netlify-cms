@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Chance on Travel',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Attempting to share the experience of existential dread.... I mean travel, adventures, regretful food comas, and any mistakes along the way. Travel advice from flights to food and fun.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
