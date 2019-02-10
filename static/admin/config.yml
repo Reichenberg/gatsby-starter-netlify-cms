@@ -6,48 +6,48 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - name: "blog"
-    label: "Blog"
-    folder: "src/pages/blog"
+  - name: 'blog'
+    label: 'Blog'
+    folder: 'src/pages/blog'
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields:
       - {
-          label: "Template Key",
-          name: "templateKey",
-          widget: "hidden",
-          default: "blog-post",
+          label: 'Template Key',
+          name: 'templateKey',
+          widget: 'hidden',
+          default: 'blog-post',
         }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Description", name: "description", widget: "text" }
-      - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Tags", name: "tags", widget: "list" }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'text' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Tags', name: 'tags', widget: 'list' }
 
-  - name: "pages"
-    label: "Pages"
+  - name: 'pages'
+    label: 'Pages'
     files:
-      - file: "src/pages/about/index.md"
-        label: "About"
-        name: "about"
+      - file: 'src/pages/about/index.md'
+        label: 'About'
+        name: 'about'
         fields:
           - {
-              label: "Template Key",
-              name: "templateKey",
-              widget: "hidden",
-              default: "about-page",
+              label: 'Template Key',
+              name: 'templateKey',
+              widget: 'hidden',
+              default: 'about-page',
             }
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Body", name: "body", widget: "markdown" }
-      - file: "src/pages/products/index.md"
-        label: "Products Page"
-        name: "products"
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+      - file: 'src/pages/products/index.md'
+        label: 'Products Page'
+        name: 'products'
         fields:
           - {
-              label: "Template Key",
-              name: "templateKey",
-              widget: "hidden",
-              default: "product-page",
+              label: 'Template Key',
+              name: 'templateKey',
+              widget: 'hidden',
+              default: 'product-page',
             }
           - { label: Title, name: title, widget: string }
           - { label: Image, name: image, widget: image }
@@ -151,22 +151,25 @@ collections:
                 ],
             }
 
-  - name: "post"
-    label: "Post"
-    folder: "src/pages/post"
+  - name: 'post'
+    label: 'Post'
+    folder: 'src/pages/post'
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields:
       - {
-          label: "Template Key",
-          name: "templateKey",
-          widget: "hidden",
-          default: "blog-post",
+          label: 'Template Key',
+          name: 'templateKey',
+          widget: 'hidden',
+          default: 'blog-post',
         }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Author Name", name: "author", widget: "string" }
-      - { label: "Post Type", name: "type", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Description", name: "description", widget: "text" }
-      - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Tags", name: "tags", widget: "list" }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: Background, name: bg-image, widget: image }
+      - { label: 'Author Name', name: 'author', widget: 'string' }
+      - { label: 'Post Type', name: 'type', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'text' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Tags', name: 'tags', widget: 'list', 
+      - fields:
+      - {label: tag, name: tagName, widget: 'string'} }
