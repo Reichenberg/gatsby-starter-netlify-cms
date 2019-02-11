@@ -60,9 +60,11 @@ export default class IndexPage extends React.Component {
             </FadeIn>
             <FadeUp key={2}>
               {posts.map((item, i) => (
-                <h1 key={item.node.frontmatter.title}>
-                  {item.node.frontmatter.title}
-                </h1>
+                <div key={item + i}>
+                  <div>
+                    <h2>{item.node.frontmatter.title}</h2>
+                  </div>
+                </div>
               ))}
             </FadeUp>
           </PoseGroup>
@@ -97,6 +99,9 @@ export const pageQuery = graphql`
             title
             templateKey
             date(formatString: "MMMM DD, YYYY")
+            bg_image {
+              relativePath
+            }
           }
         }
       }

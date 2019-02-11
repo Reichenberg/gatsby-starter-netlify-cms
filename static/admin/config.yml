@@ -164,7 +164,12 @@ collections:
           default: 'blog-post',
         }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: Background, name: bg-image, widget: image }
+      - {
+          label: Background,
+          name: bg-image,
+          widget: image,
+          feilds: { label: Alt Text, name: bg-alt, widget: string },
+        }
       - { label: 'Author Name', name: 'author', widget: 'string' }
       - { label: 'Post Type', name: 'type', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
