@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: image test
-bg-image: 'https://ucarecdn.com/88ca8303-c5a2-477b-ab8c-ba665a6cc263/'
+bg-image: 'https://ucarecdn.com/8422e0a3-d108-4d79-9ee6-b5f2c63cb21d/'
 bg-alt: insta image
 author: chance
 date: 2019-02-13T01:27:13.262Z
