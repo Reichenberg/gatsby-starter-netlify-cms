@@ -2,10 +2,12 @@ import React, { Component } from 'react';
 import { Link } from 'gatsby';
 import styled from 'styled-components';
 import HammoIcon from './images/HammoIcon';
-import SocialBar from './SocialBar';
 import LogoStatic from '../components/images/LogoStatic';
 
-import posed, { PoseGroup } from 'react-pose';
+import posed from 'react-pose';
+import Pinterest from './images/Pinterest';
+import Instagram from './images/Instagram';
+import Youtube from './images/Youtube';
 
 const NavPosed = posed.div({
   open: {
@@ -34,6 +36,24 @@ const LinksPosed = posed.ul({
   closed: { opacity: 0, x: 200, transition: { duration: 0 } },
 });
 
+const SocialLinksPosed = posed.ul({
+  open: {
+    opacity: 1,
+    transition: { delay: 200 },
+    staggerChildren: 100,
+    delayChildren: 200,
+  },
+  closed: {
+    opacity: 0,
+    transition: { duration: 0 },
+  },
+});
+
+const SocialIconPosed = posed.li({
+  open: { opacity: 1, y: 0 },
+  closed: { opacity: 0, y: 50 },
+});
+
 const FixedNavStyled = styled.div`
   .nav {
     position: fixed;
@@ -55,7 +75,7 @@ const FixedNavStyled = styled.div`
       }
     }
 
-    ul {
+    .nav-links {
       position: absolute;
       bottom: 50px;
       right: 20px;
@@ -73,6 +93,18 @@ const FixedNavStyled = styled.div`
         text-decoration: none;
         color: #676767;
         font-size: 26px;
+      }
+    }
+    .social-nav-links {
+      list-style-type: none;
+      position: absolute;
+      bottom: 20px;
+      left: 20px;
+      display: flex;
+      padding: 0;
+      margin: 0;
+      li {
+        margin-right: 15px;
       }
     }
     button {
@@ -114,11 +146,11 @@ class Navbar extends Component {
       <FixedNavStyled>
         <NavPosed className="nav" pose={open ? 'open' : 'closed'}>
           <Link to="/">
-            <BlackLogoPosed className="logo" pose={open ? 'open' : 'closed'}>
+            <BlackLogoPosed className="logo">
               <LogoStatic />
             </BlackLogoPosed>
           </Link>
-          <LinksPosed>
+          <LinksPosed className="nav-links">
             <li>
               <Link to="/Articles">Articles</Link>
             </li>
@@ -129,6 +161,24 @@ class Navbar extends Component {
               <Link>Work With Me</Link>
             </li>
           </LinksPosed>
+          <SocialLinksPosed className="social-nav-links">
+            <SocialIconPosed key="pin">
+              <a
+                href="https://www.pinterest.com/chanceontravel/"
+                target="_blank"
+              >
+                <Pinterest />
+              </a>
+            </SocialIconPosed>
+            <SocialIconPosed key="insta">
+              <a href="https://www.instagram.com/just_berg/" target="_blank">
+                <Instagram />
+              </a>
+            </SocialIconPosed>
+            <SocialIconPosed key="youtube">
+              <Youtube />
+            </SocialIconPosed>
+          </SocialLinksPosed>
           <button onClick={this.toggleModal}>
             <div className="ham-icon">
               <HammoIcon open={open} />
@@ -136,7 +186,6 @@ class Navbar extends Component {
             </div>
           </button>
         </NavPosed>
-        <SocialBar open={open} />
       </FixedNavStyled>
     );
   }

@@ -23,8 +23,8 @@ export default function LogoStatic() {
           transform="translate(66.5 21.031)"
           fill="#d69144"
           stroke="#0d0d0d"
-          stroke-linecap="round"
-          stroke-width="2"
+          strokeLinecap="round"
+          strokeWidth="2"
         />
       </g>
     </svg>

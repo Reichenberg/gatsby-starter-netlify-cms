@@ -26,11 +26,6 @@ const IndexStyled = styled.div`
     }
   }
 
-  /* Used for sections with full width, such as article thumbnails */
-  .full-section {
-    margin: 0;
-  }
-
   .featured-header {
     h2 {
       margin: 0;
@@ -48,6 +43,14 @@ const IndexStyled = styled.div`
     p {
       text-shadow: 0px 0px 6px #000;
       text-align: center;
+    }
+
+    .social-links {
+      display: flex;
+      justify-content: center;
+      svg {
+        margin: 10px;
+      }
     }
   }
 `;

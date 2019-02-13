@@ -2,35 +2,37 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { Link, graphql } from 'gatsby';
 import Layout from '../components/Layout';
-import styled from 'styled-components';
 import Logo from '../components/images/Logo';
 import IndexStyled from '../components/Styles/index.style';
 import posed, { PoseGroup } from 'react-pose';
+import Instagram from '../components/images/Instagram';
+import Youtube from '../components/images/Youtube';
+import Pinterest from '../components/images/Pinterest';
 
 const FadeIn = posed.section({
   enter: {
     opacity: 1,
-
+    y: 0,
     transition: {
       delay: 700,
       ease: 'easeOut',
       duration: 1000,
     },
   },
-  exit: { opacity: 0 },
+  exit: { opacity: 0, y: 20 },
 });
 
 const FadeUp = posed.section({
   enter: {
     opacity: 1,
-
+    y: 0,
     transition: {
       delay: 700,
       ease: 'easeOut',
       duration: 1000,
     },
   },
-  exit: { opacity: 0 },
+  exit: { opacity: 0, y: 50 },
 });
 
 export default class IndexPage extends React.Component {
@@ -58,7 +60,18 @@ export default class IndexPage extends React.Component {
                 that's overrated. I travel and gather stories to tell my
                 presumptive future grandchildren.
               </p>
-              <div className="social-links" />
+              <div className="social-links">
+                <a
+                  href="https://www.pinterest.com/chanceontravel/"
+                  target="_blank"
+                >
+                  <Pinterest />
+                </a>
+                <a href="https://www.instagram.com/just_berg/" target="_blank">
+                  <Instagram />
+                </a>
+                <Youtube />
+              </div>
             </FadeIn>
             <FadeIn className="featured-header" key={1}>
               <h2>Featured</h2>
