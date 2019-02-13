@@ -31,15 +31,6 @@ const IndexStyled = styled.div`
     margin: 0;
   }
 
-  .article {
-    margin: 0;
-    position: relative;
-    img {
-      width: 100%;
-    }
-
- 
-
   .featured-header {
     h2 {
       margin: 0;
