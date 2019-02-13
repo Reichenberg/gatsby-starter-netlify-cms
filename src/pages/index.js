@@ -74,7 +74,14 @@ export default class IndexPage extends React.Component {
                   />
                   <div className="article-overlay">
                     <h2>{item.node.frontmatter.title}</h2>
-                    <p>{item.node.frontmatter.description}</p>
+                    <p>
+                      {item.node.frontmatter.description.length > 140
+                        ? `${item.node.frontmatter.description.slice(
+                            0,
+                            140
+                          )} . . .`
+                        : item.node.frontmatter.description}
+                    </p>
                   </div>
                 </div>
               ))}

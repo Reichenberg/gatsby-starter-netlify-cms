@@ -46,6 +46,12 @@ export default class Articles extends React.Component {
                     />
                     <div className="article-overlay">
                       <h2>{item.node.frontmatter.title}</h2>
+                      {item.node.frontmatter.description.length > 140
+                        ? `${item.node.frontmatter.description.slice(
+                            0,
+                            140
+                          )} . . .`
+                        : item.node.frontmatter.description}
                     </div>
                   </div>
                 ))}
@@ -85,6 +91,7 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             bg_image
             bg_alt
+            description
           }
         }
       }
