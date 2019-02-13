@@ -11,13 +11,13 @@ body{
 
   h1{
       text-align: center;
-      font-family: domus titling extralight;
+      font-family: Domus Titling;
       font-size: 30px;
     font-weight: lighter;
   }
 
   h2{
-    font-family: domus titling extralight;
+    font-family: Domus Titling;
       font-size: 28px;
       font-weight: lighter;
   }
