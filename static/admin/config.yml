@@ -5,9 +5,7 @@ backend:
   media_library:
     name: uploadcare
     config:
-     - { 
     publicKey: 235d4efafa834e7301e6
-     }
 
 public_folder: /img
 
