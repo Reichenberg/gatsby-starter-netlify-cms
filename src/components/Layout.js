@@ -12,6 +12,7 @@ const ContentStyled = styled.div`
     right: 0;
     height: 100vh;
     z-index: 0;
+    width: 100%;
   }
 
   .overlay {
