@@ -10,27 +10,27 @@ import posed, { PoseGroup } from 'react-pose';
 const FadeIn = posed.section({
   enter: {
     opacity: 1,
-    y: 0,
+
     transition: {
       delay: 700,
       ease: 'easeOut',
       duration: 1000,
     },
   },
-  exit: { opacity: 0, y: 20 },
+  exit: { opacity: 0 },
 });
 
 const FadeUp = posed.section({
   enter: {
     opacity: 1,
-    y: 0,
+
     transition: {
       delay: 700,
       ease: 'easeOut',
       duration: 1000,
     },
   },
-  exit: { opacity: 0, y: 50 },
+  exit: { opacity: 0 },
 });
 
 export default class IndexPage extends React.Component {

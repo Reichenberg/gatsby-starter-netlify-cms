@@ -65,7 +65,14 @@ const TemplateWrapper = ({ children }) => (
           <link rel="stylesheet" href="https://use.typekit.net/kmg5ybz.css" />
         </Helmet>
         <GlobalStyles />
-        <video autoPlay muted loop id="myVideo" playbackrate={100}>
+        <video
+          autoPlay
+          muted
+          loop
+          id="myVideo"
+          playbackrate={100}
+          poster="https://ucarecdn.com/6432c723-f130-4f3a-bc3e-a3bae06251d6/-/resize/600x/-/quality/light/"
+        >
           <source src={bgVideo} type="video/mp4" />
         </video>
         <div className="overlay" />
