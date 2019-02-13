@@ -46,7 +46,7 @@ button{
       bottom: 0;
       height: 100px;
       width: 100%;
-      background-color: rgba(0, 0, 0, 0.85);
+      background-color: rgba(0, 0, 0, 0.75);
       position: absolute;
       h2 {
         margin: 0;
