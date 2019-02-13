@@ -17,7 +17,7 @@ body{
   }
 
   h2{
-    font-family: Domus Titling;
+    font-family: jaf-domus-titling-web;
       font-size: 28px;
       font-weight: lighter;
   }
