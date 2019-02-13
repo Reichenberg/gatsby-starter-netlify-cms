@@ -102,7 +102,6 @@ class Navbar extends Component {
 
   toggleModal = () => {
     const { open } = this.state;
-    console.log(open);
 
     this.setState({
       open: open ? false : true,
