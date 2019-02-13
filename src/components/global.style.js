@@ -36,7 +36,7 @@ button{
 }
 
 .article {
-    margin: 0;
+    margin: 0 !important;
     position: relative;
     img {
       width: 100%;
@@ -44,14 +44,18 @@ button{
 
     .article-overlay {
       bottom: 0;
-      height: 100px;
       width: 100%;
       background-color: rgba(0, 0, 0, 0.75);
       position: absolute;
+      display: block-size;
       h2 {
         margin: 0;
         font-size: 24px;
         margin-left: 20px;
+      }
+      p{
+        width: 70%;
+        padding-left: 20px;
       }
     }
   }

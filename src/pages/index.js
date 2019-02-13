@@ -74,6 +74,7 @@ export default class IndexPage extends React.Component {
                   />
                   <div className="article-overlay">
                     <h2>{item.node.frontmatter.title}</h2>
+                    <p>{item.node.frontmatter.description}</p>
                   </div>
                 </div>
               ))}
@@ -112,6 +113,7 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             bg_image
             bg_alt
+            description
           }
         }
       }
