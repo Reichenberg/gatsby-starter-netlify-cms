@@ -29,13 +29,26 @@ export default class Articles extends React.Component {
       <Layout>
         <IndexStyled>
           <header>
-            {' '}
-            <Logo />
+            <Link to="/">
+              <Logo />
+            </Link>
           </header>
           <PoseGroup animateOnMount>
             {posts.map(item => (
-              <FadeIn key={item.node.frontmatter.title}>
-                {item.node.frontmatter.title}
+              <FadeIn className="article" key={item.node.frontmatter.title}>
+                {posts.map((item, i) => (
+                  <div key={item + i}>
+                    <img
+                      src={`${
+                        item.node.frontmatter.bg_image
+                      }/-/resize/700x/-/quality/lighter/`}
+                      alt={item.node.frontmatter.bg_alt}
+                    />
+                    <div className="article-overlay">
+                      <h2>{item.node.frontmatter.title}</h2>
+                    </div>
+                  </div>
+                ))}
               </FadeIn>
             ))}
           </PoseGroup>
@@ -70,6 +83,8 @@ export const pageQuery = graphql`
             title
             templateKey
             date(formatString: "MMMM DD, YYYY")
+            bg_image
+            bg_alt
           }
         }
       }

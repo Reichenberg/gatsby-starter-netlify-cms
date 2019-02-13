@@ -42,26 +42,37 @@ export default class IndexPage extends React.Component {
       <Layout>
         <IndexStyled>
           <header>
-            {' '}
-            <Logo />
+            <Link to="/">
+              <Logo />
+            </Link>
           </header>
           <PoseGroup animateOnMount>
             <FadeIn key={0} className="bio">
               <h1>Welcome To An Account of Life</h1>
               <p>
-                This is where I'll tell you about who I am, or at least who I
-                think I am. No stability for me cause that's overrated. I travel
-                and gather stories to tell my presumptive future grandchildren.
+                Hey
+                <br /> I bet you're wondering why I led you here.
+                <br /> Or not. <br />
+                Here's some words though. This is where I'll tell you about who
+                I am, or at least who I think I am. No stability for me cause
+                that's overrated. I travel and gather stories to tell my
+                presumptive future grandchildren.
               </p>
               <div className="social-links" />
             </FadeIn>
             <FadeIn className="featured-header" key={1}>
               <h2>Featured</h2>
             </FadeIn>
-            <FadeUp key={2}>
+            <FadeUp className="article" key={2}>
               {posts.map((item, i) => (
                 <div key={item + i}>
-                  <div>
+                  <img
+                    src={`${
+                      item.node.frontmatter.bg_image
+                    }/-/resize/700x/-/quality/lighter/`}
+                    alt={item.node.frontmatter.bg_alt}
+                  />
+                  <div className="article-overlay">
                     <h2>{item.node.frontmatter.title}</h2>
                   </div>
                 </div>
@@ -99,9 +110,8 @@ export const pageQuery = graphql`
             title
             templateKey
             date(formatString: "MMMM DD, YYYY")
-            bg_image {
-              relativePath
-            }
+            bg_image
+            bg_alt
           }
         }
       }

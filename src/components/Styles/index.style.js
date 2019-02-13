@@ -31,10 +31,33 @@ const IndexStyled = styled.div`
     margin: 0;
   }
 
+  .article {
+    margin: 0;
+    position: relative;
+    img {
+      width: 100%;
+    }
+
+    .article-overlay {
+      bottom: 0;
+      height: 100px;
+      width: 100%;
+      background-color: rgba(0, 0, 0, 0.85);
+      position: absolute;
+      h2 {
+        margin: 0;
+        font-size: 24px;
+        margin-left: 20px;
+      }
+    }
+  }
+
   .featured-header {
     h2 {
       margin: 0;
       margin-top: 35px;
+      font-size: 28px;
+      margin-bottom: 10px;
     }
   }
 

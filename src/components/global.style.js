@@ -11,13 +11,14 @@ body{
 
   h1{
       text-align: center;
-      font-family: Domus Titling;
+      font-family: domus titling extralight;
       font-size: 30px;
     font-weight: lighter;
   }
 
   h2{
-      font-size: 24px;
+    font-family: domus titling extralight;
+      font-size: 28px;
       font-weight: lighter;
   }
 
@@ -33,6 +34,27 @@ button{
         outline: none;
     }
 }
+
+.article {
+    margin: 0;
+    position: relative;
+    img {
+      width: 100%;
+    }
+
+    .article-overlay {
+      bottom: 0;
+      height: 100px;
+      width: 100%;
+      background-color: rgba(0, 0, 0, 0.85);
+      position: absolute;
+      h2 {
+        margin: 0;
+        font-size: 24px;
+        margin-left: 20px;
+      }
+    }
+  }
 
 
 

@@ -2,7 +2,7 @@ import React from 'react';
 import Helmet from 'react-helmet';
 import { StaticQuery, graphql } from 'gatsby';
 import styled from 'styled-components';
-import bgVideo from '../img/bgVideo.mp4';
+import bgVideo from '../img/bgVideo4.mp4';
 import GlobalStyles from './global.style';
 import Navbar from '../components/Navbar';
 
