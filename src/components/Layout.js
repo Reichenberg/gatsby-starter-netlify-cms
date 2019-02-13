@@ -71,7 +71,7 @@ const TemplateWrapper = ({ children }) => (
           loop
           id="myVideo"
           playbackrate={100}
-          poster="https://ucarecdn.com/6432c723-f130-4f3a-bc3e-a3bae06251d6/-/resize/600x/-/quality/light/"
+          poster="https://ucarecdn.com/6432c723-f130-4f3a-bc3e-a3bae06251d6/-/resize/600x/-/quality/lighter/"
         >
           <source src={bgVideo} type="video/mp4" />
         </video>
