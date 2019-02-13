@@ -11,7 +11,7 @@ body{
 
   h1{
       text-align: center;
-      font-family: Domus Titling;
+      font-family: domus titling;
       font-size: 30px;
     font-weight: lighter;
   }
