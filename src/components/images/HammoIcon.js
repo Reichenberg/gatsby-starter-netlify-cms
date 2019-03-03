@@ -2,18 +2,18 @@ import React from 'react';
 import posed from 'react-pose';
 
 const RotateLine1Posed = posed.line({
-  open: { transform: 'translate(327.025 617.5) rotate(45)' },
-  closed: { transform: 'translate(327.025 616.08) rotate(0)' },
+  open: { transform: 'translate(327.025 617.5) rotate(45)', stroke: '#292929' },
+  closed: { transform: 'translate(327.025 616.08) rotate(0)', stroke: '#fff' },
 });
 
 const HideLine2Posed = posed.line({
   open: { stroke: 'rgba(0,0,0,0)' },
-  closed: { stroke: '#292929' },
+  closed: { stroke: '#fff' },
 });
 
 const RotateLine3Posed = posed.line({
-  open: { transform: 'translate(327.025 632) rotate(-45)' },
-  closed: { transform: 'translate(327.025 632.646) rotate(0)' },
+  open: { transform: 'translate(327.025 632) rotate(-45)', stroke: '#292929' },
+  closed: { transform: 'translate(327.025 632.646) rotate(0)', stroke: '#fff' },
 });
 
 export default function HammoIcon({ open }) {
@@ -32,17 +32,18 @@ export default function HammoIcon({ open }) {
           x2="20.478"
           transform="translate(327.025 616.08) rotate(0)"
           fill="none"
-          stroke="#292929"
+          stroke="#fff"
           strokeLinecap="round"
           strokeWidth="3"
         />
         <HideLine2Posed
+          pose={open ? 'open' : 'closed'}
           id="Line_2"
           data-name="Line 2"
           x2="20.478"
           transform="translate(327.025 624.363) rotate(0)"
           fill="none"
-          stroke="#292929"
+          stroke="#fff"
           strokeLinecap="round"
           strokeWidth="3"
         />
@@ -53,7 +54,7 @@ export default function HammoIcon({ open }) {
           x2="20.478"
           transform="translate(327.025 632.646) rotate(0)"
           fill="none"
-          stroke="#292929"
+          stroke="#fff"
           strokeLinecap="round"
           strokeWidth="3"
         />

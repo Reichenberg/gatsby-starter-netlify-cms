@@ -11,16 +11,16 @@ import Youtube from './images/Youtube';
 
 const NavPosed = posed.div({
   open: {
-    width: '75%',
-    height: '100%',
-    borderTopLeftRadius: '0px',
+    x: '0',
+    y: '0',
+    opacity: 1,
     ease: 'anticipate',
     transition: { duration: 200 },
   },
   closed: {
-    width: '75px',
-    height: '75px',
-    borderTopLeftRadius: '5px',
+    x: '100%',
+    y: '100%',
+    opacity: 0.25,
     ease: 'backIn',
     transition: { duration: 200 },
   },
@@ -60,9 +60,9 @@ const FixedNavStyled = styled.div`
     bottom: 0;
     right: 0;
     z-index: 3;
-    width: 75px;
-    height: 75px;
-    background-color: #eaeaea;
+    width: 80%;
+    height: 100%;
+    background-color: rgb(234, 234, 234, 0.9);
     opacity: 0.98;
     box-shadow: -5px -5px 20px rgba(0, 0, 0, 0.2);
     .logo {
@@ -107,13 +107,6 @@ const FixedNavStyled = styled.div`
         margin-right: 15px;
       }
     }
-    button {
-      width: 75px;
-      height: 75px;
-      position: fixed;
-      bottom: 0;
-      right: 0;
-    }
 
     .ham-icon {
       width: 100%;
@@ -125,20 +118,18 @@ const FixedNavStyled = styled.div`
   }
 `;
 class Navbar extends Component {
-  constructor() {
-    super();
+  constructor(props) {
+    super(props);
     this.state = {
-      open: false,
+      open: this.props.open,
     };
   }
 
-  toggleModal = () => {
-    const { open } = this.state;
-
+  componentWillReceiveProps(nextProps) {
     this.setState({
-      open: open ? false : true,
+      open: nextProps.open,
     });
-  };
+  }
 
   render() {
     const { open } = this.state;
@@ -179,12 +170,6 @@ class Navbar extends Component {
               <Youtube />
             </SocialIconPosed>
           </SocialLinksPosed>
-          <button onClick={this.toggleModal}>
-            <div className="ham-icon">
-              <HammoIcon open={open} />
-              {/* pass active prop to icon to use POSE to translate it to other icon */}
-            </div>
-          </button>
         </NavPosed>
       </FixedNavStyled>
     );

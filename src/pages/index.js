@@ -36,8 +36,13 @@ const FadeUp = posed.section({
 });
 
 export default class IndexPage extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {};
+  }
   render() {
     const { data } = this.props;
+    console.log(this.props);
     const { edges: posts } = data.allMarkdownRemark;
 
     return (
