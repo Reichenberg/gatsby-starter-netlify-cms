@@ -5,9 +5,6 @@ import styled from 'styled-components';
 import bgVideo from '../img/bgVideo4.mp4';
 import GlobalStyles from './global.style';
 import Navbar from '../components/Navbar';
-import Instagram from '../components/images/Instagram';
-import Youtube from '../components/images/Youtube';
-import Pinterest from '../components/images/Pinterest';
 import HammoIcon from './images/HammoIcon';
 
 const ContentStyled = styled.div`

@@ -1,44 +1,18 @@
 import React from 'react';
-import PropTypes from 'prop-types';
-import { kebabCase } from 'lodash';
-import Helmet from 'react-helmet';
 import { graphql, Link } from 'gatsby';
 import Layout from '../components/Layout';
 
-export const BlogPostTemplate = ({
-  content,
-  contentComponent,
-  description,
-  tags,
-  title,
-  helmet,
-}) => {
-  const PostContent = contentComponent || Content;
+export default class BlogPostTemplate extends React.Component {
+  render() {
+    const { markdownRemark: post } = this.props.data;
 
-  return <></>;
-};
-
-BlogPostTemplate.propTypes = {
-  content: PropTypes.node.isRequired,
-  contentComponent: PropTypes.func,
-  description: PropTypes.string,
-  title: PropTypes.string,
-  helmet: PropTypes.object,
-};
-
-const BlogPost = ({ data }) => {
-  const { markdownRemark: post } = data;
-
-  return <Layout />;
-};
-
-BlogPost.propTypes = {
-  data: PropTypes.shape({
-    markdownRemark: PropTypes.object,
-  }),
-};
-
-export default BlogPost;
+    return (
+      <Layout>
+        <div dangerouslySetInnerHTML={{ __html: post.html }} />
+      </Layout>
+    );
+  }
+}
 
 export const pageQuery = graphql`
   query BlogPostByID($id: String!) {
@@ -50,6 +24,9 @@ export const pageQuery = graphql`
         title
         description
         tags
+        author
+        bg_image
+        bg_alt
       }
     }
   }

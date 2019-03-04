@@ -83,7 +83,7 @@ export default class IndexPage extends React.Component {
             </FadeIn>
             <FadeUp className="article" key={2}>
               {posts.map((item, i) => (
-                <div key={item + i}>
+                <Link key={item + i} to={item.node.fields.slug}>
                   <img
                     src={`${
                       item.node.frontmatter.bg_image
@@ -101,7 +101,7 @@ export default class IndexPage extends React.Component {
                         : item.node.frontmatter.description}
                     </p>
                   </div>
-                </div>
+                </Link>
               ))}
             </FadeUp>
           </PoseGroup>
