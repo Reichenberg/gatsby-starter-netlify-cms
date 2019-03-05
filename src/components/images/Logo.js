@@ -24,7 +24,7 @@ const LogoPosed = posed.svg({
   },
 });
 
-function Logo(props) {
+function Logo({ scale }) {
   return (
     <PoseGroup animateOnMount>
       <LogoPosed
@@ -33,6 +33,7 @@ function Logo(props) {
         width="266"
         height="87.282"
         viewBox="0 0 266 87.282"
+        transform={`scale(${scale})`}
       >
         <defs>
           <filter
@@ -95,6 +96,11 @@ function Logo(props) {
   );
 }
 
-Logo.propTypes = {};
+Logo.propTypes = {
+  scale: PropTypes.number,
+};
 
+Logo.defaultProps = {
+  scale: 1,
+};
 export default Logo;

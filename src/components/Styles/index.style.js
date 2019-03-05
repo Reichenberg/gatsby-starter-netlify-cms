@@ -4,15 +4,16 @@ import posed from 'react-pose';
 const IndexStyled = styled.div`
   display: flex;
   flex-direction: column;
+
   header {
     width: 100%;
     flex: 1;
-    svg {
-      display: block;
-      width: 90%;
-      margin-left: auto;
-      margin-right: auto;
-      margin-top: 20px;
+    position: fixed;
+    top: 0;
+    align-content: center;
+    .logo-pos {
+      display: flex;
+      justify-content: center;
     }
   }
 
@@ -36,6 +37,7 @@ const IndexStyled = styled.div`
   }
 
   .bio {
+    margin-top: 75px;
     h1 {
       text-shadow: 0px 0px 6px #000;
       line-height: 1.3;

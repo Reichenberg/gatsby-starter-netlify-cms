@@ -35,24 +35,52 @@ const FadeUp = posed.section({
   exit: { opacity: 0, y: 50 },
 });
 
+const HeaderPosed = posed.header({
+  scrolled: { backgroundColor: 'rgba(0,0,0,.5)' },
+  atTop: { backgroundColor: 'rgba(0,0,0,0)' },
+});
+const LogoPosed = posed.div({
+  scrolled: { scale: 0.5, justifyContent: 'left' },
+  atTop: { scale: 1, left: 0 },
+});
+
 export default class IndexPage extends React.Component {
   constructor(props) {
     super(props);
-    this.state = {};
+    this.state = { scrolled: false };
   }
+  componentDidMount() {
+    window.addEventListener('scroll', this.handleScroll);
+  }
+
+  componentWillUnmount() {
+    window.removeEventListener('scroll', this.handleScroll);
+  }
+  handleScroll = event => {
+    let scrollTop = event.srcElement.scrollingElement.scrollTop;
+    this.setState({
+      scrolled: scrollTop > 32 ? true : false,
+    });
+  };
+
   render() {
     const { data } = this.props;
-    console.log(this.props);
+    const { scrolled } = this.state;
     const { edges: posts } = data.allMarkdownRemark;
 
     return (
       <Layout>
         <IndexStyled>
-          <header>
+          <HeaderPosed pose={scrolled ? 'scrolled' : 'atTop'}>
             <Link to="/">
-              <Logo />
+              <LogoPosed
+                className="logo-pos"
+                pose={scrolled ? 'scrolled' : 'atTop'}
+              >
+                <Logo />
+              </LogoPosed>
             </Link>
-          </header>
+          </HeaderPosed>
           <PoseGroup animateOnMount>
             <FadeIn key={0} className="bio">
               <h1>Welcome To An Account of Life</h1>
