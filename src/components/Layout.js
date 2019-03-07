@@ -8,6 +8,8 @@ import Navbar from '../components/Navbar';
 import HammoIcon from './images/HammoIcon';
 import posed from 'react-pose'
 import Logo from '../components/images/Logo';
+import bgPortait from '../img/test-portait.jpg'
+import {withSize} from 'react-sizeme'
 
 
 const HeaderPosed = posed.header({
@@ -47,14 +49,15 @@ const ContentStyled = styled.div`
       margin-right: auto;}
     }
   }
-/* 
+
   .overlay {
-    position: fixed;
+   position: fixed;
+    right: 0;
     height: 100vh;
-    width: 100vw;
-    background-color: rgba(0, 0, 0, 0.35);
     z-index: 0;
-  } */
+    width: 100%;
+    background-color: rgba(0,0,0,.45);
+  }
 
   .content {
     padding-top: 120px;
@@ -166,9 +169,10 @@ class TemplateWrapper extends Component {
               </LogoPosed>
             </Link>
           </HeaderPosed>
-            <video autoPlay muted loop id="myVideo" playbackrate={100}>
+            {/* <video autoPlay muted loop id="myVideo" playbackrate={100}>
               <source src={bgVideo} type="video/mp4" />
-            </video>
+            </video> */}
+            <img src={bgPortait} id="myVideo"></img>
             <div className="overlay" />
             <div className="content">{this.props.children}</div>
            

@@ -19,16 +19,26 @@ const ArticleStyled = styled.div`
 .post-content{
   z-index: 3;
   /* determine dynamic space to allow for image */
-  margin-top: 120px;
+  margin-top: 105px;
   position: relative;
 
 .post-title{
   padding-left: 20px;
+  background-color: rgba(0,0,0,.35);
+  height: 90px;
+  h2{
+    padding: 0;
+    margin: 0;
+  }
 }
+
 .post-html{
   background-color: #FDFDFD;
   color: black;
-  
+  p{
+    margin: 0;
+    padding: 0;
+  }
   img{
     width: 100vw;
   }
