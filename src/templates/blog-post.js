@@ -1,14 +1,55 @@
 import React from 'react';
 import { graphql, Link } from 'gatsby';
 import Layout from '../components/Layout';
+import styled from 'styled-components';
+
+const ArticleStyled = styled.div`
+
+.bg-image{
+  position: fixed;
+  z-index: 2;
+  top: 0;
+  width: 150%;
+  overflow: hidden;
+  background-size: contain;
+  padding-bottom: 84%;
+  background-position-x: center;
+}
+
+.post-content{
+  z-index: 3;
+  /* determine dynamic space to allow for image */
+  margin-top: 120px;
+  position: relative;
+
+.post-title{
+  padding-left: 20px;
+}
+.post-html{
+  background-color: #FDFDFD;
+  color: black;
+  
+  img{
+    width: 100vw;
+  }
+}
+}
+`;
 
 export default class BlogPostTemplate extends React.Component {
   render() {
     const { markdownRemark: post } = this.props.data;
 
     return (
-      <Layout>
-        <div dangerouslySetInnerHTML={{ __html: post.html }} />
+      <Layout forceOpen={true}>
+        <ArticleStyled>
+        <div className="bg-image" style={{backgroundImage: `url(${post.frontmatter.bg_image})`}}></div>
+        <div className="post-content">
+        <div className="post-title"><h2>{post.frontmatter.title}</h2></div>
+        <div className="post-html" dangerouslySetInnerHTML={{ __html: post.html }} >
+        </div>
+        </div>
+        </ArticleStyled>
       </Layout>
     );
   }

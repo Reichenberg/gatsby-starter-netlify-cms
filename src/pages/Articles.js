@@ -2,8 +2,6 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { Link, graphql } from 'gatsby';
 import Layout from '../components/Layout';
-import styled from 'styled-components';
-import Logo from '../components/images/Logo';
 import IndexStyled from '../components/Styles/index.style';
 import posed, { PoseGroup } from 'react-pose';
 
@@ -28,33 +26,31 @@ export default class Articles extends React.Component {
     return (
       <Layout>
         <IndexStyled>
-          <header>
-            <Link to="/">
-              <Logo />
-            </Link>
-          </header>
+         
           <PoseGroup animateOnMount>
             {posts.map(item => (
               <FadeIn className="article" key={item.node.frontmatter.title}>
-                {posts.map((item, i) => (
-                  <div key={item + i}>
-                    <img
-                      src={`${
-                        item.node.frontmatter.bg_image
-                      }/-/resize/700x/-/quality/lighter/`}
-                      alt={item.node.frontmatter.bg_alt}
-                    />
-                    <div className="article-overlay">
-                      <h2>{item.node.frontmatter.title}</h2>
+                 {posts.map((item, i) => (
+                <Link key={item + i} to={item.node.fields.slug}>
+                  <img
+                    src={`${
+                      item.node.frontmatter.bg_image
+                    }/-/resize/700x/-/quality/lighter/`}
+                    alt={item.node.frontmatter.bg_alt}
+                  />
+                  <div className="article-overlay">
+                    <h2>{item.node.frontmatter.title}</h2>
+                    <p>
                       {item.node.frontmatter.description.length > 140
                         ? `${item.node.frontmatter.description.slice(
                             0,
                             140
                           )} . . .`
                         : item.node.frontmatter.description}
-                    </div>
+                    </p>
                   </div>
-                ))}
+                </Link>
+              ))}
               </FadeIn>
             ))}
           </PoseGroup>

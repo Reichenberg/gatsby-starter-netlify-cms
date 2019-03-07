@@ -1,11 +1,23 @@
 import React, { Component } from 'react';
 import Helmet from 'react-helmet';
-import { StaticQuery, graphql } from 'gatsby';
+import { StaticQuery, graphql, Link } from 'gatsby';
 import styled from 'styled-components';
 import bgVideo from '../img/bgVideo4.mp4';
 import GlobalStyles from './global.style';
 import Navbar from '../components/Navbar';
 import HammoIcon from './images/HammoIcon';
+import posed from 'react-pose'
+import Logo from '../components/images/Logo';
+
+
+const HeaderPosed = posed.header({
+  scrolled: { backgroundColor: 'rgba(233,233,233,.8)' },
+  collapsed: { backgroundColor: 'rgba(0,0,0,0)' },
+});
+const LogoPosed = posed.div({
+  scrolled: { scale: 0.35, x: '-33vw',y: '-20%', transition: {ease: 'linear', duration: 200} },
+  collapsed: { scale: 1, left: 0, x: 0, y: 0 },
+});
 
 const ContentStyled = styled.div`
   #myVideo {
@@ -21,15 +33,31 @@ const ContentStyled = styled.div`
     }
   }
 
+  
+  header {
+    width: 100%;
+    position: fixed;
+    z-index: 3;
+    height: 55px;
+    .logo-pos {
+      
+      display:flex;
+      svg{
+      margin-left: auto;
+      margin-right: auto;}
+    }
+  }
+/* 
   .overlay {
     position: fixed;
     height: 100vh;
     width: 100vw;
     background-color: rgba(0, 0, 0, 0.35);
-    z-index: 1;
-  }
+    z-index: 0;
+  } */
 
   .content {
+    padding-top: 120px;
     position: relative;
     z-index: 2;
   }
@@ -58,8 +86,25 @@ class TemplateWrapper extends Component {
     super(props);
     this.state = {
       open: false,
+      scrolled: false,
+    
     };
   }
+
+  componentDidMount() {
+    window.addEventListener('scroll', this.handleScroll);
+  }
+
+  componentWillUnmount() {
+    window.removeEventListener('scroll', this.handleScroll);
+  }
+  handleScroll = event => {
+    let scrollTop = event.srcElement.scrollingElement.scrollTop;
+    this.setState({
+      scrolled: scrollTop > 34 ? true : false,
+    });
+  };
+
 
   toggleModal = () => {
     const { open } = this.state;
@@ -70,6 +115,8 @@ class TemplateWrapper extends Component {
   };
 
   render() {
+    const {scrolled} = this.state;
+    const {forceOpen} = this.props;
     return (
       <StaticQuery
         query={graphql`
@@ -109,11 +156,22 @@ class TemplateWrapper extends Component {
               />
             </Helmet>
             <GlobalStyles />
+            <HeaderPosed pose={scrolled || forceOpen ? 'scrolled' : 'collapsed'}>
+            <Link to="/">
+              <LogoPosed
+                className="logo-pos"
+                pose={scrolled || forceOpen ? 'scrolled' : 'collapsed'}
+              >
+                <Logo color={scrolled || forceOpen ? '#252525' : '#fff'} />
+              </LogoPosed>
+            </Link>
+          </HeaderPosed>
             <video autoPlay muted loop id="myVideo" playbackrate={100}>
               <source src={bgVideo} type="video/mp4" />
             </video>
             <div className="overlay" />
             <div className="content">{this.props.children}</div>
+           
             <Navbar open={this.state.open} />
             <button
               className={

@@ -5,18 +5,6 @@ const IndexStyled = styled.div`
   display: flex;
   flex-direction: column;
 
-  header {
-    width: 100%;
-    flex: 1;
-    position: fixed;
-    top: 0;
-    align-content: center;
-    .logo-pos {
-      display: flex;
-      justify-content: center;
-    }
-  }
-
   /* Normal sections that fall in standard screen bounds */
   section {
     flex: 1;
@@ -37,7 +25,7 @@ const IndexStyled = styled.div`
   }
 
   .bio {
-    margin-top: 75px;
+
     h1 {
       text-shadow: 0px 0px 6px #000;
       line-height: 1.3;

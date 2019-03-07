@@ -8,12 +8,17 @@ body{
   color: #efefef;
   font-weight: 400;
 
+a{
+  color: white;
+
+}
 
   h1{
       text-align: center;
       font-family: jaf-domus-titling-web;
       font-size: 30px;
     font-weight: lighter;
+    margin: 0;
   }
 
   h2{
