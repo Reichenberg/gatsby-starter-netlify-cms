@@ -8,7 +8,7 @@ import Navbar from '../components/Navbar';
 import HammoIcon from './images/HammoIcon';
 import posed from 'react-pose'
 import Logo from '../components/images/Logo';
-import bgPortait from '../img/test-portait.jpg'
+import bgPortait from '../img/test-portait-mini.jpg'
 import {withSize} from 'react-sizeme'
 
 
