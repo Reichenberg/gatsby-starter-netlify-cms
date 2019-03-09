@@ -80,27 +80,26 @@ export default class IndexPage extends React.Component {
               <h2>Featured</h2>
             </FadeIn>
             <FadeUp className="article featured-article" key={2}>
-              {posts[i].map((item, i) => (
-                <Link key={item + i} to={item.node.fields.slug}>
+                <Link key={0} to={posts[0].node.fields.slug}>
                   <img
                     src={`${
-                      item.node.frontmatter.bg_image
+                      posts[0].node.frontmatter.bg_image
                     }/-/resize/700x/-/quality/lighter/`}
-                    alt={item.node.frontmatter.bg_alt}
+                    alt={posts[0].node.frontmatter.bg_alt}
                   />
                   <div className="article-overlay">
-                    <h2>{item.node.frontmatter.title}</h2>
+                    <h2>{posts[0].node.frontmatter.title}</h2>
                     <p>
-                      {item.node.frontmatter.description.length > 140
-                        ? `${item.node.frontmatter.description.slice(
+                      {posts[0].node.frontmatter.description.length > 140
+                        ? `${posts[0].node.frontmatter.description.slice(
                             0,
                             140
                           )} . . .`
-                        : item.node.frontmatter.description}
+                        : posts[0].node.frontmatter.description}
                     </p>
                   </div>
                 </Link>
-              ))}
+              
             </FadeUp>
           </PoseGroup>
         </IndexStyled>
