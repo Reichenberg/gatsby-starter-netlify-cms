@@ -18,8 +18,8 @@ const HeaderPosed = posed.header({
   scrolled: { backgroundColor: 'rgba(233,233,233,.8)',  transition: {ease: 'easeOut', duration: 200}, boxShadow: '0 0px 10px 5px rgba(0,0,0, .35)' },
   collapsed: { backgroundColor: 'rgba(0,0,0,0)',  transition: {ease: 'easeOut', duration: 200},  boxShadow: 'none'},
   isDesktop: { backgroundColor: 'rgba(233,233,233,.75)',  transition: {ease: 'easeOut', duration: 200},  boxShadow: '0 0px 10px 5px rgba(0,0,0, .35)' },
-
 });
+
 const LogoPosed = posed.div({
   scrolled: { scale: 0.35, alignItems: 'end', transition: {ease: 'linear', duration: 200} },
   collapsed: { scale: 1, alignItems: 'center', },
@@ -32,7 +32,6 @@ const LinksPosed = posed.ul({
     opacity: 1,
     y: 0,
     transition: {  duration: 800, delay: 500, },
-    
   }});
 
 const ContentStyled = styled.div`

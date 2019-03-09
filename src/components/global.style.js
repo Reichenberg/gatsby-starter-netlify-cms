@@ -55,12 +55,13 @@ button{
       display: block-size;
       h2 {
         margin: 0;
-        font-size: 2em;
+        font-size: 24px;
         margin-left: 20px;
       }
       p{
         width: 70%;
         padding-left: 20px;
+        font-size: 12px;
       }
     }
   }
