@@ -21,9 +21,9 @@ const HeaderPosed = posed.header({
 });
 
 const LogoPosed = posed.div({
-  scrolled: { scale: 0.35, alignItems: 'end', transition: {ease: 'linear', duration: 200} },
-  collapsed: { scale: 1, alignItems: 'center', },
-  isDesktop: { scale: .85,alignItems: 'center', transition: {ease: 'linear', duration: 200} },
+  scrolled: { scale: 0.35,  justifyContent: 'baseline' , transition: {ease: 'linear', duration: 200}, },
+  collapsed: { scale: 1, justifyContent: 'center' },
+  isDesktop: { scale: .85, justifyContent: 'baseline' , transition: {ease: 'linear', duration: 200}},
 });
 
 const LinksPosed = posed.ul({
@@ -55,19 +55,17 @@ const ContentStyled = styled.div`
     position: fixed;
     z-index: 3;
     display: flex;
+    .logo-link{
+      flex: 1;
+    }
     
     .logo-pos {
-      display: flex;
-      
-      svg{
-      margin-left: auto;
-      margin-right: auto;
-      padding: 10px 20px;
-      }
+     display: flex;
     
     }
 
     .nav-links {
+      flex: 2;
       position: absolute;
       top: 0;
       right: 20px;
@@ -209,7 +207,7 @@ class TemplateWrapper extends Component {
             </Helmet>
             <GlobalStyles />
             <HeaderPosed pose={size.width > 1023 ? 'isDesktop' : scrolled || forceOpen ? 'scrolled' : 'collapsed'}>
-            <Link to="/">
+            <Link to="/" className="logo-link">
               <LogoPosed
                 className="logo-pos"
                 pose={size.width > 1023 ? 'isDesktop' : scrolled || forceOpen ? 'scrolled' : 'collapsed'}
