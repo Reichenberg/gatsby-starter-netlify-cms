@@ -23,9 +23,8 @@ const ArticleStyled = styled.div`
   position: relative;
 
 .post-title{
-  padding-left: 20px;
+  padding: 10px 20px;
   background-color: rgba(0,0,0,.35);
-  height: 90px;
   h2{
     padding: 0;
     margin: 0;

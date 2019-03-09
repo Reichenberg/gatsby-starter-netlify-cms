@@ -64,7 +64,7 @@ const FixedNavStyled = styled.div`
     height: 100%;
     background-color: rgb(234, 234, 234, 0.9);
     opacity: 0.98;
-    box-shadow: -5px -5px 20px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0px 10px 5px rgba(0,0,0, .35);
     .logo {
       width: 70%;
       margin-left: auto;

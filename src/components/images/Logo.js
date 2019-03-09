@@ -16,10 +16,10 @@ const LinePosed = posed.path({
 });
 
 const LogoPosed = posed.svg({
-  exit: { opacity: 0, y: -100 },
+  exit: { opacity: 0, },
   enter: {
     opacity: 1,
-    y: 0,
+    
     transition: { delay: 300, duration: 700 },
   },
 });

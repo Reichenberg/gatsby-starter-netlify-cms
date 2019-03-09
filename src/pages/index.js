@@ -79,7 +79,7 @@ export default class IndexPage extends React.Component {
             <FadeIn className="featured-header" key={1}>
               <h2>Featured</h2>
             </FadeIn>
-            <FadeUp className="article" key={2}>
+            <FadeUp className="article featured-article" key={2}>
               {posts.map((item, i) => (
                 <Link key={item + i} to={item.node.fields.slug}>
                   <img

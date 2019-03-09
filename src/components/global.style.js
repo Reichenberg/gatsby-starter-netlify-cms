@@ -4,7 +4,7 @@ const GlobalStyles = createGlobalStyle`
 body{
     padding: 0;
   margin: 0;
-  font-family: dinosaur;
+  font-family: dinosaur, sans-serif;
   color: #efefef;
   font-weight: 400;
 
@@ -15,14 +15,14 @@ a{
 
   h1{
       text-align: center;
-      font-family: jaf-domus-titling-web;
-      font-size: 30px;
+      font-family: jaf-domus-titling-web, Arial, Helvetica, sans-serif;
+      font-size: 35px;
     font-weight: lighter;
     margin: 0;
   }
 
   h2{
-    font-family: jaf-domus-titling-web;
+    font-family: jaf-domus-titling-web, Arial, Helvetica, sans-serif;
       font-size: 28px;
       font-weight: lighter;
   }
@@ -55,7 +55,7 @@ button{
       display: block-size;
       h2 {
         margin: 0;
-        font-size: 24px;
+        font-size: 2em;
         margin-left: 20px;
       }
       p{

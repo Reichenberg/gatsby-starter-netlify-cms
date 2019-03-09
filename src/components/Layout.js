@@ -9,24 +9,39 @@ import HammoIcon from './images/HammoIcon';
 import posed from 'react-pose'
 import Logo from '../components/images/Logo';
 import bgPortait from '../img/test-portait-mini.jpg'
+import bgLandscape from '../img/test-landscape.jpg'
 import {withSize} from 'react-sizeme'
+import { PoseGroup } from 'react-pose';
 
 
 const HeaderPosed = posed.header({
-  scrolled: { backgroundColor: 'rgba(233,233,233,.8)' },
-  collapsed: { backgroundColor: 'rgba(0,0,0,0)' },
+  scrolled: { backgroundColor: 'rgba(233,233,233,.8)',  transition: {ease: 'easeOut', duration: 200} },
+  collapsed: { backgroundColor: 'rgba(0,0,0,0)',  transition: {ease: 'easeOut', duration: 200}},
+  isDesktop: { backgroundColor: 'rgba(233,233,233,.75)',  transition: {ease: 'easeOut', duration: 200} },
+
 });
 const LogoPosed = posed.div({
-  scrolled: { scale: 0.35, x: '-33vw',y: '-20%', transition: {ease: 'linear', duration: 200} },
-  collapsed: { scale: 1, left: 0, x: 0, y: 0 },
+  scrolled: { scale: 0.35, alignItems: 'end', transition: {ease: 'linear', duration: 200} },
+  collapsed: { scale: 1, alignItems: 'center', },
+  isDesktop: { scale: .85,alignItems: 'center', transition: {ease: 'linear', duration: 200} },
 });
+
+const LinksPosed = posed.ul({
+  exit: { opacity: 1, y: -300 },
+  enter: {
+    opacity: 1,
+    y: 0,
+    transition: {  duration: 800, delay: 500, },
+    
+  }});
 
 const ContentStyled = styled.div`
   #myVideo {
     position: fixed;
-    right: 0;
     height: 100vh;
+    width: 100vw;
     z-index: 0;
+    background-position-x: center;
 
     @media only screen and (min-width: 1023px) {
       width: 100vw;
@@ -37,16 +52,44 @@ const ContentStyled = styled.div`
 
   
   header {
-    width: 100%;
+    width: 100vw;
     position: fixed;
     z-index: 3;
-    height: 55px;
+    display: flex;
+    box-shadow: 0 0px 10px 5px rgba(0,0,0, .35);
+    
     .logo-pos {
+      display: flex;
       
-      display:flex;
       svg{
       margin-left: auto;
-      margin-right: auto;}
+      margin-right: auto;
+      padding: 10px 20px;
+      }
+    
+    }
+
+    .nav-links {
+      position: absolute;
+      top: 0;
+      right: 20px;
+      list-style-type: none;
+      font-size: 26px;
+      text-align: right;
+      opacity: 0;
+      padding: 0;
+      margin: 0;
+      li {
+        height: 45px;
+        float: left;
+        padding: 40px 20px;
+      }
+
+      a {
+        text-decoration: none;
+        color: #676767;
+        font-size: 26px;
+      }
     }
   }
 
@@ -63,6 +106,9 @@ const ContentStyled = styled.div`
     padding-top: 120px;
     position: relative;
     z-index: 2;
+    @media only screen and (min-width: 1023px){
+      padding-top: 250px;
+    }
   }
 
   .nav-button {
@@ -74,9 +120,12 @@ const ContentStyled = styled.div`
     z-index: 4;
     background-color: rgba(234, 234, 234, 0.5);
     border-top-left-radius: 5px;
+    box-shadow: 0 0px 10px 5px rgba(0,0,0, .35);
   }
   .closed {
     background-color: rgba(234, 234, 234, 0);
+    box-shadow: none;
+
   }
 
   background-color: rgb(200, 200, 200);
@@ -89,8 +138,7 @@ class TemplateWrapper extends Component {
     super(props);
     this.state = {
       open: false,
-      scrolled: false,
-    
+      scrolled: false
     };
   }
 
@@ -109,6 +157,8 @@ class TemplateWrapper extends Component {
   };
 
 
+
+
   toggleModal = () => {
     const { open } = this.state;
 
@@ -119,7 +169,8 @@ class TemplateWrapper extends Component {
 
   render() {
     const {scrolled} = this.state;
-    const {forceOpen} = this.props;
+    const { size, forceOpen} = this.props;
+
     return (
       <StaticQuery
         query={graphql`
@@ -159,24 +210,39 @@ class TemplateWrapper extends Component {
               />
             </Helmet>
             <GlobalStyles />
-            <HeaderPosed pose={scrolled || forceOpen ? 'scrolled' : 'collapsed'}>
+            <HeaderPosed pose={size.width > 1023 ? 'isDesktop' : scrolled || forceOpen ? 'scrolled' : 'collapsed'}>
             <Link to="/">
               <LogoPosed
                 className="logo-pos"
-                pose={scrolled || forceOpen ? 'scrolled' : 'collapsed'}
+                pose={size.width > 1023 ? 'isDesktop' : scrolled || forceOpen ? 'scrolled' : 'collapsed'}
               >
-                <Logo color={scrolled || forceOpen ? '#252525' : '#fff'} />
+                <Logo color={scrolled || forceOpen || size.width > 1023 ? '#252525' : '#fff'} />
               </LogoPosed>
             </Link>
+            { size.width > 1023 &&
+            <PoseGroup animateOnMount>
+            <LinksPosed key={0} className="nav-links">
+            <li>
+              <Link to="/Articles">Articles</Link>
+            </li>
+            <li>
+              <a href="https://www.instagram.com/just_berg/" target="_blank">Photos</a>
+            </li>
+            <li>
+              <Link>Work With Me</Link>
+            </li>
+            </LinksPosed>
+            </PoseGroup>
+            }
           </HeaderPosed>
             {/* <video autoPlay muted loop id="myVideo" playbackrate={100}>
               <source src={bgVideo} type="video/mp4" />
             </video> */}
-            <img src={bgPortait} id="myVideo"></img>
+            <img src={size.width > 762 ? bgLandscape : bgPortait} id="myVideo"></img>
             <div className="overlay" />
             <div className="content">{this.props.children}</div>
            
-            <Navbar open={this.state.open} />
+            { size.width < 1024 && (<><Navbar open={this.state.open} />
             <button
               className={
                 !this.state.open ? ' nav-button' : ' closed nav-button'
@@ -187,7 +253,7 @@ class TemplateWrapper extends Component {
                 <HammoIcon open={this.state.open} />
                 {/* pass active prop to icon to use POSE to translate it to other icon */}
               </div>
-            </button>
+            </button></>)}
           </ContentStyled>
         )}
       />
@@ -195,4 +261,4 @@ class TemplateWrapper extends Component {
   }
 }
 
-export default TemplateWrapper;
+export default withSize()(TemplateWrapper);
