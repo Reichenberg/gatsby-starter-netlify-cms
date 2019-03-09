@@ -15,9 +15,9 @@ import { PoseGroup } from 'react-pose';
 
 
 const HeaderPosed = posed.header({
-  scrolled: { backgroundColor: 'rgba(233,233,233,.8)',  transition: {ease: 'easeOut', duration: 200} },
-  collapsed: { backgroundColor: 'rgba(0,0,0,0)',  transition: {ease: 'easeOut', duration: 200}},
-  isDesktop: { backgroundColor: 'rgba(233,233,233,.75)',  transition: {ease: 'easeOut', duration: 200} },
+  scrolled: { backgroundColor: 'rgba(233,233,233,.8)',  transition: {ease: 'easeOut', duration: 200}, boxShadow: '0 0px 10px 5px rgba(0,0,0, .35)' },
+  collapsed: { backgroundColor: 'rgba(0,0,0,0)',  transition: {ease: 'easeOut', duration: 200},  boxShadow: 'none'},
+  isDesktop: { backgroundColor: 'rgba(233,233,233,.75)',  transition: {ease: 'easeOut', duration: 200},  boxShadow: '0 0px 10px 5px rgba(0,0,0, .35)' },
 
 });
 const LogoPosed = posed.div({
@@ -56,7 +56,6 @@ const ContentStyled = styled.div`
     position: fixed;
     z-index: 3;
     display: flex;
-    box-shadow: 0 0px 10px 5px rgba(0,0,0, .35);
     
     .logo-pos {
       display: flex;
