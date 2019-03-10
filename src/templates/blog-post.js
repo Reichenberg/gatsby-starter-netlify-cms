@@ -11,9 +11,9 @@ const ArticleStyled = styled.div`
   top: 0;
   width: 150%;
   overflow: hidden;
-  background-size: contain;
+  background-size: 100vw;
   padding-bottom: 84%;
-  background-position-x: center;
+  background-repeat: no-repeat;
 }
 
 .post-content{
@@ -34,12 +34,35 @@ const ArticleStyled = styled.div`
 .post-html{
   background-color: #FDFDFD;
   color: black;
+  .article-text{
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-bottom: 40px;
+    box-shadow: 0px 5px 10px rgba(0,0,0,.35);
+    position: relative;
+    p{
+    margin: 0;
+    padding: 0;
+    width: 80%;
+  }
+    h2{
+      margin-top: 35px;
+      margin-bottom: 20px;
+      font-size: 18px;
+    }
+ 
+    
+  }
+  
   p{
     margin: 0;
     padding: 0;
   }
+
   img{
-    width: 100vw;
+    width: 100%;
+    box-shadow: inset 0 0 16px 5px rgba(0,0,0, .80);
+
   }
 }
 }

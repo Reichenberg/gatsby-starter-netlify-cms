@@ -16,7 +16,7 @@ import { PoseGroup } from 'react-pose';
 
 const HeaderPosed = posed.header({
   scrolled: { backgroundColor: 'rgba(233,233,233,.8)',  transition: {ease: 'easeOut', duration: 200}, boxShadow: '0 0px 10px 5px rgba(0,0,0, .35)' },
-  collapsed: { backgroundColor: 'rgba(0,0,0,0)',  transition: {ease: 'easeOut', duration: 200},  boxShadow: 'none'},
+  collapsed: { backgroundColor: 'rgba(0,0,0,0)',  transition: {ease: 'easeOut', duration: 200},  boxShadow: '0 0px 10px 5px rgba(0,0,0, 0)'},
   isDesktop: { backgroundColor: 'rgba(233,233,233,.75)',  transition: {ease: 'easeOut', duration: 200},  boxShadow: '0 0px 10px 5px rgba(0,0,0, .35)' },
 });
 

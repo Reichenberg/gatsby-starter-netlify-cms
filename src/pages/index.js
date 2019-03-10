@@ -7,6 +7,7 @@ import posed, { PoseGroup } from 'react-pose';
 import Instagram from '../components/images/Instagram';
 import Youtube from '../components/images/Youtube';
 import Pinterest from '../components/images/Pinterest';
+import { ParallaxProvider, Parallax  } from 'react-scroll-parallax';
 
 const FadeIn = posed.section({
   enter: {
@@ -49,8 +50,9 @@ export default class IndexPage extends React.Component {
 
     return (
       <Layout>
+        
         <IndexStyled>
-         
+         <ParallaxProvider>
           <PoseGroup animateOnMount>
             <FadeIn key={0} className="bio">
               <h1>Welcome To An Account of Life</h1>
@@ -81,10 +83,11 @@ export default class IndexPage extends React.Component {
             </FadeIn>
             <FadeUp className="article featured-article" key={2}>
                 <Link key={0} to={posts[0].node.fields.slug}>
+                <Parallax y={[0, -30]}>
                   <img
                     src={`${
                       posts[0].node.frontmatter.bg_image
-                    }/-/resize/700x/-/quality/lighter/`}
+                    }/-/resize/1000x/-/quality/lighter/`}
                     alt={posts[0].node.frontmatter.bg_alt}
                   />
                   <div className="article-overlay">
@@ -98,10 +101,39 @@ export default class IndexPage extends React.Component {
                         : posts[0].node.frontmatter.description}
                     </p>
                   </div>
+                  </Parallax>
+
                 </Link>
-              
             </FadeUp>
+            
+            
           </PoseGroup>
+          <div className="article-list">
+                 {posts.map((item, i) => (
+              <div className="article" key={item.node.frontmatter.title}>
+                <Link key={item + i} to={item.node.fields.slug}>
+                  <img
+                    src={`${
+                      item.node.frontmatter.bg_image
+                    }/-/resize/700x/-/quality/lighter/`}
+                    alt={item.node.frontmatter.bg_alt}
+                  />
+                  <div className="article-overlay">
+                    <h2>{item.node.frontmatter.title}</h2>
+                    <p>
+                      {item.node.frontmatter.description.length > 140
+                        ? `${item.node.frontmatter.description.slice(
+                            0,
+                            140
+                          )} . . .`
+                        : item.node.frontmatter.description}
+                    </p>
+                  </div>
+                </Link>
+                </div>
+              ))}
+          </div>
+          </ParallaxProvider>
         </IndexStyled>
       </Layout>
     );

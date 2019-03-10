@@ -22,6 +22,7 @@ const IndexStyled = styled.div`
     @media only screen and (min-width: 1023px){
       width: 80%;
     }
+    overflow: hidden;
   }
 
   .featured-header {
@@ -58,6 +59,17 @@ const IndexStyled = styled.div`
         margin: 10px;
       }
     }
+
+
+  }
+
+  .article-list{
+    display:flex;
+    width: 100vw;
+    flex-wrap: wrap;
+     .article{
+       width: 50%;
+     }
   }
 `;
 

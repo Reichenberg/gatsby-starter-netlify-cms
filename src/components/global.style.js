@@ -43,8 +43,11 @@ button{
 .article {
     margin: 0 !important;
     position: relative;
+    overflow: hidden;
     img {
-      width: 100%;
+      width: 120%;
+      margin-left: auto;
+      margin-right: auto;
     }
 
     .article-overlay {
@@ -57,6 +60,7 @@ button{
         margin: 0;
         font-size: 24px;
         margin-left: 20px;
+        line-height: 1;
       }
       p{
         width: 70%;
