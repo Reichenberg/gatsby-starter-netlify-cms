@@ -10,7 +10,7 @@ tags:
   - hamburg
   - article
 ---
-<div className="article-text">
+<div class="article-text">
 <h2>Finding the train!</h2>
 <p>
 Not too hard in Gothenborg!
@@ -19,13 +19,9 @@ Follow these nifty signs.
 </p>
 </div>
 
-<div className="article-image">
-
 ![test text](https://ucarecdn.com/d1a49396-ba1d-4625-b186-c63d73731489/)
 
-</div>
-
-<div className="article-text">
+<div class="article-text">
 <h2>Finding the train!</h2>
 <p>
 Not too hard in Gothenborg!
