@@ -12,7 +12,7 @@ tags:
   - test
   - experience
 ---
-<div>
+<div class="article-text">
 <h2 id="1">Finding the train!</h2>
 <p>
 Not too hard in Gothenborg!
@@ -23,7 +23,7 @@ Follow these nifty signs.
 
 ![tunnel](https://ucarecdn.com/9a4a6534-9c6f-4e03-b1aa-f4eec8807537/)
 
-<div>
+<div class="article-text">
 <h2 id="2">Finding the train!</h2>
 <p>
 Not too hard in Gothenborg!
