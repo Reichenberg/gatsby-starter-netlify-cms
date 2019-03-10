@@ -12,12 +12,8 @@ description: >-
 tags:
   - bio
 ---
-<div><p>
+<div class="article-text"><p>
 This is a test to see if I can actually type some stuff
 </p></div>
 
-<div className="blog-image">
-
 ![some food I made](https://ucarecdn.com/858ce04a-b5fc-4db0-97c8-bc67d7527bf0/ "my food again")
-
-</div>
