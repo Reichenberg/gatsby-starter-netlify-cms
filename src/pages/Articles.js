@@ -5,17 +5,22 @@ import Layout from '../components/Layout';
 import IndexStyled from '../components/Styles/index.style';
 import posed, { PoseGroup } from 'react-pose';
 
-const FadeIn = posed.section({
+const FadeIn = posed.div({
+  enter: {staggerChildren: 500
+    
+  },
+  exit: { staggerChildren: 500 },
+});
+const ChildTest = posed.div({
   enter: {
     opacity: 1,
-    y: 0,
+    x: 0,
     transition: {
-      delay: 700,
-      ease: 'easeOut',
-      duration: 1000,
+      
+      duration: 500,
     },
   },
-  exit: { opacity: 0, y: 20 },
+  exit: { opacity: .35, x: '-100vw' },
 });
 
 export default class Articles extends React.Component {
@@ -28,9 +33,9 @@ export default class Articles extends React.Component {
         <IndexStyled>
          
           <PoseGroup animateOnMount>
-            {posts.map(item => (
-              <FadeIn className="article" key={item.node.frontmatter.title}>
+          <FadeIn key={0} className="article-list">
                  {posts.map((item, i) => (
+              <ChildTest className="article" key={item.node.frontmatter.title}>
                 <Link key={item + i} to={item.node.fields.slug}>
                   <img
                     src={`${
@@ -50,9 +55,9 @@ export default class Articles extends React.Component {
                     </p>
                   </div>
                 </Link>
+                </ChildTest>
               ))}
-              </FadeIn>
-            ))}
+          </FadeIn>
           </PoseGroup>
         </IndexStyled>
       </Layout>

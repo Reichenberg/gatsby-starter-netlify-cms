@@ -39,6 +39,14 @@ button{
         outline: none;
     }
 }
+.article-list{
+    display:flex;
+    width: 100vw;
+    flex-wrap: wrap;
+     .article{
+       width: 50%;
+     }
+  }
 
 .article {
     margin: 0 !important;
@@ -56,9 +64,10 @@ button{
       background-color: rgba(0, 0, 0, 0.75);
       position: absolute;
       display: block-size;
+      max-height: 100px;
       h2 {
         margin: 0;
-        font-size: 24px;
+        font-size: 18px;
         margin-left: 20px;
         line-height: 1;
       }

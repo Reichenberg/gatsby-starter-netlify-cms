@@ -63,14 +63,7 @@ const IndexStyled = styled.div`
 
   }
 
-  .article-list{
-    display:flex;
-    width: 100vw;
-    flex-wrap: wrap;
-     .article{
-       width: 50%;
-     }
-  }
+
 `;
 
 export default IndexStyled;

@@ -83,7 +83,7 @@ export default class IndexPage extends React.Component {
             </FadeIn>
             <FadeUp className="article featured-article" key={2}>
                 <Link key={0} to={posts[0].node.fields.slug}>
-                <Parallax y={[0, -30]}>
+                <Parallax y={[10, -20]}>
                   <img
                     src={`${
                       posts[0].node.frontmatter.bg_image
