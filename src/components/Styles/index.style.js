@@ -4,7 +4,8 @@ const IndexStyled = styled.div`
   display: flex;
   flex-direction: column;
   @media only screen and (min-width: 1023px){
-    align-items: center;
+    align-items: left;
+    margin-left: 60px;
     }
   /* Normal sections that fall in standard screen bounds */
   section {
@@ -19,8 +20,10 @@ const IndexStyled = styled.div`
   }
 
   .featured-article{
+   justify-content: end;
     @media only screen and (min-width: 1023px){
-      width: 80%;
+        
+        width: 50%;
     }
     overflow: hidden;
   }
@@ -63,7 +66,14 @@ const IndexStyled = styled.div`
 
   }
 
-
+  .article-list{
+    display:flex;
+    width: 100vw;
+    flex-wrap: wrap;
+     .article{
+       width: 50%;
+     }
+  }
 `;
 
 export default IndexStyled;

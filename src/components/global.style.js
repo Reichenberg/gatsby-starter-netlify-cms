@@ -45,7 +45,7 @@ button{
     width: 100vw;
     flex-wrap: wrap;
     @media only screen and (min-width: 1023px){
-    width: 50vw;
+    width: 50vw !important;
     }
      .article{
        width: 50%;
@@ -71,6 +71,7 @@ button{
       max-height: 100px;
       padding: 10px 20px;
       box-sizing: border-box;
+  
       h2 {
         margin: 0;
         font-size: 18px;
@@ -80,6 +81,8 @@ button{
         width: 70%;
         font-size: 12px;
       }
+
+    }
     }
   }
 

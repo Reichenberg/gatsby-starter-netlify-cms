@@ -22,7 +22,7 @@ const HeaderPosed = posed.header({
 const LogoPosed = posed.div({
   scrolled: { scale: 0.35, left: '-34%',transition: {ease: 'linear', duration: 200}, },
   collapsed: { scale: 1, left: '0' },
-  isDesktop: { scale: .85, left: '-40%' , transition: {ease: 'linear', duration: 200}},
+  isDesktop: { scale: .85, left: '-38%' , transition: {ease: 'linear', duration: 200}},
 });
 
 const LinksPosed = posed.ul({
