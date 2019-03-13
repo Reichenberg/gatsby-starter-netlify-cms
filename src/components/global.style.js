@@ -7,6 +7,7 @@ body{
   font-family: dinosaur, sans-serif;
   color: #efefef;
   font-weight: 400;
+  background-color: #F2F2F2;
 
 a{
   color: white;
@@ -65,15 +66,15 @@ button{
       position: absolute;
       display: block-size;
       max-height: 100px;
+      padding: 10px 20px;
+      box-sizing: border-box;
       h2 {
         margin: 0;
         font-size: 18px;
-        margin-left: 20px;
         line-height: 1;
       }
       p{
         width: 70%;
-        padding-left: 20px;
         font-size: 12px;
       }
     }

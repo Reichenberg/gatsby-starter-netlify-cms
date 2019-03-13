@@ -2,14 +2,13 @@ import React, { Component } from 'react';
 import Helmet from 'react-helmet';
 import { StaticQuery, graphql, Link } from 'gatsby';
 import styled from 'styled-components';
-import bgVideo from '../img/bgVideo4.mp4';
 import GlobalStyles from './global.style';
 import Navbar from '../components/Navbar';
 import HammoIcon from './images/HammoIcon';
 import posed from 'react-pose'
 import Logo from '../components/images/Logo';
-import bgPortait from '../img/test-portait-mini.jpg'
-import bgLandscape from '../img/test-landscape.jpg'
+import bgPortait from '../img/norway-portrait-min.mp4'
+import bgLandscape from '../img/norway-landscape-min.mp4'
 import {withSize} from 'react-sizeme'
 import { PoseGroup } from 'react-pose';
 
@@ -21,9 +20,9 @@ const HeaderPosed = posed.header({
 });
 
 const LogoPosed = posed.div({
-  scrolled: { scale: 0.35,  justifyContent: 'baseline' , transition: {ease: 'linear', duration: 200}, },
+  scrolled: { scale: 0.35,  justifyContent: 'end' , transition: {ease: 'linear', duration: 200}, },
   collapsed: { scale: 1, justifyContent: 'center' },
-  isDesktop: { scale: .85, justifyContent: 'baseline' , transition: {ease: 'linear', duration: 200}},
+  isDesktop: { scale: .85, justifyContent: 'end' , transition: {ease: 'linear', duration: 200}},
 });
 
 const LinksPosed = posed.ul({
@@ -37,13 +36,13 @@ const LinksPosed = posed.ul({
 const ContentStyled = styled.div`
   #myVideo {
     position: fixed;
-    height: 100vh;
     width: 100vw;
     z-index: 0;
     background-position-x: center;
 
-    @media only screen and (min-width: 1023px) {
-      width: 100vw;
+    @media only screen and (min-width: 768px) {
+      height: 100vh;
+      width: auto;
       left: 0;
       top: 0;
     }
@@ -91,7 +90,7 @@ const ContentStyled = styled.div`
 
   .overlay {
    position: fixed;
-    right: 0;
+
     height: 100vh;
     z-index: 0;
     width: 100%;
@@ -124,7 +123,6 @@ const ContentStyled = styled.div`
 
   }
 
-  background-color: rgb(200, 200, 200);
   width: 100vw;
   height: 100vh;
 `;
@@ -231,11 +229,11 @@ class TemplateWrapper extends Component {
             </PoseGroup>
             }
           </HeaderPosed>
-            {/* <video autoPlay muted loop id="myVideo" playbackrate={100}>
-              <source src={bgVideo} type="video/mp4" />
-            </video> */}
-            <img src={size.width > 762 ? bgLandscape : bgPortait} id="myVideo"></img>
+            { <video autoPlay muted loop id="myVideo" playbackrate={100}>
+              <source src={size.width > 769 ? bgLandscape : bgPortait} id="myVideo" type="video/mp4" />
+            </video> }
             <div className="overlay" />
+
             <div className="content">{this.props.children}</div>
            
             { size.width < 1024 && (<><Navbar open={this.state.open} />
