@@ -108,15 +108,15 @@ const ContentStyled = styled.div`
   }
 
   .nav-button {
-    width: 80px;
-    height: 80px;
+    width: 70px;
+    height: 70px;
     position: fixed;
     bottom: 0;
     right: 0;
     z-index: 4;
-    background-color: rgba(234, 234, 234, 0.5);
-    border-top-left-radius: 5px;
-    box-shadow: 0 0px 10px 5px rgba(0,0,0, .35);
+    background-color: rgba(234, 234, 234, 0.8);
+    border-top-left-radius: 3px;
+    box-shadow: 0 0px 5px 3px rgba(100,100,100, .35);
   }
   .closed {
     background-color: rgba(234, 234, 234, 0);

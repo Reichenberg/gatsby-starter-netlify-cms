@@ -28,6 +28,7 @@ const ArticleStyled = styled.div`
   h2{
     padding: 0;
     margin: 0;
+    line-height: 1;
   }
 }
 
@@ -37,15 +38,16 @@ const ArticleStyled = styled.div`
   .article-text{
     padding-left: 20px;
     padding-top: 15px;
+    padding-right: 30px;
     padding-bottom: 40px;
     box-shadow: 0px 5px 10px rgba(0,0,0,.35);
     position: relative;
     p{
     margin: 0;
     padding: 0;
-    width: 80%;
   }
-    h2{
+    
+    .article-heading{
       margin-top: 35px;
       margin-bottom: 20px;
       font-size: 18px;
