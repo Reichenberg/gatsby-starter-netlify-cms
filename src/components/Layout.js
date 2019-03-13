@@ -237,7 +237,7 @@ class TemplateWrapper extends Component {
             }
           </HeaderPosed>
             { <video autoPlay muted loop id="myVideo" playbackrate={100}>
-              <source src={size.width > 769 ? bgLandscape : bgPortait} id="myVideo" type="video/mp4" />
+              <source src={size.width > 769 ? `${bgLandscape}#t=0` : `${bgPortait}#t=0`} id="myVideo" type="video/mp4" />
             </video> }
             <div className="overlay" />
 
