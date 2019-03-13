@@ -6,8 +6,10 @@ import IndexStyled from '../components/Styles/index.style';
 import posed, { PoseGroup } from 'react-pose';
 import Instagram from '../components/images/Instagram';
 import Youtube from '../components/images/Youtube';
+import LazyLoad from 'react-lazyload'
 import Pinterest from '../components/images/Pinterest';
 import { ParallaxProvider, Parallax  } from 'react-scroll-parallax';
+
 
 const FadeIn = posed.section({
   enter: {
@@ -108,16 +110,21 @@ export default class IndexPage extends React.Component {
             
             
           </PoseGroup>
+          <section>
+              <h2>More Words</h2>
+            </section>
           <div className="article-list">
                  {posts.map((item, i) => (
               <div className="article" key={item.node.frontmatter.title}>
                 <Link key={item + i} to={item.node.fields.slug}>
+                <LazyLoad height={200}>
                   <img
                     src={`${
                       item.node.frontmatter.bg_image
                     }/-/resize/700x/-/quality/lighter/`}
                     alt={item.node.frontmatter.bg_alt}
                   />
+                  </LazyLoad>
                   <div className="article-overlay">
                     <h2>{item.node.frontmatter.title}</h2>
                     <p>

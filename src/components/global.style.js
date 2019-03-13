@@ -44,6 +44,9 @@ button{
     display:flex;
     width: 100vw;
     flex-wrap: wrap;
+    @media only screen and (min-width: 1023px){
+    width: 50vw;
+    }
      .article{
        width: 50%;
      }

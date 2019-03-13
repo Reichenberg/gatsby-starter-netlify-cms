@@ -20,9 +20,9 @@ const HeaderPosed = posed.header({
 });
 
 const LogoPosed = posed.div({
-  scrolled: { scale: 0.35,  justifyContent: 'end' , transition: {ease: 'linear', duration: 200}, },
-  collapsed: { scale: 1, justifyContent: 'center' },
-  isDesktop: { scale: .85, justifyContent: 'end' , transition: {ease: 'linear', duration: 200}},
+  scrolled: { scale: 0.35, left: '-34%',transition: {ease: 'linear', duration: 200}, },
+  collapsed: { scale: 1, left: '0' },
+  isDesktop: { scale: .85, left: '-40%' , transition: {ease: 'linear', duration: 200}},
 });
 
 const LinksPosed = posed.ul({
@@ -40,7 +40,7 @@ const ContentStyled = styled.div`
     z-index: 0;
     background-position-x: center;
 
-    @media only screen and (min-width: 768px) {
+    @media only screen and (min-width: 769px) {
       height: 100vh;
       width: auto;
       left: 0;
@@ -60,7 +60,13 @@ const ContentStyled = styled.div`
     
     .logo-pos {
      display: flex;
-    
+     position: relative;
+    left: 0;
+    justify-content: center;
+    @media only screen and (min-width: 1023px)
+    {
+      padding: 20px 0;
+    }
     }
 
     .nav-links {
@@ -180,6 +186,7 @@ class TemplateWrapper extends Component {
         render={data => (
           <ContentStyled>
             <Helmet>
+            <script crossorigin="anonymous" src="https://polyfill.io/v3/polyfill.min.js?features=Array.from%2CString.prototype.endsWith%2CWeakSet"></script>
               <html lang="en" />
               <title>{data.site.siteMetadata.title}</title>
               <meta
@@ -217,14 +224,14 @@ class TemplateWrapper extends Component {
             <PoseGroup animateOnMount>
             <LinksPosed key={0} className="nav-links">
             <li>
-              <Link to="/Articles">Articles</Link>
+              <Link name="articles" to="/Articles">Articles</Link>
             </li>
             <li>
               <a href="https://www.instagram.com/just_berg/" target="_blank">Photos</a>
             </li>
-            <li>
-              <Link>Work With Me</Link>
-            </li>
+            {/* <li>
+              <Link name="email">Work With Me</Link>
+            </li> */}
             </LinksPosed>
             </PoseGroup>
             }
@@ -242,6 +249,7 @@ class TemplateWrapper extends Component {
                 !this.state.open ? ' nav-button' : ' closed nav-button'
               }
               onClick={this.toggleModal}
+              name="navigation button"
             >
               <div className="ham-icon">
                 <HammoIcon open={this.state.open} />

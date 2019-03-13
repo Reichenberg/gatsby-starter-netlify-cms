@@ -143,14 +143,14 @@ class Navbar extends Component {
           </Link>
           <LinksPosed className="nav-links">
             <li>
-              <Link to="/Articles">Articles</Link>
+              <Link to="/Articles" name="articles">Articles</Link>
             </li>
             <li>
-              <Link>Photos</Link>
+              <a href="https://www.instagram.com/just_berg/" target="_blank" name="photos">Photos</a>
             </li>
-            <li>
-              <Link>Work With Me</Link>
-            </li>
+            {/* <li>
+              <Link name="email">Work With Me</Link>
+            </li> */}
           </LinksPosed>
           <SocialLinksPosed className="social-nav-links">
             <SocialIconPosed key="pin">
