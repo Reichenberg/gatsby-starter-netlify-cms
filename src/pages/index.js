@@ -51,7 +51,7 @@ export default class IndexPage extends React.Component {
     const { edges: posts } = data.allMarkdownRemark;
 
     return (
-      <Layout>
+      <Layout renderBg={true}>
         
         <IndexStyled>
          <ParallaxProvider>

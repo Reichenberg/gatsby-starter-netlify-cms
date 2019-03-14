@@ -29,7 +29,7 @@ export default class Articles extends React.Component {
     const { edges: posts } = data.allMarkdownRemark;
 
     return (
-      <Layout>
+      <Layout renderBg={true}>
         <IndexStyled>
          
           <PoseGroup animateOnMount>

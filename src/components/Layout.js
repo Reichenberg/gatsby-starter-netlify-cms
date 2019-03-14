@@ -14,9 +14,9 @@ import { PoseGroup } from 'react-pose';
 
 
 const HeaderPosed = posed.header({
-  scrolled: { backgroundColor: 'rgba(233,233,233,.8)',  transition: {ease: 'easeOut', duration: 200}, boxShadow: '0 0px 10px 5px rgba(0,0,0, .35)' },
-  collapsed: { backgroundColor: 'rgba(0,0,0,0)',  transition: {ease: 'easeOut', duration: 200},  boxShadow: '0 0px 10px 5px rgba(0,0,0, 0)'},
-  isDesktop: { backgroundColor: 'rgba(233,233,233,.75)',  transition: {ease: 'easeOut', duration: 200},  boxShadow: '0 0px 10px 5px rgba(0,0,0, .35)' },
+  scrolled: { backgroundColor: 'rgba(233,233,233,.8)',  transition: {ease: 'easeOut', duration: 200}, boxShadow: '0 0px 10px 5px rgba(100,100,100, .35)' },
+  collapsed: { backgroundColor: 'rgba(0,0,0,0)',  transition: {ease: 'easeOut', duration: 200},  boxShadow: '0 0px 10px 5px rgba(100,100,100, .35)'},
+  isDesktop: { backgroundColor: 'rgba(233,233,233,.75)',  transition: {ease: 'easeOut', duration: 200},  boxShadow: '0 0px 10px 5px rgba(100,100,100, .35)' },
 });
 
 const LogoPosed = posed.div({
@@ -121,7 +121,7 @@ const ContentStyled = styled.div`
     z-index: 4;
     background-color: rgba(234, 234, 234, 0.8);
     border-top-left-radius: 3px;
-    box-shadow: 0 0px 5px 3px rgba(100,100,100, .35);
+    box-shadow: 0 0px 10px 5px rgba(100,100,100, .35);
   }
   .closed {
     background-color: rgba(234, 234, 234, 0);
@@ -169,7 +169,7 @@ class TemplateWrapper extends Component {
 
   render() {
     const {scrolled} = this.state;
-    const { size, forceOpen} = this.props;
+    const { size, forceOpen, renderBg} = this.props;
 
     return (
       <StaticQuery
@@ -236,7 +236,7 @@ class TemplateWrapper extends Component {
             </PoseGroup>
             }
           </HeaderPosed>
-            { <video autoPlay muted loop id="myVideo" playbackrate={100}>
+            { renderBg && <video autoPlay muted loop id="myVideo" playbackrate={100}>
               <source src={size.width > 769 ? `${bgLandscape}#t=0` : `${bgPortait}#t=0`} id="myVideo" type="video/mp4" />
             </video> }
             <div className="overlay" />

@@ -9,9 +9,9 @@ const ArticleStyled = styled.div`
   position: fixed;
   z-index: 2;
   top: 0;
-  width: 150%;
+  width: 100%;
   overflow: hidden;
-  background-size: 100vw;
+  background-size: 115vw;
   padding-bottom: 84%;
   background-repeat: no-repeat;
 }
@@ -98,7 +98,6 @@ font-style: italic;
       width: 100%;
 
     }
-    box-shadow: inset 0 0 16px 5px rgba(0,0,0, .80);
 
   }
 }
