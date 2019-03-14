@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: A day in ersfjordbotn
+title: A day in Ersfjordbotn.
 bg_image: 'https://ucarecdn.com/10c66e94-a8e7-4815-bfca-68a654d332c4/'
 bg_alt: ersfjordbotn
 author: Chance Reichenberg
@@ -15,7 +15,8 @@ tags:
   - tromso
 ---
 <div class="article-text">
-woke up early, did the exercise thing 
+
+## Woke up early, did the exercise thing 
 
 * Planned the journey (SCREEN SHOTS AND ALL)
 * BOUGHT A TICKET without wifi-for some reason
@@ -35,6 +36,7 @@ She was incredibly grateful and lamented how her son had been sick and a little 
 
 </div>
 <div class="article-text">
+
 Feeling pretty jazzed after my impromptu encounter, I made headway down the ice laden road, hopped off the well-trodden path to snap some memories of the occasion and scenery, and stumbled onto a picturesque dock near a school.
 
 I look to my right while on the dock.. BAM
@@ -44,7 +46,7 @@ Antique/hipster-ish coffee shop and bakery.
 </div>
 <div class="article-image">
 
-!\[norsk barista](https://ucarecdn.com/ed182409-b81e-42b4-abae-2d4c24229b17/ "norsk barista making cappacino after a cinnamon bun recommendation")
+![norsk barista](https://ucarecdn.com/ed182409-b81e-42b4-abae-2d4c24229b17/ "norsk barista making cappacino after a cinnamon bun recommendation")
 
 </div>
 <div class="article-text">
@@ -54,10 +56,11 @@ Antique/hipster-ish coffee shop and bakery.
 </div>
 <div class="article-image">
 
-!\[that cinnamon bun and coffee](https://ucarecdn.com/6bf69ee4-01f3-4167-8bad-41e483807e08/ "Norwegian cinnamon bun and cappuccino")
+![that cinnamon bun and coffee](https://ucarecdn.com/6bf69ee4-01f3-4167-8bad-41e483807e08/ "Norwegian cinnamon bun and cappuccino")
 
 </div>
 <div class="article-text">
+
 After having lost myself in cinnamon sugar I took a quick glance down at my watch.
 
 "What time was that bus coming?" I asked myself. The answer was "in 5 minutes." The couple beside me exchanged a number of awkward glances with me as I inhaled the cappuccino and cinnamon bun like a metaphor I can't think of and slid down the stairs.
@@ -81,6 +84,6 @@ Now you may be thinking. "But Chance, that nice lady gave you 100NOK." YES SHE D
 </div>
 <div class="article-image">
 
-!\[norsk kroner change and bus ticket](https://ucarecdn.com/3de87091-4ccb-4ce9-910d-2aab4c3d7311/ "norse kroner change and bus ticket")
+![norsk kroner change and bus ticket](https://ucarecdn.com/3de87091-4ccb-4ce9-910d-2aab4c3d7311/ "norse kroner change and bus ticket")
 
 </div>
