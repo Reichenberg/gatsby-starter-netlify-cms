@@ -102,6 +102,7 @@ export default class IndexPage extends React.Component {
                           )} . . .`
                         : posts[0].node.frontmatter.description}
                     </p>
+                    <p className="detail-text">{posts[0].node.frontmatter.date}</p>
                   </div>
                   </Parallax>
 
@@ -135,6 +136,8 @@ export default class IndexPage extends React.Component {
                           )} . . .`
                         : item.node.frontmatter.description}
                     </p>
+                    <p className="detail-text">{item.node.frontmatter.date}</p>
+
                   </div>
                 </Link>
                 </div>

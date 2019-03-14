@@ -60,7 +60,7 @@ function Logo({color}) {
           >
             <feOffset dy="3" input="SourceAlpha" />
             <feGaussianBlur stdDeviation="5" result="blur-2" />
-            <feFlood flood-opacity="0.49" />
+            <feFlood floodOpacity="0.49" />
             <feComposite operator="in" in2="blur-2" />
             <feComposite in="SourceGraphic" />
           </filter>

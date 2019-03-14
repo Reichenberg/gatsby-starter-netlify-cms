@@ -25,11 +25,43 @@ const ArticleStyled = styled.div`
 .post-title{
   padding: 10px 20px;
   background-color: rgba(0,0,0,.35);
+  position: relative;
   h2{
     padding: 0;
     margin: 0;
     line-height: 1;
   }
+  .detail-text {
+        font-size: 12px;
+        color: rgb(175,175,175);
+        
+      }
+}
+
+.tags{
+  list-style-type: none;
+  margin: 0;
+  padding: 10px 20px;
+  
+  li{
+    font-size: 12;
+font-weight: 100;
+padding: 0px 10px;
+font-style: italic;
+    float: left;
+    border-right: 1px solid rgb(100,100,100);
+    color: rgb(100,100,100);
+  }
+  li:last-child{
+    border-right: none;
+  }
+  li:first-child{
+    padding-left: 0px;
+  }
+}
+
+.post-content-html{
+  background-color: #FDFDFD;
 }
 
 .post-html{
@@ -47,7 +79,7 @@ const ArticleStyled = styled.div`
     padding: 0;
   }
     
-    .article-heading{
+    h2{
       margin-top: 35px;
       margin-bottom: 20px;
       font-size: 18px;
@@ -61,8 +93,11 @@ const ArticleStyled = styled.div`
     padding: 0;
   }
 
-  img{
-    width: 100%;
+  .article-image{
+    img{
+      width: 100%;
+
+    }
     box-shadow: inset 0 0 16px 5px rgba(0,0,0, .80);
 
   }
@@ -79,9 +114,12 @@ export default class BlogPostTemplate extends React.Component {
         <ArticleStyled>
         <div className="bg-image" style={{backgroundImage: `url(${post.frontmatter.bg_image})`}}></div>
         <div className="post-content">
-        <div className="post-title"><h2>{post.frontmatter.title}</h2></div>
-        <div className="post-html" dangerouslySetInnerHTML={{ __html: post.html }} >
-        </div>
+        <div className="post-title"><h2>{post.frontmatter.title}</h2><p className="detail-text">{post.frontmatter.date}</p>
+       </div>
+        <section className="post-content-html">
+       <ul className="tags"> {post.frontmatter.tags.map((tag) => <li className="tag">{tag}</li>)}</ul>
+       <div className="post-html" dangerouslySetInnerHTML={{ __html: post.html }} ></div>
+        </section>
         </div>
         </ArticleStyled>
       </Layout>

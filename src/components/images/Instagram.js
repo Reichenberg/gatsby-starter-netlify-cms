@@ -16,10 +16,10 @@ export default function Instagram() {
           y2="1"
           gradientUnits="objectBoundingBox"
         >
-          <stop offset="0" stop-color="#7024c4" />
-          <stop offset="0.35" stop-color="#c21975" />
-          <stop offset="0.654" stop-color="#c74c4d" />
-          <stop offset="1" stop-color="#e09b3d" />
+          <stop offset="0" stopColor="#7024c4" />
+          <stop offset="0.35" stopColor="#c21975" />
+          <stop offset="0.654" stopColor="#c74c4d" />
+          <stop offset="1" stopColor="#e09b3d" />
         </linearGradient>
       </defs>
       <g id="Instagram" transform="translate(-0.399 -1.049)">

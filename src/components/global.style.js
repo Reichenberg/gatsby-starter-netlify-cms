@@ -78,8 +78,14 @@ button{
         line-height: 1;
       }
       p{
-        width: 70%;
         font-size: 12px;
+      }
+      .detail-text {
+        font-size: 12px;
+        color: rgb(175,175,175);
+        position: absolute;
+        bottom: 10px;
+        right: 10px;
       }
 
     }

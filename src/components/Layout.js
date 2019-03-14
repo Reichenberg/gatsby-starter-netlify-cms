@@ -30,7 +30,7 @@ const LinksPosed = posed.ul({
   enter: {
     opacity: 1,
     y: 0,
-    transition: {  duration: 800, delay: 500, },
+    transition: {  duration: 800, delay: 500, ease: 'linear', type: 'tween' },
   }});
 
 const ContentStyled = styled.div`

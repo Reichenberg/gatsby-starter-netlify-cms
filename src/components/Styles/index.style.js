@@ -25,6 +25,21 @@ const IndexStyled = styled.div`
         
         width: 50%;
     }
+
+    h2{
+      font-size: 28px !important;
+    }
+
+    .article-overlay{
+      max-height: none;
+      .detail-text {
+        font-size: 12px;
+        color: rgb(175,175,175);
+        position: absolute;
+        bottom: 10px;
+        right: 20px;
+      }
+    }
     overflow: hidden;
   }
 
