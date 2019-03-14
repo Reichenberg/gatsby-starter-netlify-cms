@@ -27,12 +27,13 @@ tags:
 * Passed a woman shoveling snow, didn't think much of it, took some pics, headed back down the winding trail
 * Noticed the woman, who I'll now refer to as "Maria" because that was her name. Seemed a bit winded. After some pleasantries I could tell she probably would enjoy some help, and my bus was not slated to arrive for several hours. SO, I tossed on the old workin' hands and grabbed a shovel. After a little time and what some might call "effort" we freed the volvo from it's powdered shackles. 
 
-She was incredibly grateful and lamented how her son had been sick and a little lonely, and now she would be able to go and visit him.  As we said our goodbyes she mentioned how she would love to offer me lunch, but her house was in disarray. She reached into her pocket and attempted to hand me 100NOK **like $12**. I politely declined at least 3 times at which point I determined it would be rude to continue, so I accepted **this bit is important**
+She was incredibly grateful and lamented how her son had been sick and a little lonely, and now she would be able to go and visit him.  As we said our goodbyes she mentioned how she would love to offer me lunch, but her house was in disarray. She reached into her pocket and attempted to hand me 100NOK **like $12**.
+I politely declined at least 3 times at which point I determined it would be rude to continue, so I accepted **this bit is important**
 
 </div>
 <div class="article-image">
 
-![100 norsk kroner](https://ucarecdn.com/dc2437d5-9809-4fc8-b553-69d6f6618c84/ "My first payment in Norway!")
+![100 norsk kroner](https://ucarecdn.com/dc2437d5-9809-4fc8-b553-69d6f6618c84/-/resize/1000x/-/quality/lighter/ "My first payment in Norway!")
 
 </div>
 <div class="article-text">
@@ -46,7 +47,7 @@ Antique/hipster-ish coffee shop and bakery.
 </div>
 <div class="article-image">
 
-![norsk barista](https://ucarecdn.com/ed182409-b81e-42b4-abae-2d4c24229b17/ "norsk barista making cappacino after a cinnamon bun recommendation")
+![norsk barista](https://ucarecdn.com/ed182409-b81e-42b4-abae-2d4c24229b17/-/resize/1000x/-/quality/lighter/ "norsk barista making cappacino after a cinnamon bun recommendation")
 
 </div>
 <div class="article-text">
@@ -56,7 +57,7 @@ Antique/hipster-ish coffee shop and bakery.
 </div>
 <div class="article-image">
 
-![that cinnamon bun and coffee](https://ucarecdn.com/6bf69ee4-01f3-4167-8bad-41e483807e08/ "Norwegian cinnamon bun and cappuccino")
+![that cinnamon bun and coffee](https://ucarecdn.com/6bf69ee4-01f3-4167-8bad-41e483807e08/-/resize/1000x/-/quality/lighter/ "Norwegian cinnamon bun and cappuccino")
 
 </div>
 <div class="article-text">
@@ -79,6 +80,8 @@ As stated, 8 minutes later my bus arrived "What joy!" I proclaimed in my head to
 
 While I was waiting for the bus, I glanced at one of the postings at the stop. It read:
 
+<br/>
+
 "Nearest ATM 12km"
 
 "Odd fact" I think to myself.
@@ -92,6 +95,6 @@ Now you may be thinking. "But Chance, that nice lady gave you 100NOK." YES SHE D
 </div>
 <div class="article-image">
 
-![norsk kroner change and bus ticket](https://ucarecdn.com/3de87091-4ccb-4ce9-910d-2aab4c3d7311/ "norse kroner change and bus ticket")
+![norsk kroner change and bus ticket](https://ucarecdn.com/3de87091-4ccb-4ce9-910d-2aab4c3d7311/-/resize/1000x/-/quality/lighter/"norse kroner change and bus ticket")
 
 </div>
