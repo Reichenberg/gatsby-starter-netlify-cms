@@ -74,6 +74,10 @@ Once free, I jogged toward the bus stop... only to be greeted by 10 small childr
 
 A teacher then so politely let me know that my bus was 8 minutes late and would be here briefly. One of the many times I've looked like a fool in front of many small children.
 
+<br/>
+
+
+
 As stated, 8 minutes later my bus arrived "What joy!" I proclaimed in my head to myself as not to look a fool again, only to step on the bus and be informed they could not take cards as payment. Now this is important for a number of reasons. **Let me go back.**
 
 <br/>
