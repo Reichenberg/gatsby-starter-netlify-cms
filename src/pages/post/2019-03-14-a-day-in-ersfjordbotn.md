@@ -32,7 +32,7 @@ She was incredibly grateful and lamented how her son had been sick and a little 
 </div>
 <div class="article-image">
 
-![100 norsk kroner](https://ucarecdn.com/dc2437d5-9809-4fc8-b553-69d6f6618c84/ "My first payment in Norway!")
+![100 norsk kroner](https://ucarecdn.com/dc2437d5-9809-4fc8-b553-69d6f6618c84/-/resize/1000x/-/quality/lighter/ "My first payment in Norway!")
 
 </div>
 <div class="article-text">
@@ -46,7 +46,7 @@ Antique/hipster-ish coffee shop and bakery.
 </div>
 <div class="article-image">
 
-![norsk barista](https://ucarecdn.com/ed182409-b81e-42b4-abae-2d4c24229b17/ "norsk barista making cappacino after a cinnamon bun recommendation")
+![norsk barista](https://ucarecdn.com/ed182409-b81e-42b4-abae-2d4c24229b17/-/resize/1000x/-/quality/lighter/ "norsk barista making cappacino after a cinnamon bun recommendation")
 
 </div>
 <div class="article-text">
@@ -56,7 +56,7 @@ Antique/hipster-ish coffee shop and bakery.
 </div>
 <div class="article-image">
 
-![that cinnamon bun and coffee](https://ucarecdn.com/6bf69ee4-01f3-4167-8bad-41e483807e08/ "Norwegian cinnamon bun and cappuccino")
+![that cinnamon bun and coffee](https://ucarecdn.com/6bf69ee4-01f3-4167-8bad-41e483807e08/-/resize/1000x/-/quality/lighter/ "Norwegian cinnamon bun and cappuccino")
 
 </div>
 <div class="article-text">
@@ -92,6 +92,6 @@ Now you may be thinking. "But Chance, that nice lady gave you 100NOK." YES SHE D
 </div>
 <div class="article-image">
 
-![norsk kroner change and bus ticket](https://ucarecdn.com/3de87091-4ccb-4ce9-910d-2aab4c3d7311/ "norse kroner change and bus ticket")
+![norsk kroner change and bus ticket](https://ucarecdn.com/3de87091-4ccb-4ce9-910d-2aab4c3d7311/-/resize/1000x/-/quality/lighter/"norse kroner change and bus ticket")
 
 </div>
