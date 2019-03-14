@@ -25,9 +25,10 @@ tags:
 * THEN **425 **to Ersfjordbotn
 * Got off past the school
 * Passed a woman shoveling snow, didn't think much of it, took some pics, headed back down the winding trail
-* Noticed the woman, who I'll now refer to as "Maria" because that was her name. Seemed a bit winded. After some pleasantries I could tell she probably would enjoy some help, and my bus was not slated to arrive for several hours. SO, I tossed on the old workin' hands and grabbed a shovel. After a little time and what some might call "effort" we freed the volvo from it's powdered shackles. 
 
-She was incredibly grateful and lamented how her son had been sick and a little lonely, and now she would be able to go and visit him.  As we said our goodbyes she mentioned how she would love to offer me lunch, but her house was in disarray. She reached into her pocket and attempted to hand me 100NOK **like $12**.
+Noticed the woman, who I'll now refer to as "Maria" because that was her name. Seemed a bit winded. After some pleasantries I could tell she probably would enjoy some help, and my bus was not slated to arrive for several hours. SO, I tossed on the old workin' hands and grabbed a shovel. After a little time and what some might call "effort" we freed the volvo from it's powdered shackles. 
+
+She was incredibly grateful and lamented how her son had been sick and a little lonely,  now she would be able to go and visit him.  As we said our goodbyes she mentioned how she would love to offer me lunch, but her house was in disarray. She reached into her pocket and attempted to hand me 100NOK **like $12**.
 I politely declined at least 3 times at which point I determined it would be rude to continue, so I accepted **this bit is important**
 
 </div>
@@ -52,7 +53,7 @@ Antique/hipster-ish coffee shop and bakery.
 </div>
 <div class="article-text">
 
- I was sold immediately. She recommended the cinnamon bun(of course) and I wholeheartedly obliged.
+ I was sold immediately. She recommended the cinnamon bun, a popular scandinavian treat, and I wholeheartedly obliged.
 
 </div>
 <div class="article-image">
@@ -62,21 +63,19 @@ Antique/hipster-ish coffee shop and bakery.
 </div>
 <div class="article-text">
 
-After having lost myself in cinnamon sugar I took a quick glance down at my watch.
+After having lost myself in cinnamon sugar, I took a quick glance down at my watch.
 
-"What time was that bus coming?" I asked myself. The answer was "in 5 minutes." The couple beside me exchanged a number of awkward glances with me as I inhaled the cappuccino and cinnamon bun like a metaphor I can't think of and slid down the stairs.
+"What time was that bus coming?" I asked myself. The answer was "in 5 minutes." The couple beside me and myself exchanged a number of awkward glances as I inhaled the cappuccino and cinnamon bun like a metaphor I can't think of and slid down the stairs.
 
 Once free, I jogged toward the bus stop... only to be greeted by 10 small children speaking Norsk and a German couple every bit of 82.
 
 <br/>
 
-**QUE BUS 425**, but not the right bus **425**. As I reached the top step I was greeted with a stern "NO" as I was informed that this was a "SKOLE BUS." I had mistakenly confused the number 425 with the other number 425.
+**QUE BUS 425**, but not the right bus **425**. Rea the top step I was greeted with a stern "NO" as I was informed that this was a "SKOLE BUS." I had mistakenly confused the number 425 with the other number 425.
 
 A teacher then so politely let me know that my bus was 8 minutes late and would be here briefly. One of the many times I've looked like a fool in front of many small children.
 
 <br/>
-
-
 
 As stated, 8 minutes later my bus arrived "What joy!" I proclaimed in my head to myself as not to look a fool again, only to step on the bus and be informed they could not take cards as payment. Now this is important for a number of reasons. **Let me go back.**
 
@@ -92,7 +91,7 @@ While I was waiting for the bus, I glanced at one of the postings at the stop. I
 
 <br/>
 
-This was indeed important as that moment shot straight to my memory as this driver informed me he could not accept my card...
+This was indeed important, as that m shot straight to my brain  this driver informed me he could not accept my card...
 
 Now you may be thinking. "But Chance, that nice lady gave you 100NOK." YES SHE DID.
 
