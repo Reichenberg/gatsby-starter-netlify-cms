@@ -27,7 +27,8 @@ tags:
 * Passed a woman shoveling snow, didn't think much of it, took some pics, headed back down the winding trail
 * Noticed the woman, who I'll now refer to as "Maria" because that was her name. Seemed a bit winded. After some pleasantries I could tell she probably would enjoy some help, and my bus was not slated to arrive for several hours. SO, I tossed on the old workin' hands and grabbed a shovel. After a little time and what some might call "effort" we freed the volvo from it's powdered shackles. 
 
-She was incredibly grateful and lamented how her son had been sick and a little lonely, and now she would be able to go and visit him.  As we said our goodbyes she mentioned how she would love to offer me lunch, but her house was in disarray. She reached into her pocket and attempted to hand me 100NOK **like $12**. I politely declined at least 3 times at which point I determined it would be rude to continue, so I accepted **this bit is important**
+She was incredibly grateful and lamented how her son had been sick and a little lonely, and now she would be able to go and visit him.  As we said our goodbyes she mentioned how she would love to offer me lunch, but her house was in disarray. She reached into her pocket and attempted to hand me 100NOK **like $12**.
+I politely declined at least 3 times at which point I determined it would be rude to continue, so I accepted **this bit is important**
 
 </div>
 <div class="article-image">
@@ -78,6 +79,8 @@ As stated, 8 minutes later my bus arrived "What joy!" I proclaimed in my head to
 <br/>
 
 While I was waiting for the bus, I glanced at one of the postings at the stop. It read:
+
+<br/>
 
 "Nearest ATM 12km"
 
