@@ -52,4 +52,14 @@ QUE BUS 425, but not the right bus 425. As I reached the top step I was greeted 
 
 A teacher then so politely let me know that my bus was 8 minutes late and would be here briefly. One of the many times I've looked like a fool in front of many small children.
 
-As stated, 8 minutes later my bus arrived "What joy!" I proclaimed in my head to myself as not to look a fool again.
+As stated, 8 minutes later my bus arrived "What joy!" I proclaimed in my head to myself as not to look a fool again. Only to step on the bus and be informed they could not take cards as payment. Now this is important for a number of reasons. Let me go back.
+
+While I was waiting for the bus, I glanced at one of the postings at the stop. It read:
+
+"Nearest ATM 12km"
+
+"Odd fact" I think to myself.
+
+Now you may be thinking. "But Chance, that nice lady gave you 100NOK." YES SHE DID.
+
+![norsk kroner change and bus ticket](https://ucarecdn.com/3de87091-4ccb-4ce9-910d-2aab4c3d7311/ "norse kroner change and bus ticket")
