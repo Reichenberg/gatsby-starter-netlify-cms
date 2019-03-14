@@ -1,4 +1,4 @@
-import styled, { createGlobalStyle } from 'styled-components';
+import styled, { createGlobalStyle } from 'styled-components'
 
 const GlobalStyles = createGlobalStyle`
 body{
@@ -94,6 +94,6 @@ button{
 
 
 
-`;
+`
 
-export default GlobalStyles;
+export default GlobalStyles

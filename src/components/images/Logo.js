@@ -1,7 +1,7 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-import styled from 'styled-components';
-import posed, { PoseGroup } from 'react-pose';
+import React from 'react'
+import PropTypes from 'prop-types'
+import styled from 'styled-components'
+import posed, { PoseGroup } from 'react-pose'
 
 const LinePosed = posed.path({
   exit: { pathLength: 0 },
@@ -13,18 +13,18 @@ const LinePosed = posed.path({
       duration: 1000,
     },
   },
-});
+})
 
 const LogoPosed = posed.svg({
-  exit: { opacity: 0, },
+  exit: { opacity: 0 },
   enter: {
     opacity: 1,
-    
+
     transition: { delay: 300, duration: 700 },
   },
-});
+})
 
-function Logo({color}) {
+function Logo({ color }) {
   return (
     <PoseGroup animateOnMount>
       <LogoPosed
@@ -33,7 +33,6 @@ function Logo({color}) {
         width="266"
         height="87.282"
         viewBox="0 0 266 87.282"
-        
       >
         <defs>
           <filter
@@ -93,14 +92,14 @@ function Logo({color}) {
         </g>
       </LogoPosed>
     </PoseGroup>
-  );
+  )
 }
 
 Logo.propTypes = {
   color: PropTypes.string,
-};
+}
 
 Logo.defaultProps = {
   color: '#fff',
-};
-export default Logo;
+}
+export default Logo

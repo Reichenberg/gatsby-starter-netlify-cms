@@ -1,20 +1,20 @@
-import React from 'react';
-import posed from 'react-pose';
+import React from 'react'
+import posed from 'react-pose'
 
 const RotateLine1Posed = posed.line({
-  open: { transform: 'translate(327.025 617.5) rotate(45)', },
-  closed: { transform: 'translate(327.025 616.08) rotate(0)', },
-});
+  open: { transform: 'translate(327.025 617.5) rotate(45)' },
+  closed: { transform: 'translate(327.025 616.08) rotate(0)' },
+})
 
 const HideLine2Posed = posed.line({
   open: { stroke: 'rgba(0,0,0,0)' },
   closed: { stroke: '#292929' },
-});
+})
 
 const RotateLine3Posed = posed.line({
-  open: { transform: 'translate(327.025 632) rotate(-45)', },
-  closed: { transform: 'translate(327.025 632.646) rotate(0)',  },
-});
+  open: { transform: 'translate(327.025 632) rotate(-45)' },
+  closed: { transform: 'translate(327.025 632.646) rotate(0)' },
+})
 
 export default function HammoIcon({ open }) {
   return (
@@ -60,5 +60,5 @@ export default function HammoIcon({ open }) {
         />
       </g>
     </svg>
-  );
+  )
 }
