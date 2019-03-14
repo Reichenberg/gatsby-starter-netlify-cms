@@ -44,7 +44,7 @@ const ArticleStyled = styled.div`
   padding: 10px 20px;
   
   li{
-    font-size: 12;
+    font-size: 10;
 font-weight: 100;
 padding: 0px 10px;
 font-style: italic;
