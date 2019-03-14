@@ -20,4 +20,6 @@ tags:
 * wasted $4, so whatever.
 * figured out the route(420 to eidkjosen)
 * THEN 425 to ersfjordbotn
+* got off past the school
+* passed a woman shoveling snow, didn't think much of it, took some pics, headed back down the winding trail
 *
