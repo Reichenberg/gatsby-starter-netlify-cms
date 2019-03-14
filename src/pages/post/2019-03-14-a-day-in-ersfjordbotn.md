@@ -43,13 +43,19 @@ Antique/hipster-ish coffee shop and bakery.
 
 </div>
 <div class="article-image">
+
 !\[norsk barista](https://ucarecdn.com/ed182409-b81e-42b4-abae-2d4c24229b17/ "norsk barista making cappacino after a cinnamon bun recommendation")
+
 </div>
 <div class="article-text">
+
  I was sold immediately. She recommended the cinnamon bun(of course) and I wholeheartedly obliged.
+
 </div>
 <div class="article-image">
+
 !\[that cinnamon bun and coffee](https://ucarecdn.com/6bf69ee4-01f3-4167-8bad-41e483807e08/ "Norwegian cinnamon bun and cappuccino")
+
 </div>
 <div class="article-text">
 After having lost myself in cinnamon sugar I took a quick glance down at my watch.
@@ -74,5 +80,7 @@ Now you may be thinking. "But Chance, that nice lady gave you 100NOK." YES SHE D
 
 </div>
 <div class="article-image">
+
 !\[norsk kroner change and bus ticket](https://ucarecdn.com/3de87091-4ccb-4ce9-910d-2aab4c3d7311/ "norse kroner change and bus ticket")
+
 </div>
