@@ -6,16 +6,14 @@ bg_alt: ersfjordbotn
 author: Chance Reichenberg
 date: 2019-03-14T17:14:29.149Z
 description: >-
-  A day full of coincidences and scenarios that had the potential to become far
-  worse! Wrong buses, lost tickets, friendly people, and beautiful views. Oh,
-  and it's my first article.
+  Serendipity. Some call it luck or coincidence. Me? I call it Chance.... Sorry,
+  that line was both stuck in my head and too good not to use. Anyway, almost
+  got stranded! Here's the  story.
 tags:
   - journal
   - ersfjordbotn
   - tromso
 ---
-
-
 woke up early, did the body moving thing 
 
 * planned the journey (SCREEN SHOTS AND ALL)
