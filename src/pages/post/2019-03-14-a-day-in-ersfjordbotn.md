@@ -30,7 +30,7 @@ woke up early, did the body moving thing
 
 ![100 norsk kroner](https://ucarecdn.com/dc2437d5-9809-4fc8-b553-69d6f6618c84/ "My first payment in Norway!")
 
-Feeling pretty jazzed after my impromptu encounter, I made headway down the ice laden road, hopped off the well-trodden path to snap some memories of the occasion and scenery, and stumbled onto a picturesque dock near a school. And I don't mean these fish.
+Feeling pretty jazzed after my impromptu encounter, I made headway down the ice laden road, hopped off the well-trodden path to snap some memories of the occasion and scenery, and stumbled onto a picturesque dock near a school.
 
 I look to my right while on the dock.. BAM
 
@@ -39,3 +39,17 @@ Antique/hipster-ish coffee shop and bakery.
 ![norsk barista](https://ucarecdn.com/ed182409-b81e-42b4-abae-2d4c24229b17/ "norsk barista making cappacino after a cinnamon bun recommendation")
 
  I was sold immediately. She recommended the cinnamon bun(of course) and I wholeheartedly obliged.
+
+![that cinnamon bun and coffee](https://ucarecdn.com/6bf69ee4-01f3-4167-8bad-41e483807e08/ "Norwegian cinnamon bun and cappuccino")
+
+After having lost myself in cinnamon sugar I took a quick glance down at my watch.
+
+"What time was that bus coming?" I asked myself. The answer was "in 5 minutes." The couple beside me exchanged a couple awkward glances with me as I inhaled the cappuccino and cinnamon bun like a metaphor I can't think of and slid down the stairs.
+
+Once free I jogged toward the bus stop... only to be greeted by 10 small children speaking Norsk and a german couple every bit of 82.
+
+QUE BUS 425, but not the right bus 425. As I reached the top step I was greeted with a stern "NO" as I was informed that this was a "SKOLE BUS." I had mistakenly confused the number 425 with the other number 425.
+
+A teacher then so politely let me know that my bus was 8 minutes late and would be here briefly. One of the many times I've looked like a fool in front of many small children.
+
+As stated, 8 minutes later my bus arrived "What joy!" I proclaimed in my head to myself as not to look a fool again.
