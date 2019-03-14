@@ -65,7 +65,7 @@ After having lost myself in cinnamon sugar I took a quick glance down at my watc
 
 "What time was that bus coming?" I asked myself. The answer was "in 5 minutes." The couple beside me exchanged a number of awkward glances with me as I inhaled the cappuccino and cinnamon bun like a metaphor I can't think of and slid down the stairs.
 
-Once free I jogged toward the bus stop... only to be greeted by 10 small children speaking Norsk and a german couple every bit of 82.
+Once free, I jogged toward the bus stop... only to be greeted by 10 small children speaking Norsk and a German couple every bit of 82.
 
 <br/>
 
@@ -82,6 +82,8 @@ While I was waiting for the bus, I glanced at one of the postings at the stop. I
 "Nearest ATM 12km"
 
 "Odd fact" I think to myself.
+
+<br/>
 
 This was indeed important as that moment shot straight to my memory as this driver informed me he could not accept my card...
 
