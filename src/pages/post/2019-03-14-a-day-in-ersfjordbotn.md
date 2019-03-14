@@ -71,7 +71,7 @@ Once free, I jogged toward the bus stop... only to be greeted by 10 small childr
 
 <br/>
 
-**QUE BUS 425**, but not the right bus **425**. Rea the top step I was greeted with a stern "NO" as I was informed that this was a "SKOLE BUS." I had mistakenly confused the number 425 with the other number 425.
+**QUE BUS 425**, but not the right bus **425**. Reaching the top step I was greeted with a stern "NO" as I was informed that this was a "SKOLE BUS." I had mistakenly confused the number 425 with the other number 425.
 
 A teacher then so politely let me know that my bus was 8 minutes late and would be here briefly. One of the many times I've looked like a fool in front of many small children.
 
@@ -91,7 +91,7 @@ While I was waiting for the bus, I glanced at one of the postings at the stop. I
 
 <br/>
 
-This was indeed important, as that m shot straight to my brain  this driver informed me he could not accept my card...
+This was indeed important, as that memory shot straight to my brain the moment this driver informed me he could not accept my card...
 
 Now you may be thinking. "But Chance, that nice lady gave you 100NOK." YES SHE DID.
 
