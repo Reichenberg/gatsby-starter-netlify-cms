@@ -13,6 +13,7 @@ tags:
   - journal
   - trip
   - journey
+  - train
 ---
 <div class="article-text">
 
@@ -87,8 +88,6 @@ Specifically this blog
 
 <br/>
 
-
-
 </div>
 
 <div class="article-image">
@@ -127,6 +126,117 @@ After goodbyes were said. Next was the long haul flight. To my surprise I was se
 
 <div class="article-text">
 
-TO BE CONTINUED
+I awoke to goodbyes and a snow covered landscape. Oh, and the urgency of locating the "busterminal" quick enough to also stuff my face with something akin to food. As luck would have it, words don't tend to change and signs abound.
+
+</div>
+
+<div class="article-image">
+
+![Gothenburg swedish station sweets](https://ucarecdn.com/178c4882-79ad-4534-9a11-1f65a173cae9/ "Gothenburg swedish station sweets")
+
+</div>
+
+<div class="article-text">
+
+Goals accomplished, bus ridden, all that was left? 
+
+<br/>
+
+20 hours more of train ride (thanks to delays)
+
+<br/>
+
+* Gothenburg, found my train.
+* Big ole family with three kids and baby were my temporary friends
+* THEN A TRAIN DINNER (curry noods)
+* did a SLEEP: 6 hours of 'em!
+* And a goodbye after I was done pretending to sleep
+* Calm, quiet car with myself and the swedish countryside for 5 hours.
+
+<br/>
+
+## Sleep Debt: -12-8+5 = -15
+
+</div>
+
+<div class="article-image">
+
+![man walking through the Swedish snow](https://ucarecdn.com/f3b64791-78b7-4b39-8c58-750266930a63/ "man walking through the Swedish snow")
+
+</div>
+
+<div class="article-text">
+
+## BODEN to ABISKO, Sweden
+
+After switching trains from my comfy cave to a full car, my next stop was Abisko, sweden... in no less than 5 hours. As it happens, snow tends to build on the tracks in this climate. This has the added consequence of delaying trains that are on said tracks.. my train in particular, of course. I was gifted with nearly 2 hours of delays.
+
+<br/>
+
+At least the views were captivating.
+
+</div>
+
+<div class="article-image">
+
+![swedish winter house](https://ucarecdn.com/b518a789-f54f-43d5-84e3-5ff1f09b3b51/ "swedish winter house")
+
+</div>
+
+<div class="article-text">
+
+
+
+* "Ostra? My stop? I don't think so" It Was.
+* "Turistation. Sounds familiar." It was the wrong one.
+* Cause STF wasn't my hostel, I only found out after helping an elderly Australian lady with her luggage and gracefully losing my footing **no less than 3 times** on the ice in front of 5 strangers.
+* Oh 3km, cause my hostel was back at the last stop. **Thanks reception**
+* cool, I'll walk that in the dark and -15. no prob
+* I am gonna buy those show spike tho, plz thank you.
+
+<div class="article-image">
+
+![dark, cold abisko tunnel](https://ucarecdn.com/d344262f-fc1d-4860-a410-58dc3e3e62ed/ "dark, cold abisko tunnel")
+
+</div>
+
+<div class="article-text">
+
+After all of this, I was greeted by a pair of wonderful french hostel mates and tea already prepared in a pot.
+
+<br/>
+
+They had seen my confused, sleep deprived self get off at the right station, then mistakenly get back on the train to warmly ride to the incorrect stop further into the national park and away from our shared hostel.
+
+<br/>
+
+I had made it.
+
+<br/>
+
+## lessons learned:
+
+<br/>
+
+## Always prepare offline maps, reservations, and directions.
+
+<br/>
+
+## Dress appropriately.
+
+1. ##  Ice is slippery. 
+2. ##  Sweden is cold. 
+
+<br/>
+
+## Final Sleep Debt Count: -15
+
+<br/>
+
+## Hours traveled: 62
+
+<br/>
+
+## Cinnamon buns eaten: 2
 
 </div>
