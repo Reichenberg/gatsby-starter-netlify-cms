@@ -221,7 +221,7 @@ class TemplateWrapper extends Component {
                 content={data.site.siteMetadata.title}
               />
               <meta property="og:url" content="https://chanceontravel.com" />
-              <meta property="og:image" content="/img/og-image.jpg" />
+              <meta property="og:image" content="/img/test-landscape.jpg" />
               <link
                 rel="stylesheet"
                 href="https://use.typekit.net/kmg5ybz.css"
