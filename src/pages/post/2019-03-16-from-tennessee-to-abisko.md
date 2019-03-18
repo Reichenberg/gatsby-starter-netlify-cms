@@ -62,7 +62,7 @@ Then I was in New York. A 13 hour layover was ready to greet me.
 
 <br/>
 
-## Sleep Debt: -6
+## Sleep Debt: -8+2 = -6
 
 <br/>
 
@@ -70,7 +70,7 @@ Then I was in New York. A 13 hour layover was ready to greet me.
 
 I was to meet a friend! A friend whom I've seen in person for a whole 5min prior. That's a story for another time!
 
-Newark to Manhattan was my current goal. I've done that enough times, its like ... easy now. I should do an article on that?
+Newark to Manhattan was my current goal. I've done that enough times, it's like ... easy now. I should do an article on that?
 
 This brief dip into the BIG APPLE consisted of a normalcy for me... 
 
@@ -110,7 +110,7 @@ Various complications meant that my friend and I would have almost 2 hours to ca
 
 <div class="article-text">
 
-After goodbyes were said. Next was the long haul flight. To my surprise I was seated next to someone from Tromso and a girl working in New York from Germany. With Stories shared, I did my best to pay of my debt.. of sleep. On what will now be known as my least accommodating flight. 
+After goodbyes were said, next was the long haul flight. To my surprise, I was seated next to someone from Tromso and a girl working in New York from Germany. With Stories shared, I did my best to pay off my debt.. of sleep. On what will now be known as my least accommodating flight. 
 
 <br/>
 
@@ -126,7 +126,7 @@ After goodbyes were said. Next was the long haul flight. To my surprise I was se
 
 <div class="article-text">
 
-I awoke to goodbyes and a snow covered landscape. Oh, and the urgency of locating the "busterminal" quick enough to also stuff my face with something akin to food. As luck would have it, words don't tend to change and signs abound.
+I awoke to goodbyes and a snow covered landscape. Oh, and the urgency of locating the "busterminal" quick enough to also stuff my face with something akin to food. As luck would have it, words don't tend to change and there were signs abound.
 
 </div>
 
@@ -149,9 +149,9 @@ Goals accomplished, bus ridden, all that was left?
 * Gothenburg, found my train.
 * Big ole family with three kids and baby were my temporary friends
 * THEN A TRAIN DINNER (curry noods)
-* did a SLEEP: 6 hours of 'em!
+* did a SLEEP: 5 hours of 'em!
 * And a goodbye after I was done pretending to sleep
-* Calm, quiet car with myself and the swedish countryside for 5 hours.
+* Calm, quiet car with myself and the Swedish countryside for 5 hours.
 
 <br/>
 
@@ -184,8 +184,6 @@ At least the views were captivating.
 </div>
 
 <div class="article-text">
-
-
 
 * "Ostra? My stop? I don't think so" It Was.
 * "Turistation. Sounds familiar." It was the wrong one.
@@ -224,8 +222,8 @@ I had made it.
 
 ## Dress appropriately.
 
-1. ##  Ice is slippery. 
-2. ##  Sweden is cold. 
+1. ## Ice is slippery.
+2. ## Sweden is cold.
 
 <br/>
 
