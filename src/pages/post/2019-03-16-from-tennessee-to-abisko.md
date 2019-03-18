@@ -214,18 +214,14 @@ I had made it.
 
 <br/>
 
-## lessons learned:
+**lessons learned:**
 
-<br/>
+**Always prepare offline maps, reservations, and directions.**
 
-## Always prepare offline maps, reservations, and directions.
+**Dress appropriately.**
 
-<br/>
-
-## Dress appropriately.
-
-1. ## Ice is slippery.
-2. ## Sweden is cold.
+1. **Ice is slippery.**
+2. **Sweden is cold.**
 
 <br/>
 
