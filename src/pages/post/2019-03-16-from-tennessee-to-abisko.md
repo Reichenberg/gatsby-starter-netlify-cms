@@ -92,7 +92,7 @@ Specifically this blog
 
 <div class="article-image">
 
-![culture coffee new york](https://ucarecdn.com/0079456d-e685-4df5-99a4-c49d79050ed4/ "culture coffee new york")
+![culture coffee new york](https://ucarecdn.com/0079456d-e685-4df5-99a4-c49d79050ed4/-/resize/1000x/-/quality/lighter/ "culture coffee new york")
 
 </div>
 
@@ -104,7 +104,7 @@ Various complications meant that my friend and I would have almost 2 hours to ca
 
 <div class="article-image">
 
-![cinnamon snail](https://ucarecdn.com/5a875ff0-c020-4410-809c-143b5afb5805/ "cinnamon snail vegan")
+![cinnamon snail](https://ucarecdn.com/5a875ff0-c020-4410-809c-143b5afb5805/-/resize/1000x/-/quality/lighter/ "cinnamon snail vegan")
 
 </div>
 
@@ -120,7 +120,7 @@ After goodbyes were said, next was the long haul flight. To my surprise, I was s
 
 <div class="article-image">
 
-![Oslo airport](https://ucarecdn.com/2a0d23a8-24c9-49a4-969f-159da37e7f42/ "oslo airport")
+![Oslo airport](https://ucarecdn.com/2a0d23a8-24c9-49a4-969f-159da37e7f42/-/resize/1000x/-/quality/lighter/ "oslo airport")
 
 </div>
 
@@ -132,7 +132,7 @@ I awoke to goodbyes and a snow covered landscape. Oh, and the urgency of locatin
 
 <div class="article-image">
 
-![Gothenburg swedish station sweets](https://ucarecdn.com/178c4882-79ad-4534-9a11-1f65a173cae9/ "Gothenburg swedish station sweets")
+![Gothenburg swedish station sweets](https://ucarecdn.com/178c4882-79ad-4534-9a11-1f65a173cae9/-/resize/1000x/-/quality/lighter/ "Gothenburg swedish station sweets")
 
 </div>
 
@@ -161,7 +161,7 @@ Goals accomplished, bus ridden, all that was left?
 
 <div class="article-image">
 
-![man walking through the Swedish snow](https://ucarecdn.com/f3b64791-78b7-4b39-8c58-750266930a63/ "man walking through the Swedish snow")
+![man walking through the Swedish snow](https://ucarecdn.com/f3b64791-78b7-4b39-8c58-750266930a63/-/resize/1000x/-/quality/lighter/ "man walking through the Swedish snow")
 
 </div>
 
@@ -179,7 +179,7 @@ At least the views were captivating.
 
 <div class="article-image">
 
-![swedish winter house](https://ucarecdn.com/b518a789-f54f-43d5-84e3-5ff1f09b3b51/ "swedish winter house")
+![swedish winter house](https://ucarecdn.com/b518a789-f54f-43d5-84e3-5ff1f09b3b51/-/resize/1000x/-/quality/lighter/ "swedish winter house")
 
 </div>
 
@@ -194,7 +194,7 @@ At least the views were captivating.
 
 <div class="article-image">
 
-![dark, cold abisko tunnel](https://ucarecdn.com/d344262f-fc1d-4860-a410-58dc3e3e62ed/ "dark, cold abisko tunnel")
+![dark, cold abisko tunnel](https://ucarecdn.com/d344262f-fc1d-4860-a410-58dc3e3e62ed/-/resize/1000x/-/quality/lighter/ "dark, cold abisko tunnel")
 
 </div>
 
