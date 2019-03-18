@@ -192,6 +192,8 @@ At least the views were captivating.
 * cool, I'll walk that in the dark and -15. no prob
 * I am gonna buy those show spike tho, plz thank you.
 
+</div>
+
 <div class="article-image">
 
 ![dark, cold abisko tunnel](https://ucarecdn.com/d344262f-fc1d-4860-a410-58dc3e3e62ed/-/resize/1000x/-/quality/lighter/ "dark, cold abisko tunnel")
