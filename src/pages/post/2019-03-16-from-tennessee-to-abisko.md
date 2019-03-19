@@ -13,6 +13,7 @@ tags:
   - journal
   - trip
   - journey
+  - train
 ---
 <div class="article-text">
 
@@ -61,7 +62,7 @@ Then I was in New York. A 13 hour layover was ready to greet me.
 
 <br/>
 
-## Sleep Debt: -6
+## Sleep Debt: -8+2 = -6
 
 <br/>
 
@@ -69,7 +70,7 @@ Then I was in New York. A 13 hour layover was ready to greet me.
 
 I was to meet a friend! A friend whom I've seen in person for a whole 5min prior. That's a story for another time!
 
-Newark to Manhattan was my current goal. I've done that enough times, its like ... easy now. I should do an article on that?
+Newark to Manhattan was my current goal. I've done that enough times, it's like ... easy now. I should do an article on that?
 
 This brief dip into the BIG APPLE consisted of a normalcy for me... 
 
@@ -87,13 +88,11 @@ Specifically this blog
 
 <br/>
 
-
-
 </div>
 
 <div class="article-image">
 
-![culture coffee new york](https://ucarecdn.com/0079456d-e685-4df5-99a4-c49d79050ed4/ "culture coffee new york")
+![culture coffee new york](https://ucarecdn.com/0079456d-e685-4df5-99a4-c49d79050ed4/-/resize/1000x/-/quality/lighter/ "culture coffee new york")
 
 </div>
 
@@ -105,13 +104,13 @@ Various complications meant that my friend and I would have almost 2 hours to ca
 
 <div class="article-image">
 
-![cinnamon snail](https://ucarecdn.com/5a875ff0-c020-4410-809c-143b5afb5805/ "cinnamon snail vegan")
+![cinnamon snail](https://ucarecdn.com/5a875ff0-c020-4410-809c-143b5afb5805/-/resize/1000x/-/quality/lighter/ "cinnamon snail vegan")
 
 </div>
 
 <div class="article-text">
 
-After goodbyes were said. Next was the long haul flight. To my surprise I was seated next to someone from Tromso and a girl working in New York from Germany. With Stories shared, I did my best to pay of my debt.. of sleep. On what will now be known as my least accommodating flight. 
+After goodbyes were said, next was the long haul flight. To my surprise, I was seated next to someone from Tromso and a girl working in New York from Germany. With Stories shared, I did my best to pay off my debt.. of sleep. On what will now be known as my least accommodating flight. 
 
 <br/>
 
@@ -121,12 +120,119 @@ After goodbyes were said. Next was the long haul flight. To my surprise I was se
 
 <div class="article-image">
 
-![Oslo airport](https://ucarecdn.com/2a0d23a8-24c9-49a4-969f-159da37e7f42/ "oslo airport")
+![Oslo airport](https://ucarecdn.com/2a0d23a8-24c9-49a4-969f-159da37e7f42/-/resize/1000x/-/quality/lighter/ "oslo airport")
 
 </div>
 
 <div class="article-text">
 
-TO BE CONTINUED
+I awoke to goodbyes and a snow covered landscape. Oh, and the urgency of locating the "busterminal" quick enough to also stuff my face with something akin to food. As luck would have it, words don't tend to change and there were signs abound.
+
+</div>
+
+<div class="article-image">
+
+![Gothenburg swedish station sweets](https://ucarecdn.com/178c4882-79ad-4534-9a11-1f65a173cae9/-/resize/1000x/-/quality/lighter/ "Gothenburg swedish station sweets")
+
+</div>
+
+<div class="article-text">
+
+Goals accomplished, bus ridden, all that was left? 
+
+<br/>
+
+20 hours more of train ride (thanks to delays)
+
+<br/>
+
+* Gothenburg, found my train.
+* Big ole family with three kids and baby were my temporary friends
+* THEN A TRAIN DINNER (curry noods)
+* did a SLEEP: 5 hours of 'em!
+* And a goodbye after I was done pretending to sleep
+* Calm, quiet car with myself and the Swedish countryside for 5 hours.
+
+<br/>
+
+## Sleep Debt: -12-8+5 = -15
+
+</div>
+
+<div class="article-image">
+
+![man walking through the Swedish snow](https://ucarecdn.com/f3b64791-78b7-4b39-8c58-750266930a63/-/resize/1000x/-/quality/lighter/ "man walking through the Swedish snow")
+
+</div>
+
+<div class="article-text">
+
+## BODEN to ABISKO, Sweden
+
+After switching trains from my comfy cave to a full car, my next stop was Abisko, sweden... in no less than 5 hours. As it happens, snow tends to build on the tracks in this climate. This has the added consequence of delaying trains that are on said tracks.. my train in particular, of course. I was gifted with nearly 2 hours of delays.
+
+<br/>
+
+At least the views were captivating.
+
+</div>
+
+<div class="article-image">
+
+![swedish winter house](https://ucarecdn.com/b518a789-f54f-43d5-84e3-5ff1f09b3b51/-/resize/1000x/-/quality/lighter/ "swedish winter house")
+
+</div>
+
+<div class="article-text">
+
+* "Ostra? My stop? I don't think so" It Was.
+* "Turistation. Sounds familiar." It was the wrong one.
+* Cause STF wasn't my hostel, I only found out after helping an elderly Australian lady with her luggage and gracefully losing my footing **no less than 3 times** on the ice in front of 5 strangers.
+* Oh 3km, cause my hostel was back at the last stop. **Thanks reception**
+* cool, I'll walk that in the dark and -15. no prob
+* I am gonna buy those show spike tho, plz thank you.
+
+</div>
+
+<div class="article-image">
+
+![dark, cold abisko tunnel](https://ucarecdn.com/d344262f-fc1d-4860-a410-58dc3e3e62ed/-/resize/1000x/-/quality/lighter/ "dark, cold abisko tunnel")
+
+</div>
+
+<div class="article-text">
+
+After all of this, I was greeted by a pair of wonderful french hostel mates and tea already prepared in a pot.
+
+<br/>
+
+They had seen my confused, sleep deprived self get off at the right station, then mistakenly get back on the train to warmly ride to the incorrect stop further into the national park and away from our shared hostel.
+
+<br/>
+
+I had made it.
+
+<br/>
+
+**lessons learned:**
+
+**Always prepare offline maps, reservations, and directions.**
+
+**Dress appropriately.**
+
+1. **Ice is slippery.**
+2. **Sweden is cold.**
+
+<br/>
+
+## Final Sleep Debt Count: -15
+
+<br/>
+
+## Hours traveled: 62
+
+<br/>
+
+## Cinnamon buns eaten: 2
 
 </div>
