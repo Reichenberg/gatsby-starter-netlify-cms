@@ -88,7 +88,7 @@ export default class IndexPage extends React.Component {
                     <img
                       src={`${
                         posts[0].node.frontmatter.bg_image
-                      }/-/resize/1000x/-/quality/lighter/`}
+                      }`}
                       alt={posts[0].node.frontmatter.bg_alt}
                     />
                     <div className="article-overlay">
