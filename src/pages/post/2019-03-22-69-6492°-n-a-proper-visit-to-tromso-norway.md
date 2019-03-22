@@ -32,7 +32,7 @@ My last day. A long night turned into a short walk. Greeted by a morning vista, 
 
 </div>
 
-<div class="article=text">
+<div class="article-text">
 
 With 10 minutes to check out, I ran into some recent friends leaving the hostel. Despite the invite, I was unable to join since every bit of my soul craved hot water. Packed, I cleaned up and made moves to lunch. Another friend whose sleep patterns more endearingly mimicked my own detailed her plans to hike to the Tromso South Beach. Without any immediate plans of my own to speak of, I agreed to join. 
 
