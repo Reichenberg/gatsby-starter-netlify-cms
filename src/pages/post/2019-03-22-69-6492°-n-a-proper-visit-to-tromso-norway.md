@@ -36,7 +36,15 @@ My last day. A long night turned into a short walk. Greeted by a morning vista, 
 
 With 10 minutes to check out, I ran into some recent friends leaving the hostel. Despite the invite, I was unable to join since every bit of my soul craved hot water. Packed, I cleaned up and made moves to lunch. Another friend whose sleep patterns more endearingly mimicked my own detailed her plans to hike to the Tromso South Beach. Without any immediate plans of my own to speak of, I agreed to join. 
 
-<br/>
+</div>
+
+<div class="article-image">
+
+![norsk woman wating for a bus](https://ucarecdn.com/3177f65d-fc43-44e8-b8e3-721611a509df/-/resize/1000x/-/quality/lighter/ "norsk woman wating for a bus")
+
+</div>
+
+<div class="article-text">
 
 A "quick" jaunt and handful of conversations later, we made it to said beach; however, upon arrival, we notice a pair of individuals who look familiar. Coincidentally it was a couple of the hostel mates from earlier. The ones whose invitation I had declined! We regrouped and shared various cookies while overlooking the vista.
 
