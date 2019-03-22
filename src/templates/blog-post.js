@@ -62,6 +62,7 @@ const ArticleStyled = styled.div`
         padding: 0;
         margin: 0;
         line-height: 1;
+        color: white;
         @media only screen and (min-width: 768px) {
           font-size: 38px;
         }
@@ -111,6 +112,7 @@ const ArticleStyled = styled.div`
       background-color: #fdfdfd;
       color: black;
       .article-text {
+        clear: both;
         padding-left: 20px;
         padding-top: 15px;
         padding-right: 30px;

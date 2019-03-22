@@ -53,15 +53,23 @@ export default class IndexPage extends React.Component {
           <ParallaxProvider>
             <PoseGroup animateOnMount>
               <FadeIn key={0} className="bio">
-                <h1>Welcome To An Account of Life</h1>
+              <h1>One Perspective,<br/> Attempting to find a better one</h1>
                 <p>
-                  Hey
-                  <br /> I bet you're wondering why I led you here.
-                  <br /> Or not. <br />
-                  Here's some words though. This is where I'll tell you about
-                  who I am, or at least who I think I am. No stability for me
-                  cause that's overrated. I travel and gather stories to tell my
+                  Hi<br/>
+                  Welcome to this thing I'm doing
+                  <br/>
+                  Because I quit my job and decided I needed to do something besides stare at a screen for while.
+                  <br/> 
+                  Don't get me wrong, I still stare at screens a lot, but now I get to write about it.
+                  <br/>
+                  I travel and gather stories to tell my
                   presumptive future grandchildren.
+                  <br/>
+                  Expect mostly stories with the occasionally informative twist. 
+                  <br/>
+                  Follow my journey more directly through instagram where I post updates <strike>incessantly</strike>  regularly.
+                  <br/>
+                  Also expect this blog to update and get better as time goes on ... cause I <strike>was</strike> am a software engineer.
                 </p>
                 <div className="social-links">
                   <a
