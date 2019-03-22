@@ -108,7 +108,7 @@ Once this situation was resolved, we made our way back home via ice covered stre
 
 <br/>
 
-As the night waned and my departure grew closer, I was sent off with Italian chocolates and hopeful plans to meet in the future. I was to catch a ferry and start a new journey.
+As the night waned and my departure grew closer, I was sent off with Italian chocolates and hopeful plans to meet in the future. I was to catch a ferry and start a new journey. I'm heading to the old viking capital Trondheim. After that my new goal, provided last minute and offhandedly by someone full of good advice and preparation, whom I hope to make a good friend, is a little set of islands off the coast and to the north of Scotland known as Faroe. So far as things transpire in my favor!
 
 </div>
 
