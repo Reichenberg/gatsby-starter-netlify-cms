@@ -162,10 +162,10 @@ export default class Footer extends React.Component {
             pose={inputFocused || email ? 'focused' : 'closed'}
             name="subscribe"
           >
-            <input type="hidden" name="form-name" value="subscribe" />
-            <input name="bot-field" />
             Subscribe
           </LabelPosed>
+          <input type="hidden" name="form-name" value="subscribe" />
+          <input name="bot-field" />
         </form>
         <div className="site-maps">
           <ul>
