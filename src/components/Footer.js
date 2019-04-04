@@ -153,6 +153,7 @@ export default class Footer extends React.Component {
           method="POST"
           data-netlify="true"
           onSubmit={this.handleSubmit}
+          data-netlify-honeypot="bot-field"
         >
           <input
             name="email"
@@ -166,6 +167,7 @@ export default class Footer extends React.Component {
             pose={inputFocused || email ? 'focused' : 'closed'}
             name="subscribe"
           >
+            <input type="hidden" name="form-name" value="subscribe" />
             Subscribe
           </LabelPosed>
         </form>
