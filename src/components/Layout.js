@@ -1,16 +1,17 @@
-import React, { Component } from 'react'
-import Helmet from 'react-helmet'
-import { StaticQuery, graphql, Link } from 'gatsby'
-import styled from 'styled-components'
-import GlobalStyles from './global.style'
-import Navbar from '../components/Navbar'
-import HammoIcon from './images/HammoIcon'
-import posed from 'react-pose'
-import Logo from '../components/images/Logo'
-import bgPortait from '../img/norway-portrait-min.mp4'
-import bgLandscape from '../img/norway-landscape-min.mp4'
-import { withSize } from 'react-sizeme'
-import { PoseGroup } from 'react-pose'
+import React, { Component } from 'react';
+import Helmet from 'react-helmet';
+import { StaticQuery, graphql, Link } from 'gatsby';
+import styled from 'styled-components';
+import GlobalStyles from './global.style';
+import Navbar from '../components/Navbar';
+import HammoIcon from './images/HammoIcon';
+import posed from 'react-pose';
+import Logo from '../components/images/Logo';
+import bgPortait from '../img/norway-portrait-min.mp4';
+import bgLandscape from '../img/norway-landscape-min.mp4';
+import { withSize } from 'react-sizeme';
+import { PoseGroup } from 'react-pose';
+import Footer from '../components/Footer';
 
 const HeaderPosed = posed.header({
   scrolled: {
@@ -28,7 +29,7 @@ const HeaderPosed = posed.header({
     transition: { ease: 'easeOut', duration: 200 },
     boxShadow: '0 0px 10px 5px rgba(100,100,100, .35)',
   },
-})
+});
 
 const LogoPosed = posed.div({
   scrolled: {
@@ -42,7 +43,7 @@ const LogoPosed = posed.div({
     left: '-38%',
     transition: { ease: 'linear', duration: 200 },
   },
-})
+});
 
 const LinksPosed = posed.ul({
   exit: { opacity: 1, y: -300 },
@@ -51,7 +52,7 @@ const LinksPosed = posed.ul({
     y: 0,
     transition: { duration: 800, delay: 500, ease: 'linear', type: 'tween' },
   },
-})
+});
 
 const ContentStyled = styled.div`
   #myVideo {
@@ -148,42 +149,42 @@ const ContentStyled = styled.div`
 
   width: 100vw;
   height: 100vh;
-`
+`;
 
 class TemplateWrapper extends Component {
   constructor(props) {
-    super(props)
+    super(props);
     this.state = {
       open: false,
       scrolled: false,
-    }
+    };
   }
 
   componentDidMount() {
-    window.addEventListener('scroll', this.handleScroll)
+    window.addEventListener('scroll', this.handleScroll);
   }
 
   componentWillUnmount() {
-    window.removeEventListener('scroll', this.handleScroll)
+    window.removeEventListener('scroll', this.handleScroll);
   }
   handleScroll = event => {
-    let scrollTop = event.srcElement.scrollingElement.scrollTop
+    let scrollTop = event.srcElement.scrollingElement.scrollTop;
     this.setState({
       scrolled: scrollTop > 34 ? true : false,
-    })
-  }
+    });
+  };
 
   toggleModal = () => {
-    const { open } = this.state
+    const { open } = this.state;
 
     this.setState({
       open: open ? false : true,
-    })
-  }
+    });
+  };
 
   render() {
-    const { scrolled } = this.state
-    const { size, forceOpen, renderBg } = this.props
+    const { scrolled } = this.state;
+    const { size, forceOpen, renderBg } = this.props;
 
     return (
       <StaticQuery
@@ -220,7 +221,10 @@ class TemplateWrapper extends Component {
                 property="og:title"
                 content={data.site.siteMetadata.title}
               />
-              <meta property="og:description" content={data.site.siteMetadata.description}/>
+              <meta
+                property="og:description"
+                content={data.site.siteMetadata.description}
+              />
               <meta property="og:url" content="https://chanceontravel.com" />
               <meta property="og:image" content="/img/test-landscape.jpg" />
               <link
@@ -295,7 +299,7 @@ class TemplateWrapper extends Component {
             <div className="overlay" />
 
             <div className="content">{this.props.children}</div>
-
+            <Footer />
             {size.width < 1024 && (
               <>
                 <Navbar open={this.state.open} />
@@ -316,8 +320,8 @@ class TemplateWrapper extends Component {
           </ContentStyled>
         )}
       />
-    )
+    );
   }
 }
 
-export default withSize()(TemplateWrapper)
+export default withSize()(TemplateWrapper);

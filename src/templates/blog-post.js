@@ -161,7 +161,6 @@ const ArticleStyled = styled.div`
     }
   }
 `
-
 export default class BlogPostTemplate extends React.Component {
   render() {
     const { markdownRemark: post } = this.props.data
@@ -178,7 +177,7 @@ export default class BlogPostTemplate extends React.Component {
 
             <FadeUp key={1} className="post-content">
               <div className="post-title">
-                <h2>{post.frontmatter.title}</h2>
+                <h1>{post.frontmatter.title}</h1>
                 <p className="detail-text">{post.frontmatter.date}</p>
               </div>
               <section className="post-content-html">

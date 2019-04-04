@@ -1,6 +1,10 @@
-import styled, { createGlobalStyle } from 'styled-components'
+import styled, { createGlobalStyle } from 'styled-components';
 
 const GlobalStyles = createGlobalStyle`
+body *{
+  padding: 0;
+  margin: 0;
+}
 body{
     padding: 0;
   margin: 0;
@@ -94,6 +98,6 @@ button{
 
 
 
-`
+`;
 
-export default GlobalStyles
+export default GlobalStyles;

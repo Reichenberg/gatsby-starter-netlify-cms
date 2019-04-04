@@ -1,14 +1,14 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import { Link, graphql } from 'gatsby'
-import Layout from '../components/Layout'
-import IndexStyled from '../components/Styles/index.style'
-import posed, { PoseGroup } from 'react-pose'
-import Instagram from '../components/images/Instagram'
-import Youtube from '../components/images/Youtube'
-import LazyLoad from 'react-lazyload'
-import Pinterest from '../components/images/Pinterest'
-import { ParallaxProvider, Parallax } from 'react-scroll-parallax'
+import React from 'react';
+import PropTypes from 'prop-types';
+import { Link, graphql } from 'gatsby';
+import Layout from '../components/Layout';
+import IndexStyled from '../components/Styles/index.style';
+import posed, { PoseGroup } from 'react-pose';
+import Instagram from '../components/images/Instagram';
+import Youtube from '../components/images/Youtube';
+import LazyLoad from 'react-lazyload';
+import Pinterest from '../components/images/Pinterest';
+import { ParallaxProvider, Parallax } from 'react-scroll-parallax';
 
 const FadeIn = posed.section({
   enter: {
@@ -21,7 +21,7 @@ const FadeIn = posed.section({
     },
   },
   exit: { opacity: 0, y: 20 },
-})
+});
 
 const FadeUp = posed.section({
   enter: {
@@ -34,18 +34,18 @@ const FadeUp = posed.section({
     },
   },
   exit: { opacity: 0, y: 50 },
-})
+});
 
 export default class IndexPage extends React.Component {
   constructor(props) {
-    super(props)
-    this.state = { scrolled: false }
+    super(props);
+    this.state = { scrolled: false };
   }
 
   render() {
-    const { data } = this.props
-    const { scrolled } = this.state
-    const { edges: posts } = data.allMarkdownRemark
+    const { data } = this.props;
+    const { scrolled } = this.state;
+    const { edges: posts } = data.allMarkdownRemark;
 
     return (
       <Layout renderBg={true}>
@@ -53,23 +53,31 @@ export default class IndexPage extends React.Component {
           <ParallaxProvider>
             <PoseGroup animateOnMount>
               <FadeIn key={0} className="bio">
-              <h1>One Perspective,<br/> Attempting to find a better one</h1>
+                <h1>
+                  One Perspective,
+                  <br /> Attempting to find a better one
+                </h1>
                 <p>
-                  Hi<br/>
+                  Hi
+                  <br />
                   Welcome to this thing I'm doing
-                  <br/>
-                  Because I quit my job and decided I needed to do something besides stare at a screen for while.
-                  <br/> 
-                  Don't get me wrong, I still stare at screens a lot, but now I get to write about it.
-                  <br/>
-                  I travel and gather stories to tell my
-                  presumptive future grandchildren.
-                  <br/>
-                  Expect mostly stories with the occasionally informative twist. 
-                  <br/>
-                  Follow my journey more directly through instagram where I post updates <strike>incessantly</strike>  regularly.
-                  <br/>
-                  Also expect this blog to update and get better as time goes on ... cause I <strike>was</strike> am a software engineer.
+                  <br />
+                  Because I quit my job and decided I needed to do something
+                  besides stare at a screen for while.
+                  <br />
+                  Don't get me wrong, I still stare at screens a lot, but now I
+                  get to write about it.
+                  <br />
+                  I travel and gather stories to tell my presumptive future
+                  grandchildren.
+                  <br />
+                  Expect mostly stories with the occasionally informative twist.
+                  <br />
+                  Follow my journey more directly through instagram where I post
+                  updates <strike>incessantly</strike> regularly.
+                  <br />
+                  Also expect this blog to update and get better as time goes on
+                  ... cause I <strike>was</strike> am a software engineer.
                 </p>
                 <div className="social-links">
                   <a
@@ -84,7 +92,6 @@ export default class IndexPage extends React.Component {
                   >
                     <Instagram />
                   </a>
-                  <Youtube />
                 </div>
               </FadeIn>
               <FadeIn className="featured-header" key={1}>
@@ -96,7 +103,7 @@ export default class IndexPage extends React.Component {
                     <img
                       src={`${
                         posts[0].node.frontmatter.bg_image
-                      }`}
+                      }/-/resize/1000x/-/quality/lighter/`}
                       alt={posts[0].node.frontmatter.bg_alt}
                     />
                     <div className="article-overlay">
@@ -153,7 +160,7 @@ export default class IndexPage extends React.Component {
           </ParallaxProvider>
         </IndexStyled>
       </Layout>
-    )
+    );
   }
 }
 
@@ -163,7 +170,7 @@ IndexPage.propTypes = {
       edges: PropTypes.array,
     }),
   }),
-}
+};
 
 export const pageQuery = graphql`
   query IndexQuery {
@@ -190,4 +197,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;
