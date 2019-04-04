@@ -123,12 +123,7 @@ export default class Footer extends React.Component {
     });
   };
 
-  setEmail = e => {
-    console.log(e.target.value);
-    this.setState({
-      email: e.target.value,
-    });
-  };
+  handleChange = e => this.setState({ [e.target.name]: e.target.value });
 
   handleSubmit = e => {
     e.preventDefault();
@@ -138,7 +133,7 @@ export default class Footer extends React.Component {
       headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
       body: encode({
         'form-name': form.getAttribute('name'),
-        email: this.state.email,
+        ...this.state,
       }),
     }).catch(error => alert(error));
   };
