@@ -6,8 +6,8 @@ import Instagram from '../components/images/Instagram';
 import Pinterest from '../components/images/Pinterest';
 
 const LabelPosed = posed.label({
-  focused: { letterSpacing: 0, left: 0, top: '-20px' },
-  closed: { letterSpacing: '8px', left: '30%', top: 0 },
+  focused: { letterSpacing: 0, left: 0, top: '-20px', zIndex: 4 },
+  closed: { letterSpacing: '8px', left: '30%', top: 0, zIndex: 2 },
 });
 
 function encode(data) {
@@ -59,8 +59,28 @@ const FooterStyled = styled.footer`
         text-align: center;
         color: #676767;
         font-size: 20px;
+transition: border-bottom .5s linear;
+      }
+
+      input:focus{
+        border-bottom: 2px solid red;
 
       }
+
+      input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus
+textarea:-webkit-autofill,
+textarea:-webkit-autofill:hover
+textarea:-webkit-autofill:focus,
+select:-webkit-autofill,
+select:-webkit-autofill:hover,
+select:-webkit-autofill:focus {
+    border-bottom: 2px solid red;
+  -webkit-text-fill-color: black;
+  -webkit-box-shadow: 0 0 0px 1000px #dcdde2 inset;
+  transition: background-color 5000s ease-in-out 0s;
+}
     }
   }
   .site-maps {
