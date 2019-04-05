@@ -3,8 +3,10 @@ module.exports = {
     title: 'Chance Made a Travel Blog?',
     description:
       'Attempting to share the experience of existential dread.... I mean travel, adventures, regretful food comas, and any mistakes along the way. Travel advice from flights to food and fun.',
+    siteUrl: 'https://chanceontravel.com',
   },
   plugins: [
+    'gatsby-plugin-sitemap',
     'gatsby-plugin-react-helmet',
     `gatsby-plugin-styled-components`,
     {
@@ -86,4 +88,4 @@ module.exports = {
     'gatsby-plugin-purgecss', // must be after other CSS plugins
     'gatsby-plugin-netlify', // make sure to keep it last in the array
   ],
-}
+};

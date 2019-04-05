@@ -165,7 +165,7 @@ export default class Footer extends React.Component {
             Subscribe
           </LabelPosed>
           <input type="hidden" name="form-name" value="subscribe" />
-          <input name="bot-field" />
+          <input name="bot-field" hidden />
         </form>
         <div className="site-maps">
           <ul>
