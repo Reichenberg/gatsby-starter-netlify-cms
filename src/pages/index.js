@@ -75,9 +75,6 @@ export default class IndexPage extends React.Component {
                   <br />
                   Follow my journey more directly through instagram where I post
                   updates <strike>incessantly</strike> regularly.
-                  <br />
-                  Also expect this blog to update and get better as time goes on
-                  ... cause I <strike>was</strike> am a software engineer.
                 </p>
                 <div className="social-links">
                   <a

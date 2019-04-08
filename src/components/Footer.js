@@ -6,8 +6,8 @@ import Instagram from '../components/images/Instagram';
 import Pinterest from '../components/images/Pinterest';
 
 const LabelPosed = posed.label({
-  focused: { letterSpacing: 0, left: 0, top: '-20px', zIndex: 4 },
-  closed: { letterSpacing: '8px', left: '30%', top: 0, zIndex: 2 },
+  focused: { letterSpacing: 0, left: 0, top: '-25px' },
+  closed: { letterSpacing: '8px', left: '30%', top: 0 },
 });
 
 function encode(data) {
@@ -32,24 +32,21 @@ const FooterStyled = styled.footer`
   .subscribe {
     flex: 1;
     display: flex;
-    position: relative;
 
     @media only screen and (min-width: 1024px){
         width: 50%;
   }
 
-    label{
-        position: absolute;
-        color: #676767;
-        font-size: 20px;
-        letter-spacing: 8px;
-    z-index: 2;
-    left: 30%;
+div{
+  position: relative;
 
-    }
+  flex: 1;
+display: flex;
+}
+
       input {
+          flex: 1;
           z-index: 3;
-        flex: 1;
         background-color: transparent;
         border: none;
         border-bottom: 2px solid #707070;
@@ -61,6 +58,15 @@ const FooterStyled = styled.footer`
         font-size: 20px;
 transition: border-bottom .5s linear;
       }
+      label{
+        position: absolute;
+        color: #676767;
+        font-size: 20px;
+        letter-spacing: 8px;
+    z-index: 2;
+    left: 30%;
+
+    }
 
       input:focus{
         border-bottom: 2px solid red;
@@ -76,7 +82,6 @@ textarea:-webkit-autofill:focus,
 select:-webkit-autofill,
 select:-webkit-autofill:hover,
 select:-webkit-autofill:focus {
-    border: none;
   -webkit-text-fill-color: black;
   -webkit-box-shadow: 0 0 0px 1000px #dcdde2 inset;
   transition: background-color 5000s ease-in-out 0s;
@@ -111,7 +116,12 @@ export default class Footer extends React.Component {
   constructor(props) {
     super(props);
 
-    this.state = { inputFocused: false, placeholder: '', email: '' };
+    this.state = {
+      inputFocused: false,
+      placeholder: '',
+      email: '',
+      subscribed: false,
+    };
   }
 
   toggleFocus = () => {
@@ -135,11 +145,16 @@ export default class Footer extends React.Component {
         'form-name': form.getAttribute('name'),
         ...this.state,
       }),
-    }).catch(error => alert(error));
+    })
+      .then(() => {
+        //toast!
+        this.setState({ subscribed: true });
+      })
+      .catch(error => alert(error));
   };
 
   render() {
-    const { inputFocused, placeholder, email } = this.state;
+    const { inputFocused, placeholder, email, subscribed } = this.state;
     return (
       <FooterStyled>
         <form
@@ -150,20 +165,26 @@ export default class Footer extends React.Component {
           onSubmit={this.handleSubmit}
           data-netlify-honeypot="bot-field"
         >
-          <input
-            name="email"
-            type="email"
-            onFocus={this.toggleFocus}
-            onBlur={this.toggleFocus}
-            placeholder={placeholder}
-            onChange={this.setEmail}
-          />
-          <LabelPosed
-            pose={inputFocused || email ? 'focused' : 'closed'}
-            name="subscribe"
-          >
-            Subscribe
-          </LabelPosed>
+          <div>
+            {!subscribed && (
+              <input
+                name="email"
+                type="email"
+                onFocus={this.toggleFocus}
+                onBlur={this.toggleFocus}
+                placeholder={placeholder}
+                onChange={this.handleChange}
+                autocomplete="email"
+              />
+            )}
+            <LabelPosed
+              pose={inputFocused || email ? 'focused' : 'closed'}
+              name="subscribe"
+              for="email"
+            >
+              {subscribed ? 'You did it!' : 'Subscribe'}
+            </LabelPosed>
+          </div>
           <input type="hidden" name="form-name" value="subscribe" />
           <input name="bot-field" hidden />
         </form>
