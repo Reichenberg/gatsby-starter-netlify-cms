@@ -135,6 +135,13 @@ export default class Footer extends React.Component {
 
   handleChange = e => this.setState({ [e.target.name]: e.target.value });
 
+  keyPress = e => {
+    if (e.keyCode == 13) {
+      console.log(e);
+      this.handleChange(e);
+    }
+  };
+
   handleSubmit = e => {
     e.preventDefault();
     const form = e.target;
@@ -174,13 +181,14 @@ export default class Footer extends React.Component {
                 onBlur={this.toggleFocus}
                 placeholder={placeholder}
                 onChange={this.handleChange}
-                autocomplete="email"
+                autoComplete="email"
+                onKeyDown={this.keyPress}
               />
             )}
             <LabelPosed
               pose={inputFocused || email ? 'focused' : 'closed'}
               name="subscribe"
-              for="email"
+              htmlFor="email"
             >
               {subscribed ? 'You did it!' : 'Subscribe'}
             </LabelPosed>
