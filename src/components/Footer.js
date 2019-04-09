@@ -143,6 +143,7 @@ export default class Footer extends React.Component {
   };
 
   handleSubmit = e => {
+    const { email } = this.state;
     e.preventDefault();
     const form = e.target;
     fetch('/', {
@@ -150,12 +151,12 @@ export default class Footer extends React.Component {
       headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
       body: encode({
         'form-name': form.getAttribute('name'),
-        ...this.state,
+        email,
       }),
     })
       .then(() => {
         //toast!
-        this.setState({ subscribed: true, inputFocused: false });
+        this.setState({ subscribed: true, inputFocused: '' });
       })
       .catch(error => alert(error));
   };
