@@ -155,7 +155,7 @@ export default class Footer extends React.Component {
     })
       .then(() => {
         //toast!
-        this.setState({ subscribed: true });
+        this.setState({ subscribed: true, email: '' });
       })
       .catch(error => alert(error));
   };
