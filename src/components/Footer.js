@@ -138,7 +138,7 @@ export default class Footer extends React.Component {
   keyPress = e => {
     if (e.keyCode == 13) {
       console.log(e);
-      this.handleChange(e);
+      this.handleSubmit(e);
     }
   };
 
