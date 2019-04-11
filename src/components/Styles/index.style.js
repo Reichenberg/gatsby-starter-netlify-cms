@@ -1,4 +1,4 @@
-import styled from 'styled-components'
+import styled from 'styled-components';
 
 const IndexStyled = styled.div`
   display: flex;
@@ -22,7 +22,6 @@ const IndexStyled = styled.div`
     justify-content: end;
     @media only screen and (min-width: 1023px) {
       width: 50%;
-      
     }
 
     h2 {
@@ -55,21 +54,21 @@ const IndexStyled = styled.div`
   }
 
   .bio {
- 
     text-shadow: 0 0px 10px 5px rgba(0, 0, 0, 1);
 
     h1 {
       text-shadow: 0px 0px 6px #000;
       line-height: 1.3;
-      
     }
     p {
+      margin-top: 35px;
       text-shadow: 0px 0px 6px #000;
       text-align: center;
       line-height: 1.3;
     }
 
     .social-links {
+      margin-top: 35px;
       display: flex;
       justify-content: center;
       svg {
@@ -80,10 +79,10 @@ const IndexStyled = styled.div`
       width: 60%;
       margin-left: auto;
       margin-right: auto;
-      h1{
+      h1 {
         font-size: 50px;
       }
-      p{
+      p {
         font-size: 18px;
       }
     }
@@ -97,6 +96,6 @@ const IndexStyled = styled.div`
       width: 50%;
     }
   }
-`
+`;
 
-export default IndexStyled
+export default IndexStyled;
