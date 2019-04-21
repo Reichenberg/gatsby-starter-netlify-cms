@@ -9,6 +9,8 @@ import Youtube from '../components/images/Youtube';
 import LazyLoad from 'react-lazyload';
 import Pinterest from '../components/images/Pinterest';
 import { ParallaxProvider, Parallax } from 'react-scroll-parallax';
+import Booking from '../img/booking.png';
+import Airbnb from '../img/airbnb.png';
 
 const FadeIn = posed.section({
   enter: {
@@ -154,6 +156,43 @@ export default class IndexPage extends React.Component {
                 </div>
               ))}
             </div>
+            <h2 className="referral-header">
+              Travel Tools
+              <br />
+              and
+              <br /> money savers
+            </h2>
+            <a
+              className="referral-link"
+              href="https://www.booking.com/s/34_6/871fccd7"
+              target="_blank"
+            >
+              <img src={Booking} alt="booking.com" />
+              <div className="article-overlay">
+                <p>
+                  Easily search, book, and manage all your accommodations. Also,
+                  other things if you want. Use this to save <b>$25</b> on your
+                  first booking!
+                </p>
+                <p className="detail-text">All-in-One</p>
+              </div>
+            </a>
+            <a
+              className="referral-link airbnb"
+              href="https://www.airbnb.com/c/chancer121?currency=USD
+"
+              target="_blank"
+            >
+              <img src={Airbnb} alt="air bnb" />
+              <div className="article-overlay">
+                <p>
+                  Stay with hosts from around the world and experience culture
+                  the best way. With the locals and <b>$50+</b> extra in your
+                  pocket.
+                </p>
+                <p className="detail-text">Accomodation, Experience</p>
+              </div>
+            </a>
           </ParallaxProvider>
         </IndexStyled>
       </Layout>

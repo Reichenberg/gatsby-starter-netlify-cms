@@ -96,6 +96,36 @@ const IndexStyled = styled.div`
       width: 50%;
     }
   }
+
+  .referral-header {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+
+  .referral-link {
+    position: relative;
+    text-decoration: none;
+    padding: 20px;
+    background-color: #003580;
+    opacity: 0.8;
+    @media only screen and (min-width: 1023px) {
+      width: 50%;
+    }
+    img {
+      width: 50%;
+    }
+    .detail-text {
+      font-size: 12px;
+      color: rgb(175, 175, 175);
+      position: absolute;
+      top: 10px;
+      right: 10px;
+    }
+  }
+
+  .airbnb {
+    background-color: #ff5a60;
+  }
 `;
 
 export default IndexStyled;
