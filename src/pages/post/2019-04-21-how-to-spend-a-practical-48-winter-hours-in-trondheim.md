@@ -16,7 +16,9 @@ tags:
 Trondheim, once a viking capital, it dates back to the 11th century.
 Kings ruled over this land repelling invasions from fortresses and displaying heads upon spikes. The cafe lined cobbled streets now give way to the tread of bicycle tires where in centuries past Norse warriors prepared themselves to sail, pillage, and conquer. Though, you just want a kanelboller. I've got the hookup for you. With a budget minded guide to this cozy Norwegian city. 
 
-** DAY 1:**
+
+
+##  DAY 1:
 ​
 
 You're fresh of the boat at 6am, but not fresh, you're exhausted because it was a boat and it was full of...<a href="https://chanceontravel.com/post/2019-03-26-what-its-like-to-miss-your-hurtigruten-in-sortland-norway/" target="_blank">stressful situations </a>
@@ -42,9 +44,13 @@ you out because this is a fantastic coffee shop.
 <div class="article-text">
 ​
 Freshly charged and energized, time to see some of this ancient city.
+
+
 ​​<br/>
 
 Follow what will now be your major point of reference. The Nidelva River. Through the eastern part of town you'll find an oddly empty hostel and a room to yourself. Here at The Trondheim Vanderhjem you'll have a 4 person room all to yourself and save plenty of money by cooking in the onsite kitchen.
+
+
 ​<br/>
 
 ​
@@ -71,7 +77,7 @@ Now home to coffee shops and students. The tread of bike tires tends to be less 
 ​<br/>
 
 ​
-That is mostly out of service until May... or april.. but this is March. As you'll come to find out, March happens to be a less than ideal time to visit this city.
+That is mostly out of service until May... or April.. but this is March. As you'll come to find out, March happens to be a less than ideal time to visit this city.
 ​
 
 ​<br/>
@@ -79,7 +85,7 @@ That is mostly out of service until May... or april.. but this is March. As you'
 ​
 
 ​<br/>
-You're through admiring the fresh ground beans and local starving art installations.
+You're finished admiring the fresh ground beans and local starving art installations.
 ​​<br/>
 
 The Old town bridge, or Gamle Bybro if you're cultured, is close by. 
@@ -100,7 +106,7 @@ Now, in 2019, you can admire this strategic military crossing with your fresh ca
 </div>
 <div class="article-text">
 ​
-From here you'll get a view of the lumber lined canal, and your next destination past the bridge on your left side.
+From here you'll get a view of the lumber lined canal, and your next destination past the bridge on your left.
 
 <br/>
 
@@ -121,10 +127,10 @@ A highlight is an understatement. What my uneducated guess would call a Gothic c
 Admire it for as long as you deem worthy, since this happens to be the burial site of King Olav II...the patron saint of Norway.
 
 ​<br/>
-If you're still up for walking, and of course you are because it's cheaper than the buses, lets head a bit farther north, past the fine shopping and michelin restaraunts
+If you're still up for walking, and of course you are because it's cheaper than the buses, lets head a bit farther north, past the fine shopping and Michelin restaraunts
 ​<br/>
 
-and towards Stiftsgården, where you'll admire ALL THE CONSTRUCTION BECAUSE ITS MARCH AN NOT MAY.
+and towards Stiftsgården, where you'll admire ALL THE CONSTRUCTION BECAUSE ITS MARCH AND NOT MAY.
 ​<br/>
 **NEXT**
 ​<br/>
@@ -150,7 +156,7 @@ And help yourself to the "free"??? nugatti in the fridge.
 God Natt!
 ​
 
-**DAY 2:**
+## DAY 2:
 
 ​
 Wake up at your normal time. Probably a nice and early 11am. The sun is already risen and done half a days work and ready to greet you.
