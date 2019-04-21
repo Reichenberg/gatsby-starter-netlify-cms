@@ -92,6 +92,7 @@ const ArticleStyled = styled.div`
     }
 
     .tags {
+      position: absolute;
       list-style-type: none;
       margin: 0;
       padding: 10px 20px;
@@ -152,6 +153,10 @@ const ArticleStyled = styled.div`
             font-size: 24px;
           }
         }
+      }
+
+      .article-text:first-child {
+        padding-top: 40px;
       }
 
       p {
