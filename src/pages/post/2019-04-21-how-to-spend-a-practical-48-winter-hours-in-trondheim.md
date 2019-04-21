@@ -27,8 +27,7 @@ You're fresh of the boat at 6am, but not fresh, you're exhausted because it was 
 You need coffee, I need coffee. Google up a couple top ten lists. BAM <a href="https://www.jacobsensvart.no/" target="_blank">JACOBSEN OG SVART</a> locally roasted and highly praised, but... you get a new barista...
 ​
 ​<br/>
-Though, she's nice, and offers a cup of her training coffee. Still good, and free! After a ton of caffeine and the daily guilty kanelboller, you've done your research, and no one kicked 
-you out because this is a fantastic coffee shop. 
+Though, she's nice, and offers a cup of her training coffee. Still good, and free! After a ton of caffeine and the daily guilty kanelboller (cinnamon bun), you've done your research, and no one kicked you out because this is a fantastic coffee shop. 
 ​
 
 </div>
@@ -38,6 +37,8 @@ you out because this is a fantastic coffee shop.
 ​
 ![free coffee jacobsen og svart](https://ucarecdn.com/456c0c74-c9ed-4013-ab68-684646937f41/-/resize/1000x/-/quality/lighter/ "free coffee jacobsen og svart")
 ​
+
+![cinnamon bun at jacobsen og svart](https://ucarecdn.com/82c67bb8-cdf1-4cb5-ae36-92c0e4dff406/-/crop/2708x2503/0,1014/-/preview/-/enhance/82/-/sharp/13/-/resize/1000x/-/quality/lighter/ "cinnamon bun at jacobsen og svart")
 
 </div>
 ​
