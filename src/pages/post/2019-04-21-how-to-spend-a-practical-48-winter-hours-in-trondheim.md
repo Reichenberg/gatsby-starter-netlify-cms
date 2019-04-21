@@ -79,6 +79,8 @@ That is mostly out of service until May... or April.. but this is March. As you'
 ​
 
 ​<br/>
+
+
 **NOW.**
 ​
 
@@ -94,7 +96,7 @@ Redesigned, reengineered, and repurposed countless, like 3, times. In years past
 
 <br/>
 
-Now, in 2019, you can admire this strategic military crossing with your fresh cappacino unabated. 
+Now, in 2019, you can admire this strategic military crossing with your fresh cappuccino unabated. 
 
 </div>
 <div class="article-image">
@@ -132,6 +134,8 @@ If you're still up for walking, and of course you are because it's cheaper than 
 ​<br/>
 
 and towards Stiftsgården, where you'll admire ALL THE CONSTRUCTION BECAUSE ITS MARCH AND NOT MAY.
+
+
 ​<br/>
 
 **NEXT**
@@ -217,8 +221,7 @@ Wander around Bakklandet, admiring all the potential cuisine, and expensive dini
 
 ​<br/>
 
-Someone will then  also look at you, also confused, explain in half English half of whats going on, order the most mediocre Chicken Curry of your life for $20 and only afterwards ask about the 
-buffet you should have gotten instead.
+Someone will then  also look at you, also confused, explain in half English half of whats going on, order the most mediocre Chicken Curry of your life for $20 and only afterwards ask about the buffet you should have gotten instead.
 
 ​<br/>
 
@@ -252,8 +255,7 @@ If you're in the mood for an even better view, continue your trek up the sloping
 
 ​<br/>
 
-At the top of this spire is the best view of the city and surrounding area. Free to ascend. Spend your last night watching the sun descend, alone, where the staff won't 
-say a word to you because you look to lonely.
+At the top of this spire is the best view of the city and surrounding area. Free to ascend. Spend your last night watching the sun descend, alone, where the staff won't say a word to you because you look to lonely.
 
 </div>
 
