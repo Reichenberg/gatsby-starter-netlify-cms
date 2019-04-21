@@ -184,7 +184,7 @@ The hostel is silent and you're beginning to wonder if you remember how to talk 
 
 ​<br/>
 
-Contemplate the viability and worth of renting a bike.. then remember that it's March, Windy, cold, and that cool Bike lift that Trondheim is closed because it's off season.
+Contemplate the viability and worth of renting a bike.. then remember that it's March, Windy, cold, and that cool Bike lift that Trondheim has is closed because it's off season.
 
 ​<br/>
 
