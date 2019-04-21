@@ -3,6 +3,7 @@ import { graphql, Link } from 'gatsby';
 import Layout from '../components/Layout';
 import styled from 'styled-components';
 import posed, { PoseGroup } from 'react-pose';
+import Share from '../components/images/Share';
 
 const FadePosed = posed.div({
   enter: { opacity: 1 },
@@ -58,17 +59,25 @@ const ArticleStyled = styled.div`
       padding: 10px 20px;
       background-color: rgba(0, 0, 0, 0.35);
       position: relative;
-      h2 {
+      h1 {
         padding: 0;
         margin: 0;
         line-height: 1;
         color: white;
+        width: 90%;
+        text-align: left;
+        font-size: 26px;
         @media only screen and (min-width: 768px) {
           font-size: 38px;
         }
         @media only screen and (min-width: 1024px) {
           font-size: 50px;
         }
+      }
+      button {
+        position: absolute;
+        top: 0;
+        right: 20px;
       }
       .detail-text {
         font-size: 12px;
@@ -166,6 +175,23 @@ const ArticleStyled = styled.div`
   }
 `;
 export default class BlogPostTemplate extends React.Component {
+  handleShare = () => {
+    const { markdownRemark: post } = this.props.data;
+
+    if (navigator.share) {
+      navigator
+        .share({
+          title: post.frontmatter.title,
+          text: post.frontmatter.description,
+          url: window.document.location,
+        })
+        .then(() => console.log('Successful share'))
+        .catch(error => console.log("It didn't work", error));
+    } else {
+      console.log('share');
+    }
+  };
+
   render() {
     const { markdownRemark: post } = this.props.data;
 
@@ -182,6 +208,9 @@ export default class BlogPostTemplate extends React.Component {
             <FadeUp key={1} className="post-content">
               <div className="post-title">
                 <h1>{post.frontmatter.title}</h1>
+                <button onClick={this.handleShare}>
+                  <Share />
+                </button>
                 <p className="detail-text">{post.frontmatter.date}</p>
               </div>
               <section className="post-content-html">
