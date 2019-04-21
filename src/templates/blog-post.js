@@ -128,6 +128,7 @@ const ArticleStyled = styled.div`
         }
         a {
           color: #d69144;
+          text-decoration: none;
         }
         p {
           margin: 0;
