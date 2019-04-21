@@ -5,7 +5,7 @@ bg_image: 'https://ucarecdn.com/9192fc41-04a3-40e3-b335-5694757abae8/'
 bg_alt: nidelva canal bakklandet
 author: Chance Reichenberg
 date: 2019-04-21T17:33:10.704Z
-description: 'A DEFNITIVE, and budget minded, guide to a viking capital.'
+description: 'A DEFINITIVE, and budget minded, guide to a viking capital.'
 tags:
   - guide
   - trondheim
