@@ -58,11 +58,11 @@ After an incredible lack of guidance from the most apathetic receptionist in the
 ​
 <br/>
 ​<br/>
-You're in the fashion of saving money, and what's the best way to enjoy a city on the cheap? look at stuff? Which stuff is first in this Viking Capital. Some old shit.
+You're in the fashion of saving money, and what's the best way to enjoy a city on the cheap? Look at stuff. Which stuff is first in this Viking Capital? Some old shit.
 ​
 <br/>
 ​<br/>
-Follow your trusty guide, the Nidelva, down to a a neighborhood known as BAKKLANDET. an old set of cobblestone streets and wooden buildings that used to house viking warriors and families.
+Follow your trusty guide, the Nidelva, down to a a neighborhood known as BAKKLANDET. An old set of cobblestone streets and wooden buildings that used to house viking warriors and families.
 ​
 
 </div>
@@ -168,11 +168,11 @@ God Natt!
 ## DAY 2:
 
 ​
-Wake up at your normal time. Probably a nice and early 11am. The sun is already risen and done half a days work and ready to greet you.
+Wake up at your normal time. Probably a nice and early 11am. The sun is already risen, done half a days work, and ready to greet you.
 <br/>
 ​<br/>
 
-The hostel is silent and you're beginning to wonder if you remember how to talk so you state your routine aloud for no one to hear. Good news, your chords still work like they should.
+The hostel is silent, and you're beginning to wonder if you remember how to speak. So you state your routine aloud for no one to hear. Good news, your chords still work like they should.
 <br/>
 ​<br/>
 
@@ -213,7 +213,7 @@ To name only a few. Then, remember you're slowly running out of money and can't 
 <br/>
 ​<br/>
 
-Wander around Bakklandet, admiring all the potential cuisine, and expensive dining options and become frustrated and tell yourself.
+Wander around Bakklandet, admiring all the potential cuisine, and expensive dining options, and become frustrated and tell yourself.
 <br/>
 ​<br/>
 
@@ -225,15 +225,15 @@ Wander around Bakklandet, admiring all the potential cuisine, and expensive dini
 <br/>
 ​<br/>
 
-Someone will then  also look at you, also confused, explain in half English half of whats going on, order the most mediocre Chicken Curry of your life for $20 and only afterwards ask about the buffet you should have gotten instead.
+Someone will then look at you, also confused, explain in half English half of whats going on, order the most mediocre Chicken Curry of your life for $20 and only afterwards ask about the buffet you should have gotten instead.
 <br/>
 ​<br/>
 
-Once you've eaten, what is probably a quarter of your fill, walk it off of course, down past BAKKLANDET where it meets Vollafallet along the shore of the Nidelva.
+Once you've eaten, what is probably a quarter of your fill, walk it off, of course, down past BAKKLANDET where it meets Vollafallet along the shore of the Nidelva.
 <br/>
 ​<br/>
 
-Here, you can see couples holding hands to remind you of what could have been, and admire the river.
+Here, you can see couples holding hands to remind you of what could have been and admire the river.
 <br/>
 ​<br/>
 
@@ -241,7 +241,7 @@ Contemplate taking a ferry out to the highly praised **Munkholmen**, an islet in
 <br/>
 ​<br/>
 
-As the night approaches, walk up, literally. Towards **Kristiansten Fortress**. A strategic military location used to fend of some Swedish invasion, with a cool view of the city.
+As the night approaches, walk up, literally, towards **Kristiansten Fortress**. A strategic military location used to fend of some Swedish invasion, with a cool view of the city.
 ​
 
 </div>
@@ -255,7 +255,7 @@ If you're in the mood for an even better view, continue your trek up the sloping
 <br/>
 ​<br/>
 
-At the top of this spire is the best view of the city and surrounding area. Free to ascend. Spend your last night watching the sun descend, alone, where the staff won't say a word to you because you look to lonely.
+At the top of this spire is the best view of the city and surrounding area, free to ascend. Spend your last night watching the sun descend behind the mountain vista, where the staff won't say a word to you because you look too lonely... and need to charge your phone.
 
 </div>
 
@@ -266,7 +266,7 @@ At the top of this spire is the best view of the city and surrounding area. Free
 
 <div class="article-text">
 
-Trondheim is a uniquely captivating city, wholly worthy of your visit. Especially in the summer months. With an appropriate budget and time. You should enjoy all this city has to offer. From hiking to boat tours of majestic fjords and islands, take advantage of some of the best cycling infrastructure that Europe has to offer.
+Trondheim is a uniquely captivating city, wholly worthy of your visit, especially, probably in the summer months, with an appropriate budget and time. You should enjoy all this city has to offer. From hiking to boat tours of majestic fjords and islands, take advantage of some of the best cycling infrastructure that Europe has to offer.
 ​<br/>
 
 And please eat all the food that I couldn't.
