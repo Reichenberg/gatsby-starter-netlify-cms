@@ -213,9 +213,11 @@ export default class BlogPostTemplate extends React.Component {
             <FadeUp key={1} className="post-content">
               <div className="post-title">
                 <h1>{post.frontmatter.title}</h1>
-                <button onClick={this.handleShare}>
-                  <Share />
-                </button>
+                {navigator.share && (
+                  <button onClick={this.handleShare}>
+                    <Share />
+                  </button>
+                )}
                 <p className="detail-text">{post.frontmatter.date}</p>
               </div>
               <section className="post-content-html">
