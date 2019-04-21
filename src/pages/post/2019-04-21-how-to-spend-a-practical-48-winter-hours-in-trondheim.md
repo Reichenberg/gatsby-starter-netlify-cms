@@ -127,18 +127,14 @@ Admire it for as long as you deem worthy, since this happens to be the burial si
 
 ​<br/>
 
-
 If you're still up for walking, and of course you are because it's cheaper than the buses, lets head a bit farther north, past the fine shopping and Michelin restaurants.
-
 
 ​<br/>
 
 and towards Stiftsgården, where you'll admire ALL THE CONSTRUCTION BECAUSE ITS MARCH AND NOT MAY.
 ​<br/>
 
-
 **NEXT**
-
 
 ​<br/>
 West, along Kongens gate, you're headed to a more understated section of the city, filled with street art and more churches. Ilen Kirke will greet you, with approximately 2.3 million crows circling over head.
@@ -159,10 +155,8 @@ West, along Kongens gate, you're headed to a more understated section of the cit
 Once you've had your fill of walking stop by any of the local grocers on the way back to your abysmally empty hostel to cook a nice dinner and get to know yourself and loneliness a little bit better.
 ​<br/>
 
-
 And help yourself to the "free"??? nugatti in the fridge.
 ​<br/>
-
 
 God Natt!
 ​
@@ -172,44 +166,34 @@ God Natt!
 ​
 Wake up at your normal time. Probably a nice and early 11am. The sun is already risen and done half a days work and ready to greet you.
 
-
 ​<br/>
 
 The hostel is silent and you're beginning to wonder if you remember how to talk so you state your routine aloud for no one to hear. Good news, your chords still work like they should.
-
 
 ​<br/>
 
 Contemplate the viability and worth of renting a bike.. then remember that it's March, Windy, cold, and that cool Bike lift that Trondheim is closed because it's off season.
 
-
 ​<br/>
 
 Walking it is?
-
 
 ​<br/>
 
 Time to find somewhere to eat. Trondheim is one of the Gastronomic capitals of Norway. Boasting Incredible Norwegian inspired cuisine and multiple Michelin star establishments.
 
-
 ​<br/>
 
 "But, Chance" you'll say "You're on a budget. How do you choose what to spend your money on?"
 
-
 ​<br/>
-
 
 Easy!
 ​<br/>
 
-
 Very Poorly
 
 <br/>
-
-
 
 * CREDO RESTAURANT AND BISTRO
 * TO ROM OG KJØKKEN
@@ -219,42 +203,34 @@ Very Poorly
 
 To name only a few. Then, remember you're slowly running out of money and can't afford any of them.
 
-
 ​<br/>
 
 Wander around Bakklandet, admiring all the potential cuisine, and expensive dining options and become frustrated and tell yourself.
-
 
 ​<br/>
 
 "F\*\** this, you're traveling, it's your last day, you'll never be back here again. You're gonna enjoy it!" Hastily walk into Bakklandet Skydsstasjon, confused, and say:
 
-
 ​<br/>
 
 "Um, I'm hungry and don't know what I'm doing" mostly because there's no menu, no host, and an assortment of foods you've never seen before no less than 2ft to your right.
-
 
 ​<br/>
 
 Someone will then  also look at you, also confused, explain in half English half of whats going on, order the most mediocre Chicken Curry of your life for $20 and only afterwards ask about the 
 buffet you should have gotten instead.
 
-
 ​<br/>
 
 Once you've eaten, what is probably a quarter of your fill, walk it off of course, down past BAKKLANDET where it meets Vollafallet along the shore of the Nidelva.
-
 
 ​<br/>
 
 Here, you can see couples holding hands to remind you of what could have been, and admire the river.
 
-
 ​<br/>
 
-Contemplate taking a ferry out to the highly praised **Munkholmen**, an islet in the center of the **Trondheimfjord **where public executions were held 1000+ years ago, only to realize that ferry service only runs during the summer season, and find somewhere else to go.
-
+Contemplate taking a ferry out to the highly praised **Munkholmen**, an islet in the center of the **Trondheimfjord** where public executions were held 1000+ years ago, only to realize that ferry service only runs during the summer season, and find somewhere else to go.
 
 ​<br/>
 
@@ -272,7 +248,7 @@ As the night approaches, walk up, literally. Towards **Kristiansten Fortress**. 
 </div>
 <div class="article-text">
 ​
-If you're in the mood for an even better view, continue your trek up the sloping hills to **Tyholttårnet**.
+If you're in the mood for an even better view, continue your trek up the sloping hills to Tyholttårnet.
 
 ​<br/>
 
