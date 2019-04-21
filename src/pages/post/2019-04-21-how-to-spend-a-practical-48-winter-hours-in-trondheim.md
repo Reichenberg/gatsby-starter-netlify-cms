@@ -281,7 +281,7 @@ say a word to you because you look to lonely.
 
 <div class="article-image">
 
-![trondheim with a view from Tyholttårnet](https://ucarecdn.com/b08ced52-8edc-4615-9af8-bc8931fda331/ "trondheim with a view from Tyholttårnet")
+![trondheim with a view from Tyholttårnet](https://ucarecdn.com/b08ced52-8edc-4615-9af8-bc8931fda331/-/resize/1000x/-/quality/lighter/ "trondheim with a view from Tyholttårnet")
 
 </div>
 
