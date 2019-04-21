@@ -141,7 +141,7 @@ If you're still up for walking, and of course you are because it's cheaper than 
 
 ​<br/>
 
-and towards Stiftsgården, where you'll admire ALL THE CONSTRUCTION BECAUSE ITS MARCH AND NOT MAY.
+and towards Stiftsgården, where you'll admire ALL THE CONSTRUCTION BECAUSE IT'S MARCH AND NOT MAY.
 
 
 ​<br/>
