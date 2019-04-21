@@ -47,7 +47,15 @@ Freshly charged and energized, time to see some of this ancient city.
 
 ​​<br/>
 
-Follow what will now be your major point of reference. The Nidelva River. Through the eastern part of town you'll find an oddly empty hostel and a room to yourself. Here at The Trondheim Vanderhjem you'll have a 4 person room all to yourself and save plenty of money by cooking in the onsite kitchen.
+Follow what will now be your major point of reference. The Nidelva River. Through the eastern part of town you'll find an oddly empty hostel. Here at The Trondheim Vanderhjem you'll have a 4 person room to call yours and save plenty of money by cooking in the onsite kitchen, using a plethora of complimentary ingredients such as:
+
+<br/>
+
+* Mayonnaise
+* Salt
+* Strawberry Jam
+* Vinegar
+* and Oats!
 
 ​<br/>
 
