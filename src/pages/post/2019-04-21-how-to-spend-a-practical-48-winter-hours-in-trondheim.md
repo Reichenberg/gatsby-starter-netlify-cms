@@ -196,7 +196,7 @@ Time to find somewhere to eat. Trondheim is one of the Gastronomic capitals of N
 
 ​<br/>
 
-"But, Chance" you'll say "You're on a budget. How do you choose what to spend your money on?"
+"But, Chance," you'll say. "You're on a budget. How do you choose what to spend your money on?"
 
 ​<br/>
 
