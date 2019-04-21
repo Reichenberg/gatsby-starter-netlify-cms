@@ -201,6 +201,8 @@ Time to find somewhere to eat. Trondheim is one of the Gastronomic capitals of N
 ​<br/>
 
 Easy!
+
+
 ​<br/>
 
 Very Poorly
@@ -212,6 +214,8 @@ Very Poorly
 * EMILIES – AN EATERY
 * BAKGÅRDEN BAR & SPISERI
 * BAKKLANDET SKYDSSTASJON
+
+<br/>
 
 To name only a few. Then, remember you're slowly running out of money and can't afford any of them.
 
