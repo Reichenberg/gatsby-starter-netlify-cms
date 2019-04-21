@@ -120,6 +120,7 @@ From here you'll get a view of the lumber lined canal, and your next destination
 <div class="article-text">
 ​
 A highlight is an understatement. What my uneducated guess would call a Gothic cathedral stands before you. One of the most beautiful in Norway, and probably the world.
+
 ​<br/>
 
 Admire it for as long as you deem worthy, since this happens to be the burial site of King Olav II...the patron saint of Norway.
@@ -189,7 +190,7 @@ Walking it is?
 
 ​<br/>
 
-Time to find somewhere to eat. Trondheim is one of the Gastronimic capitals of Norway. Boasting Incredible norweigian inspired cuisine and mulitple michelin star establishments.
+Time to find somewhere to eat. Trondheim is one of the Gastronomic capitals of Norway. Boasting Incredible Norwegian inspired cuisine and multiple Michelin star establishments.
 
 
 ​<br/>
@@ -274,6 +275,7 @@ As the night approaches, walk up, literally. Towards **Kristiansten Fortress**. 
 If you're in the mood for an even better view, continue your trek up the sloping hills to **Tyholttårnet**.
 
 ​<br/>
+
 At the top of this spire is the best view of the city and surrounding area. Free to ascend. Spend your last night watching the sun descend, alone, where the staff won't 
 say a word to you because you look to lonely.
 
@@ -286,7 +288,6 @@ say a word to you because you look to lonely.
 </div>
 
 <div class="article-text">
-​<br/>
 
 Trondheim is a uniquely captivating city, wholly worthy of your visit. Especially in the summer months. With an appropriate budget and time. You should enjoy all this city has to offer. From hiking to boat tours of majestic fjords and islands, take advantage of some of the best cycling infrastructure that Europe has to offer.
 ​<br/>
