@@ -1,13 +1,13 @@
-import React from 'react'
-import { graphql, Link } from 'gatsby'
-import Layout from '../components/Layout'
-import styled from 'styled-components'
-import posed, { PoseGroup } from 'react-pose'
+import React from 'react';
+import { graphql, Link } from 'gatsby';
+import Layout from '../components/Layout';
+import styled from 'styled-components';
+import posed, { PoseGroup } from 'react-pose';
 
 const FadePosed = posed.div({
   enter: { opacity: 1 },
   exit: { opacity: 0 },
-})
+});
 
 const FadeUp = posed.div({
   enter: {
@@ -20,7 +20,7 @@ const FadeUp = posed.div({
     },
   },
   exit: { opacity: 0, y: 50 },
-})
+});
 
 const ArticleStyled = styled.div`
   .bg-image {
@@ -126,6 +126,9 @@ const ArticleStyled = styled.div`
           margin-left: auto;
           margin-right: auto;
         }
+        a {
+          color: #d69144;
+        }
         p {
           margin: 0;
           padding: 0;
@@ -160,10 +163,10 @@ const ArticleStyled = styled.div`
       }
     }
   }
-`
+`;
 export default class BlogPostTemplate extends React.Component {
   render() {
-    const { markdownRemark: post } = this.props.data
+    const { markdownRemark: post } = this.props.data;
 
     return (
       <Layout forceOpen={true}>
@@ -182,7 +185,6 @@ export default class BlogPostTemplate extends React.Component {
               </div>
               <section className="post-content-html">
                 <ul className="tags">
-                  
                   {post.frontmatter.tags.map(tag => (
                     <li className="tag">{tag}</li>
                   ))}
@@ -196,7 +198,7 @@ export default class BlogPostTemplate extends React.Component {
           </PoseGroup>
         </ArticleStyled>
       </Layout>
-    )
+    );
   }
 }
 
@@ -216,4 +218,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;
