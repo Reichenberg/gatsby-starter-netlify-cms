@@ -34,9 +34,8 @@ Though, she's nice, and offers a cup of her training coffee. Still good, and fre
 <div class="article-image">
 
 ![free coffee jacobsen og svart](https://ucarecdn.com/456c0c74-c9ed-4013-ab68-684646937f41/-/resize/1000x/-/quality/lighter/ "free coffee jacobsen og svart")
-​
-
 ![cinnamon bun at jacobsen og svart](https://ucarecdn.com/82c67bb8-cdf1-4cb5-ae36-92c0e4dff406/-/crop/2708x2503/0,1014/-/preview/-/enhance/82/-/sharp/13/-/resize/1000x/-/quality/lighter/ "cinnamon bun at jacobsen og svart")
+
 </div>
 ​
 <div class="article-text">
@@ -71,7 +70,9 @@ Follow your trusty guide, the Nidelva, down to a a neighborhood known as BAKKLAN
 
 </div>
 <div class="article-image">
+
 ![bakklandet](https://ucarecdn.com/fef98c0c-842a-4958-adf4-a1cc4202a09c/-/resize/1000x/-/quality/lighter/ "bakklandet")
+
 </div>
 <div class="article-text">
 ​
@@ -106,6 +107,7 @@ Now, in 2019, you can admire this strategic military crossing with your fresh ca
 <div class="article-image">
 
 ![old town bridge in bakklandet](https://ucarecdn.com/14b90405-7073-4a26-ad52-99b710e2bc69/-/resize/1000x/-/quality/lighter/ "old town bridge in bakklandet")
+
 </div>
 <div class="article-text">
 ​
@@ -120,6 +122,7 @@ From here you'll get a view of the lumber lined canal, and your next destination
 <div class="article-image">
 
 ![Nidaros Cathedral](https://ucarecdn.com/fcc15f2c-a8e0-4d8c-94c2-76f11b6a66a9/-/resize/1000x/-/quality/lighter/ "Nidaros Cathedral")
+
 </div>
 <div class="article-text">
 ​
@@ -150,6 +153,7 @@ West, along Kongens gate, you're headed to a more understated section of the cit
 <div class="article-image">
 
 ![ilem kirke, gloomy](https://ucarecdn.com/ead4cd90-4bb1-4300-83e8-0bdc9785e81f/-/resize/1000x/-/quality/lighter/ "ilem kirke, gloomy")
+
 </div>
 <div class="article-text">
 ​
