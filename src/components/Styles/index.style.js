@@ -21,24 +21,16 @@ const IndexStyled = styled.div`
   .featured-article {
     justify-content: end;
     @media only screen and (min-width: 1023px) {
-      width: 50%;
+      width: 80%;
+      margin: auto !important;
     }
 
     h2 {
       font-size: 28px !important;
-    }
-
-    .article-overlay {
-      max-height: none;
-      .detail-text {
-        font-size: 12px;
-        color: rgb(175, 175, 175);
-        position: absolute;
-        bottom: 10px;
-        right: 20px;
+      @media only screen and (min-width: 1023px) {
+        font-size: 35px !important;
       }
     }
-    overflow: hidden;
   }
 
   .featured-header {
@@ -88,43 +80,8 @@ const IndexStyled = styled.div`
     }
   }
 
-  .article-list {
-    display: flex;
-    width: 100vw;
-    flex-wrap: wrap;
-    .article {
-      width: 50%;
-    }
-  }
-
-  .referral-header {
-    text-align: center;
+  .more-articles-header {
     margin-bottom: 40px;
-  }
-
-  .referral-link {
-    position: relative;
-    text-decoration: none;
-    padding: 20px;
-    background-color: #003580;
-    opacity: 0.8;
-    @media only screen and (min-width: 1023px) {
-      width: 50%;
-    }
-    img {
-      width: 50%;
-    }
-    .detail-text {
-      font-size: 12px;
-      color: rgb(175, 175, 175);
-      position: absolute;
-      top: 10px;
-      right: 10px;
-    }
-  }
-
-  .airbnb {
-    background-color: #ff5a60;
   }
 `;
 

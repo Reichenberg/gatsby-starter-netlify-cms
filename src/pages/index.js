@@ -11,6 +11,7 @@ import Pinterest from '../components/images/Pinterest';
 import { ParallaxProvider, Parallax } from 'react-scroll-parallax';
 import Booking from '../img/booking.png';
 import Airbnb from '../img/airbnb.png';
+import Chase from '../img/sapphirePreferredCard.png';
 
 const FadeIn = posed.section({
   enter: {
@@ -107,7 +108,7 @@ export default class IndexPage extends React.Component {
                     />
                     <div className="article-overlay">
                       <h2>{posts[0].node.frontmatter.title}</h2>
-                      <p>
+                      <p className="article-description">
                         {posts[0].node.frontmatter.description.length > 140
                           ? `${posts[0].node.frontmatter.description.slice(
                               0,
@@ -124,7 +125,7 @@ export default class IndexPage extends React.Component {
               </FadeUp>
             </PoseGroup>
             <section>
-              <h2>More Words</h2>
+              <h2 className="more-articles-header">More Words</h2>
             </section>
             <div className="article-list">
               {posts.map((item, i) => (
@@ -140,7 +141,7 @@ export default class IndexPage extends React.Component {
                     </LazyLoad>
                     <div className="article-overlay">
                       <h2>{item.node.frontmatter.title}</h2>
-                      <p>
+                      <p className="article-description">
                         {item.node.frontmatter.description.length > 140
                           ? `${item.node.frontmatter.description.slice(
                               0,
@@ -167,7 +168,9 @@ export default class IndexPage extends React.Component {
               href="https://www.booking.com/s/34_6/871fccd7"
               target="_blank"
             >
-              <img src={Booking} alt="booking.com" />
+              <LazyLoad height={200}>
+                <img src={Booking} alt="booking.com" />
+              </LazyLoad>
               <div className="article-overlay">
                 <p>
                   Easily search, book, and manage all your accommodations. Also,
@@ -183,7 +186,9 @@ export default class IndexPage extends React.Component {
 "
               target="_blank"
             >
-              <img src={Airbnb} alt="air bnb" />
+              <LazyLoad height={200}>
+                <img src={Airbnb} alt="air bnb" />
+              </LazyLoad>
               <div className="article-overlay">
                 <p>
                   Stay with hosts from around the world and experience culture
@@ -191,6 +196,25 @@ export default class IndexPage extends React.Component {
                   pocket.
                 </p>
                 <p className="detail-text">Accomodation, Experience</p>
+              </div>
+            </a>
+            <a
+              className="referral-link chase"
+              href="https://www.referyourchasecard.com/6a/X1QZQ0SW98"
+              target="_blank"
+            >
+              <LazyLoad height={200}>
+                <img src={Chase} alt="chase-sapphire-card" />
+              </LazyLoad>
+              <div className="article-overlay">
+                <p>
+                  Free flights to Hong Kong! I got one. No International
+                  transaction fees, 2% back on travel expenses, and up to{' '}
+                  <b>$900</b> in reward points if you use this link!!!!!
+                </p>
+                <p className="detail-text">
+                  Rewards Program, Travel Credit Card
+                </p>
               </div>
             </a>
           </ParallaxProvider>

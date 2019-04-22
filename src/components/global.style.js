@@ -1,4 +1,4 @@
-import styled, { createGlobalStyle } from 'styled-components';
+import { createGlobalStyle } from 'styled-components';
 
 const GlobalStyles = createGlobalStyle`
 body *{
@@ -55,7 +55,22 @@ button{
     }
      .article{
        width: 50%;
+       overflow: hidden;
+       img{
+         width: 100% !important;
+       }
      }
+
+     .article-overlay{
+@media only screen and (max-width: 475px){
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.35) !important;
+
+    }
+
+     }
+
+  
   }
 
 .article {
@@ -74,18 +89,18 @@ button{
       background-color: rgba(0, 0, 0, 0.75);
       position: absolute;
       display: block-size;
-      max-height: 100px;
       padding: 10px 20px;
       box-sizing: border-box;
-  
+      .article-description {
+      padding: 10px 0;
+      font-size: 12px;
+    }
       h2 {
         margin: 0;
         font-size: 18px;
         line-height: 1;
       }
-      p{
-        font-size: 12px;
-      }
+   
       .detail-text {
         font-size: 12px;
         color: rgb(175,175,175);
@@ -98,6 +113,40 @@ button{
     }
   }
 
+  .referral-header {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+
+  .referral-link {
+    position: relative;
+    text-decoration: none;
+    padding: 20px;
+    background-color: #003580;
+    opacity: 0.8;
+    @media only screen and (min-width: 1023px) {
+      width: 50%;
+      margin:auto;
+    }
+    img {
+      width: 50%;
+    }
+    .detail-text {
+      font-size: 12px;
+      color: rgb(220, 220, 220);
+      position: absolute;
+      top: 10px;
+      right: 10px;
+    }
+  }
+
+  .airbnb {
+    background-color: #ff5a60;
+  }
+
+  .chase {
+    background-color: #0846a8;
+  }
 
 
 `;
