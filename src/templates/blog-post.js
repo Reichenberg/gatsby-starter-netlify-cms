@@ -4,6 +4,7 @@ import Layout from '../components/Layout';
 import styled from 'styled-components';
 import posed, { PoseGroup } from 'react-pose';
 import Share from '../components/images/Share';
+import Helmet from 'react-helmet';
 
 const FadePosed = posed.div({
   enter: { opacity: 1 },
@@ -155,7 +156,8 @@ const ArticleStyled = styled.div`
         }
       }
 
-      .article-text:first-child {
+      .article-text:first-child,
+      .article-image:first-child {
         padding-top: 40px;
       }
 
@@ -202,6 +204,18 @@ export default class BlogPostTemplate extends React.Component {
 
     return (
       <Layout forceOpen={true}>
+        <Helmet>
+          <title>{post.frontmatter.title}</title>
+          <meta name="description" content={post.frontmatter.description} />
+          <meta property="og:type" content="chance on travel" />
+          <meta property="og:title" content={post.frontmatter.title} />
+          <meta
+            property="og:description"
+            content={post.frontmatter.description}
+          />
+          <meta property="og:url" content={window.document.location} />
+          <meta property="og:image" content={post.frontmatter.bg_image} />
+        </Helmet>
         <ArticleStyled>
           <PoseGroup animateOnMount>
             <FadePosed
