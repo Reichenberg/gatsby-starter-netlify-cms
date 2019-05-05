@@ -7,13 +7,13 @@ import Pinterest from '../components/images/Pinterest';
 import Subscribe from '../components/Subscribe';
 
 const FooterStyled = styled.footer`
+  z-index: 3;
   display: flex;
   flex-direction: column;
   background-color: #dcdde2;
   position: relative;
   padding: 30px 20px;
   padding-bottom: 80px;
-  margin-top: 50px;
 
   @media only screen and (min-width: 1024px) {
     padding-bottom: 30px;

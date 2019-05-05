@@ -48,7 +48,7 @@ button{
     display:flex;
     width: 100vw;
     flex-wrap: wrap;
-    margin-bottom: 100px;
+    padding-bottom: 100px;
 
     @media only screen and (min-width: 1023px){
     width: 50vw !important;

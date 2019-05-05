@@ -5,6 +5,7 @@ import styled from 'styled-components';
 import posed, { PoseGroup } from 'react-pose';
 import Share from '../components/images/Share';
 import Helmet from 'react-helmet';
+import ArticleList from '../components/ArticleList';
 
 const FadePosed = posed.div({
   enter: { opacity: 1 },
@@ -27,7 +28,6 @@ const FadeUp = posed.div({
 const ArticleStyled = styled.div`
   .bg-image {
     position: fixed;
-    z-index: 2;
     top: 0;
     width: 100%;
     overflow: hidden;
@@ -180,6 +180,17 @@ const ArticleStyled = styled.div`
       }
     }
   }
+
+  .suggested-articles {
+    background-color: rgba(0, 0, 0, 0.35);
+    padding-top: 40px;
+    padding-left: 60px;
+    .more-articles-header {
+      margin-bottom: 40px;
+      text-align: center;
+      text-shadow: 0px 0px 6px #000;
+    }
+  }
 `;
 export default class BlogPostTemplate extends React.Component {
   handleShare = () => {
@@ -246,6 +257,12 @@ export default class BlogPostTemplate extends React.Component {
                   className="post-html"
                   dangerouslySetInnerHTML={{ __html: post.html }}
                 />
+              </section>
+              <section className="suggested-articles">
+                <h2 className="more-articles-header">
+                  More places and stories, RIGHT HERE!
+                </h2>
+                <ArticleList tags={post.frontmatter.tags} />
               </section>
             </FadeUp>
           </PoseGroup>

@@ -12,6 +12,7 @@ import { ParallaxProvider, Parallax } from 'react-scroll-parallax';
 import Booking from '../img/booking.png';
 import Airbnb from '../img/airbnb.png';
 import Chase from '../img/sapphirePreferredCard.png';
+import ArticleList from '../components/ArticleList';
 
 const FadeIn = posed.section({
   enter: {
@@ -127,36 +128,7 @@ export default class IndexPage extends React.Component {
             <section>
               <h2 className="more-articles-header">More Words</h2>
             </section>
-            <div className="article-list">
-              {posts.map((item, i) => (
-                <div className="article" key={item.node.frontmatter.title}>
-                  <Link key={item + i} to={item.node.fields.slug}>
-                    <LazyLoad height={200}>
-                      <img
-                        src={`${
-                          item.node.frontmatter.bg_image
-                        }/-/resize/700x/-/quality/lighter/`}
-                        alt={item.node.frontmatter.bg_alt}
-                      />
-                    </LazyLoad>
-                    <div className="article-overlay">
-                      <h2>{item.node.frontmatter.title}</h2>
-                      <p className="article-description">
-                        {item.node.frontmatter.description.length > 140
-                          ? `${item.node.frontmatter.description.slice(
-                              0,
-                              140
-                            )} . . .`
-                          : item.node.frontmatter.description}
-                      </p>
-                      <p className="detail-text">
-                        {item.node.frontmatter.date}
-                      </p>
-                    </div>
-                  </Link>
-                </div>
-              ))}
-            </div>
+            <ArticleList />
             <h2 className="referral-header">
               Travel Tools
               <br />
@@ -182,8 +154,7 @@ export default class IndexPage extends React.Component {
             </a>
             <a
               className="referral-link airbnb"
-              href="https://www.airbnb.com/c/chancer121?currency=USD
-"
+              href="https://www.airbnb.com/c/chancer121?currency=USD"
               target="_blank"
             >
               <LazyLoad height={200}>
