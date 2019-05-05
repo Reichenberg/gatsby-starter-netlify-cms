@@ -146,6 +146,7 @@ button{
 
   .chase {
     background-color: #0846a8;
+    margin-bottom: 60px;
   }
 
 
