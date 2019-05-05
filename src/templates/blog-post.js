@@ -194,6 +194,7 @@ const ArticleStyled = styled.div`
 `;
 export default class BlogPostTemplate extends React.Component {
   constructor() {
+    super();
     this.state = {
       url: '',
     };
