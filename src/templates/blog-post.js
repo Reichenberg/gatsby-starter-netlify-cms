@@ -193,6 +193,12 @@ const ArticleStyled = styled.div`
   }
 `;
 export default class BlogPostTemplate extends React.Component {
+  constructor() {
+    this.state = {
+      url: '',
+    };
+  }
+
   handleShare = () => {
     const { markdownRemark: post } = this.props.data;
 
@@ -210,6 +216,12 @@ export default class BlogPostTemplate extends React.Component {
     }
   };
 
+  componentDidMount() {
+    this.setState({
+      url: window.document.location,
+    });
+  }
+
   render() {
     const { markdownRemark: post } = this.props.data;
 
@@ -224,7 +236,7 @@ export default class BlogPostTemplate extends React.Component {
             property="og:description"
             content={post.frontmatter.description}
           />
-          <meta property="og:url" content={window.document.location} />
+          <meta property="og:url" content={this.state.url} />
           <meta property="og:image" content={post.frontmatter.bg_image} />
         </Helmet>
         <ArticleStyled>
