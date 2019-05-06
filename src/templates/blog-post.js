@@ -182,13 +182,21 @@ const ArticleStyled = styled.div`
   }
 
   .suggested-articles {
-    background-color: rgba(0, 0, 0, 0.35);
+    background-color: white;
     padding-top: 40px;
-    padding-left: 60px;
+    @media only screen and (min-width: 768px) {
+      font-size: 24px;
+      padding-left: 60px;
+    }
     .more-articles-header {
+      color: black;
       margin-bottom: 40px;
       text-align: center;
-      text-shadow: 0px 0px 6px #000;
+      text-shadow: 0px 0px 6px #aaa;
+    }
+
+    .article {
+      background-color: rgb(25, 25, 25);
     }
   }
 `;
