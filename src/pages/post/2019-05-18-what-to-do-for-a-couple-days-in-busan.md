@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: What to do for a couple days in Busan.
+title: 'What a weekend in Busan, South Korea Looks like if you''re tired and cheap.'
 bg_image: 'https://ucarecdn.com/a04becda-73b7-4ef0-ad55-7033efc7f75e/'
 bg_alt: Buddha celebration in Busan
 author: Chance Reichenberg
@@ -157,8 +157,7 @@ Disappointment awaits those bearing permanent scars in the form of ink laden ski
 
 </br>
 
-**
-BE FOREWARNED FOR I WAS SADDENED DEEPLY.**
+**BE FOREWARNED FOR I WAS SADDENED DEEPLY.**
 
 </br>
 
@@ -166,7 +165,7 @@ The only cure is to drown your sorrows in the massive food court adorning the ba
 
 </br>
 
-You'll most certainly reach your fill, head farther down in Shinsegae and you'll eventually run into something your childhood self dreamed of.
+You'll most certainly reach your fill. Head farther down in Shinsegae and you'll eventually run into something your childhood self dreamed of.
 
 </div>
 
@@ -178,7 +177,7 @@ You'll most certainly reach your fill, head farther down in Shinsegae and you'll
 
 <div class="article-text">
 
-Continuing back to Haeundae spend a relaxing night along the beach and the markets, admiring the illegal fireworks and beach-side fish market. You might never return.
+Continuing back to Haeundae, spend a relaxing night along the beach and the markets, admiring the illegal fireworks and beach-side fish market. You might never return.
 
 </div>
 
