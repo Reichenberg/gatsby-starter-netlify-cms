@@ -139,11 +139,12 @@ const ArticleStyled = styled.div`
         }
         .instagram-media {
           max-width: none !important;
-          margin-top: 20px;
-          margin-bottom: 20px;
+          margin-top: 20px !important;
+          margin-bottom: 20px !important;
         }
         iframe {
           width: 100% !important;
+          margin-bottom: 20px !important;
         }
         a {
           color: #d69144;
