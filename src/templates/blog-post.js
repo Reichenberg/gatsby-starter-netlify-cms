@@ -137,6 +137,14 @@ const ArticleStyled = styled.div`
           margin-left: auto;
           margin-right: auto;
         }
+        .instagram-media {
+          max-width: none !important;
+          margin-top: 20px;
+          margin-bottom: 20px;
+        }
+        iframe {
+          width: 100% !important;
+        }
         a {
           color: #d69144;
           text-decoration: none;
