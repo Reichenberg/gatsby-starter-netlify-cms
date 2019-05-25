@@ -12,9 +12,11 @@ tags:
   - journal
   - travel
 ---
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1qNmsG8YZYAxBGamg8L9iCWpVI-H4s5zO" width="640" height="480"></iframe>
+
 
 <div class="article-text">
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1qNmsG8YZYAxBGamg8L9iCWpVI-H4s5zO" width="640" height="480"></iframe>
 
 My first and only, conscious and stated, goal for this journey was to witness the Aurora Borealis. Now I find myself 15lbs lighter, 3 tattoos heavier, and in desperate need of additional storage for my phone. 
 
