@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
 title: 'Okay, It''s been 3 months. Let''s recap. [PART 1]'
-bg_image: 'https://ucarecdn.com/1a10cd51-e555-465a-8a49-b1cbfa296134/'
-bg_alt: You know it's fancy when the ceilings are just mirrors.
+bg_image: 'https://ucarecdn.com/84fdee5d-eb0d-4314-b49c-f0dbb759964b/'
+bg_alt: That first selfie.
 author: Chance Reichenberg
 date: 2019-05-25T16:13:22.650Z
 description: Turns out travel is difficult and keeping up is harder than I thought.
@@ -12,6 +12,8 @@ tags:
   - journal
   - travel
 ---
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1qNmsG8YZYAxBGamg8L9iCWpVI-H4s5zO" width="640" height="480"></iframe>
+
 <div class="article-text">
 
 My first and only, conscious and stated, goal for this journey was to witness the Aurora Borealis. Now I find myself 15lbs lighter, 3 tattoos heavier, and in desperate need of additional storage for my phone. 
