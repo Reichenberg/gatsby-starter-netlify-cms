@@ -62,20 +62,21 @@ export default class IndexPage extends React.Component {
                   <br /> Attempting to find a better one
                 </h1>
                 <p>
-                  Hi
+                  <b>Food, Photos, Insight, Epiphanies</b>
                   <br />
-                  Welcome to this thing I'm doing
+                  Welcome to this self-induced rollercoaster.
                   <br />
-                  Because I quit my job and decided I needed to do something
-                  besides stare at a screen for while.
+                  I quit my job and decided I needed to do something besides
+                  stare at a screen for a living.
                   <br />
                   Don't get me wrong, I still stare at screens a lot, but now I
-                  get to write about it.
+                  get to write about it, or procrastinate writing about it.
                   <br />
-                  I travel and gather stories to tell my presumptive future
-                  grandchildren.
+                  I travel and gather stories and food to share with my
+                  presumptive future grandchildren.
                   <br />
-                  Expect mostly stories with the occasionally informative twist.
+                  Expect mostly stories with the occasionally informative twist
+                  and food in-between
                   <br />
                   Follow my journey more directly through instagram where I post
                   updates <strike>incessantly</strike> regularly.
