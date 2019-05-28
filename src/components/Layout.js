@@ -231,6 +231,7 @@ class TemplateWrapper extends Component {
                 rel="stylesheet"
                 href="https://use.typekit.net/kmg5ybz.css"
               />
+              <script async src="//www.instagram.com/embed.js" />
             </Helmet>
             <GlobalStyles />
             <HeaderPosed
