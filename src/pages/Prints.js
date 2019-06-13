@@ -14,7 +14,7 @@ import Airbnb from '../img/airbnb.png';
 import Chase from '../img/sapphirePreferredCard.png';
 import ArticleList from '../components/ArticleList';
 
-export default class Prints extends Component {
+export default class Prints extends React.Component {
   constructor() {
     super();
   }
