@@ -19,21 +19,27 @@ tags:
   - prague
   - czech republic
 ---
+<div class="article-text>
+
 ## Hostels
 
-Where university students are lured into sex slavery and house orgies are a nightly occurrence only occasionally spiced up by the odd backpack guitarist.</br>
+Where university students are lured into sex slavery and house orgies are a nightly occurrence only occasionally spiced up by the odd backpack guitarist.
 
-But you want a good hostel.</br>
+</br>
 
-I've been to …. A couple at this point. I’d like to think I’ve gained enough knowledge to guide you in the right path, or at the very least teach you how to ask google where you should lay your head and valuables for a night or 4.</br>
+But you want a good hostel.
+
+</br>
+
+I've been to …. A couple at this point. I’d like to think I’ve gained enough knowledge to guide you in the right path, or at the very least teach you how to ask google where you should lay your head and valuables for a night or 4.
+
+</br>
 
 First. Hostels are fine. Forget the stereotypes you think you know, They’re mostly wrong, unless you’re right, then good job. Aside from the occasional room of sleep apnea patients, hostels are safe, communal places that are ideal for a solo traveler and mediocre for everyone else. Most offer private rooms if you’re afraid of people sleeping near you, and gender specific rooms for peace of mind.
 
-</br>
+</br>
 
 So let’s figure out how to sift through the thousands of death traps and find that dream hostel.
-
-
 
 ## PRICE
 
@@ -60,17 +66,28 @@ I tend to prefer the smaller, locally owned and operated hostels:
 
 Cross reference reviews from sites like Hostelworld, <a href="https://www.booking.com/s/34_6/871fccd7">booking.com</a>, google reviews
 
- Be on the lookout more for the amount of reviews that the overall rating. If the hostel has 4 or more stars, it will probably be a safe bet. </br>
+ Be on the lookout more for the amount of reviews that the overall rating. If the hostel has 4 or more stars, it will probably be a safe bet.
+ </br>
 
 Read the worst reviews first. Typically, it will be someone complaining about an annoyance that is pretty insignificant, but this is where the worst of issues can be quickly highlighted, e.g. hygiene related trouble (plumbing, unusable showers), reasonably bad customer service, and the worst offender, UNUSABLE WIFI.
 
-Check that instagram. Is it active? Does it look like they portray a good atmosphere? Are there comments that praise the hostel (not from employees).
+Check that instagram. Is it active? Does it look like they portray a good atmosphere? Are there comments that praise the hostel (not from employees)
+.
 
 ## LOCATION
 
-![train outside a hostel in Osaka](https://ucarecdn.com/9863bdba-30fd-4c81-873b-dcdbdd5ebd01/ "train outside a hostel in Osaka")
+</div>
 
-**Here’s a quick tip.** Always figure out the good neighborhoods to stay in.</br>
+<div class="article-image>
+
+![train outside a hostel in Osaka](https://ucarecdn.com/9863bdba-30fd-4c81-873b-dcdbdd5ebd01/-/resize/1000x/-/quality/lighter/ "train outside a hostel in Osaka")
+
+</div>
+
+<div class="article-text">
+
+**Here’s a quick tip.** Always figure out the good neighborhoods to stay in.
+</br>
 
 The last thing you want is a 45 minute commute back to your hostel every night, having no options for food, or, even worse, having to walk 20 minutes everyday just to get to the nearest metro station.</br>
 
@@ -80,8 +97,6 @@ Other settings to keep in mind:
 
 * Is it central?
 * Is it close to public transit? Metro, tram, ferry, bus, bikes?
-
-
 
 ## MISC.
 
@@ -97,8 +112,6 @@ Other settings to keep in mind:
 * Do they plan activities often?
 * How accommodating are they? From late night bookings to directions from the airport. It’s great to find a place with good recommendations that responds promptly. 
 
-
-
 ## THE PROCESS
 
 There is a benefit to booking ahead. There will always be more options and the price is unlikely to fluctuate anyway. If you know when you’re going to be in a city, it’s best to go ahead and press that button.
@@ -111,48 +124,61 @@ Always check the properties website last as they might have a cheaper booking si
 
 Weigh the benefit of your preferences. Maybe that great location is a bit more every night, or that cozy looking hostel with the mascot cat is a 10 minute walk from the station.
 
-
-
 My best hostel recs:
 
-<a href=”http://www.vagabondsbelfast.com/”>Vagabonds</a>
+<a href=”http://www.vagabondsbelfast.com/
+”>Vagabonds</a>
 
 </br>
 
  Belfast, Ireland
 
+</div>
+
 <div class=”article-image”>
 
-![vagabonds belfast, ireland](https://ucarecdn.com/be033be7-291c-43ac-8a7a-20db63fee9d5/ "vagabonds belfast, ireland")
+![vagabonds belfast, ireland](https://ucarecdn.com/be033be7-291c-43ac-8a7a-20db63fee9d5/-/resize/1000x/-/quality/lighter/ "vagabonds belfast, ireland")
 
 </div>
+
+<div class="article-text>
 
 <a href="https://hostel-downtown.cz/en/">Hostel DownTown</a>
 
 Prague, Czech Republic
 
+</div>
+
 <div class="article-image">
 
-![charles bridge, prague, czech republic](https://ucarecdn.com/96ff19dd-f9cf-49a6-8327-186fc8b1e9ce/ "charles bridge, prague, czech republic")
+![charles bridge, prague, czech republic](https://ucarecdn.com/96ff19dd-f9cf-49a6-8327-186fc8b1e9ce/-/resize/1000x/-/quality/lighter/ "charles bridge, prague, czech republic")
 
 </div>
 
-<A href=”http://gojo-guest-house.com/”>Gojo GuestHouse</a>
+<div class="article-text>
+
+<A href=”http://gojo-guest-house.com/
+”>Gojo GuestHouse</a>
 
 </br>
 
  Kyoto, Japan
 
+</div>
+
 <div class=”article-image”>
 
-![kyoto japan on a rainy night](https://ucarecdn.com/fdb60256-766b-4f88-bbe1-f724d54d3e5e/ "kyoto japan on a rainy night")
+![kyoto japan on a rainy night](https://ucarecdn.com/fdb60256-766b-4f88-bbe1-f724d54d3e5e/-/resize/1000x/-/quality/lighter/ "kyoto japan on a rainy night")
 
 </div>
 
-<a href=”https://www.booking.com/hotel/kr/that-house.en-gb.html?aid=311984;label=that-house-eIePgXJ4fQF1%2Akpuf0lzwAS162173049335%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap1t4%3Aneg%3Afi%3Atiaud-285284111486%3Akwd-168609599072%3Alp1008250%3Ali%3Adec%3Adm;sid=7cbee3a288e6addd92c054c438c7aaca;dest_id=-716583;dest_type=city;dist=0;hapos=1;hpos=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1560424436;srpvid=85564ef9e763019d;type=total;ucfs=1&#hotelTmpl”>That.House</a>
+<div class="article-text>
+
+<a href=”https://www.booking.com/hotel/kr/that-house.en-gb.html?aid=311984;label=that-house-eIePgXJ4fQF1%2Akpuf0lzwAS162173049335%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap1t4%3Aneg%3Afi%3Atiaud-285284111486%3Akwd-168609599072%3Alp1008250%3Ali%3Adec%3Adm;sid=7cbee3a288e6addd92c054c438c7aaca;dest_id=-716583;dest_type=city;dist=0;hapos=1;hpos=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1560424436;srpvid=85564ef9e763019d;type=total;ucfs=1&#hotelTmpl
+”>That.House</a>
 
 </br>
 
  Seoul, SK
 
-<div class=”article-image”></div>
+</div>
