@@ -19,7 +19,7 @@ tags:
   - prague
   - czech republic
 ---
-<div class="article-text>
+<div class="article-text">
 
 ## Hostels
 
@@ -78,7 +78,7 @@ Check that instagram. Is it active? Does it look like they portray a good atmosp
 
 </div>
 
-<div class="article-image>
+<div class="article-image">
 
 ![train outside a hostel in Osaka](https://ucarecdn.com/9863bdba-30fd-4c81-873b-dcdbdd5ebd01/-/resize/1000x/-/quality/lighter/ "train outside a hostel in Osaka")
 
@@ -141,7 +141,7 @@ My best hostel recs:
 
 </div>
 
-<div class="article-text>
+<div class="article-text">
 
 <a href="https://hostel-downtown.cz/en/">Hostel DownTown</a>
 
@@ -155,7 +155,7 @@ Prague, Czech Republic
 
 </div>
 
-<div class="article-text>
+<div class="article-text">
 
 <A href=”http://gojo-guest-house.com/
 ”>Gojo GuestHouse</a>
@@ -172,7 +172,7 @@ Prague, Czech Republic
 
 </div>
 
-<div class="article-text>
+<div class="article-text">
 
 <a href=”https://www.booking.com/hotel/kr/that-house.en-gb.html?aid=311984;label=that-house-eIePgXJ4fQF1%2Akpuf0lzwAS162173049335%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap1t4%3Aneg%3Afi%3Atiaud-285284111486%3Akwd-168609599072%3Alp1008250%3Ali%3Adec%3Adm;sid=7cbee3a288e6addd92c054c438c7aaca;dest_id=-716583;dest_type=city;dist=0;hapos=1;hpos=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1560424436;srpvid=85564ef9e763019d;type=total;ucfs=1&#hotelTmpl
 ”>That.House</a>
