@@ -33,9 +33,25 @@ But you want a good hostel.
 
 I've been to …. A couple at this point. I’d like to think I’ve gained enough knowledge to guide you in the right path, or at the very least teach you how to ask google where you should lay your head and valuables for a night or 4.
 
+</div>
+
+<div class="article-image">
+
+![cascina raspau, como, italy](https://ucarecdn.com/59867f19-27da-4f58-bb4f-a9c7a8b766b6/-/resize/1000x/-/quality/lighter/ "cascina raspau, como, italy")
+
+</div>
+
+<div class="article-text">
+
+First. Hostels are fine. 
+
 </br>
 
-First. Hostels are fine. Forget the stereotypes you think you know, They’re mostly wrong, unless you’re right, then good job. Aside from the occasional room of sleep apnea patients, hostels are safe, communal places that are ideal for a solo traveler and mediocre for everyone else. Most offer private rooms if you’re afraid of people sleeping near you, and gender specific rooms for peace of mind.
+Forget the stereotypes you think you know, They’re mostly wrong, unless you’re right, then good job. Aside from the occasional room of sleep apnea patients, hostels are safe, communal places that are ideal for a solo traveler and mediocre for everyone else. Most offer private rooms if you’re afraid of people sleeping near you, and gender specific rooms for peace of mind.
+
+</br>
+
+If you're lucky you'll make lifelong friends. If you're unlucky you'll be mad at that guy Ted from Canada who came in at 4am and forgot how loud the zippers on his secondhand hiking bag are.
 
 </br>
 
@@ -44,6 +60,22 @@ So let’s figure out how to sift through the thousands of death traps and find 
 ## PRICE
 
 For obvious reasons this is going to be a balancing act with price taking a central role. Think of price as a rubber band that will reign in our expectations… wait or the reigns on a horse that reign the horse. Actually, pretend you’re a horse and price is your set of reigns… yeah.
+
+</br>
+
+This is the second major benefit of hostels. Nothing is cheaper (for a solo-traveler) and provides an equivalent social atmosphere. Some offer an assortment of free toiletries and quality of life items. Hostels are the main reason the budget travel industry can even exist. TAKE ADVANTAGE OF THEIR EXISTENCE. 
+
+</br>
+
+Prices will fluctuate by seasons and holidays. So plan accordingly. 
+
+</br> 
+
+Prices will also vary by booking method and website. It's always suggested to view the property on multiple sites and their own.
+
+</br>
+
+**Quick Tip: HostelWorld typically has free cancellation up to 24hrs prior to check-in**
 
 ## EXPERIENCE
 
@@ -148,13 +180,17 @@ Weigh the benefit of your preferences. Maybe that great location is a bit more e
 
 </br>
 
-My best hostel recs:
+Some of the best places I've ever laid my head:
 
 </br>
 
 <a href=”http://www.vagabondsbelfast.com/”>Vagabonds</a>
 
  Belfast, Ireland
+
+</br>
+
+More memories in 2 weeks than you'll normally have in years. This place knows how to party and won't give you a choice. The fun group of staff is world class, and you'll leave wondering how you survived, in the best of ways.
 
 </div>
 
@@ -170,6 +206,10 @@ My best hostel recs:
 
 Prague, Czech Republic
 
+</br>
+
+Dinners, puppet shows, and drinking games. It's hard to ask for much more this close to Charles Bridge.
+
 </div>
 
 <div class="article-image">
@@ -184,6 +224,10 @@ Prague, Czech Republic
 
  Kyoto, Japan
 
+</br>
+
+Welcomed from the moment you step in. This cozy hostel is one of a kind with the kindest staff.
+
 </div>
 
 <div class="article-image">
@@ -197,5 +241,9 @@ Prague, Czech Republic
 <a href=”https://app.onda.me/v2/booking/thathouse”>That.House</a>
 
  Seoul, SK
+
+</br>
+
+A unique hostel run by some fun locals who will go out of their way to make sure you feel at home. Expect improvised parties, home cooking, and nights filled with k-pop music videos in one of the best neighborhoods in Seoul.
 
 </div>
