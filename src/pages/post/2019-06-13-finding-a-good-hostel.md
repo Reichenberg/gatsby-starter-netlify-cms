@@ -47,13 +47,13 @@ For obvious reasons this is going to be a balancing act with price taking a cent
 
 ## EXPERIENCE
 
-What kind of experience are you looking to have? If all you’re concerned about is getting lit and going out with strangers, the franchise hostels are fine, but there are some issues.
+What kind of experience are you looking to have? If all you’re concerned about is getting lit and going out with strangers, the franchise hostels are fine, but there are some issues.</br>
 
-Your “Generator Hostels” of the world.:
+Your “Generator Hostels” of the world:
 
 * They’ll charge you for basically everything shy of standing in the room
 * They don’t effectively plan group activities (typically)
-* There will be 3 million people. Getting lost in the crowd is a real possibility if you’re socially anxious.
+* There will be 3 million people. Getting lost in the crowd is a real possibility if you’re socially anxious.</br>
 
 I tend to prefer the smaller, locally owned and operated hostels:
 
@@ -64,12 +64,12 @@ I tend to prefer the smaller, locally owned and operated hostels:
 
 ## REVIEWS
 
-Cross reference reviews from sites like Hostelworld, <a href="https://www.booking.com/s/34_6/871fccd7">booking.com</a>, google reviews
+Cross reference reviews from sites like Hostelworld, <a href="https://www.booking.com/s/34_6/871fccd7">Booking.com</a>, google reviews.</br>
 
  Be on the lookout more for the amount of reviews that the overall rating. If the hostel has 4 or more stars, it will probably be a safe bet.
  </br>
 
-Read the worst reviews first. Typically, it will be someone complaining about an annoyance that is pretty insignificant, but this is where the worst of issues can be quickly highlighted, e.g. hygiene related trouble (plumbing, unusable showers), reasonably bad customer service, and the worst offender, UNUSABLE WIFI.
+Read the worst reviews first. Typically, it will be someone complaining about an annoyance that is pretty insignificant, but this is where the worst of issues can be quickly highlighted, e.g. hygiene related trouble (plumbing, unusable showers), reasonably bad customer service, and the worst offender, UNUSABLE WIFI.</br>
 
 Check that instagram. Is it active? Does it look like they portray a good atmosphere? Are there comments that praise the hostel (not from employees)
 .
@@ -114,20 +114,19 @@ Other settings to keep in mind:
 
 ## THE PROCESS
 
-There is a benefit to booking ahead. There will always be more options and the price is unlikely to fluctuate anyway. If you know when you’re going to be in a city, it’s best to go ahead and press that button.
+There is a benefit to booking ahead. There will always be more options and the price is unlikely to fluctuate anyway. If you know when you’re going to be in a city, it’s best to go ahead and press that button.</br>
 
-Most hostels will also offer free cancellation up to 24 hours before your booking date. SO, if you’re like me and afraid of commitment, you’ve got a way to escape, I mean change your mind.
+Most hostels will also offer free cancellation up to 24 hours before your booking date. SO, if you’re like me and afraid of commitment, you’ve got a way to escape, I mean change your mind.</br>
 
-Cross reference using hostel world and booking
+Cross reference using Hostelworld and booking.</br>
 
-Always check the properties website last as they might have a cheaper booking since the other providers charge them a fee.
+Always check the properties website last as they might have a cheaper booking since the other providers charge them a fee.</br>
 
-Weigh the benefit of your preferences. Maybe that great location is a bit more every night, or that cozy looking hostel with the mascot cat is a 10 minute walk from the station.
+Weigh the benefit of your preferences. Maybe that great location is a bit more every night, or that cozy looking hostel with the mascot cat is a 10 minute walk from the station.</br>
 
 My best hostel recs:
 
-<a href=”http://www.vagabondsbelfast.com/
-”>Vagabonds</a>
+<a href=”http://www.vagabondsbelfast.com/”>Vagabonds</a>
 
 </br>
 
@@ -135,7 +134,7 @@ My best hostel recs:
 
 </div>
 
-<div class=”article-image”>
+<div class="article-image">
 
 ![vagabonds belfast, ireland](https://ucarecdn.com/be033be7-291c-43ac-8a7a-20db63fee9d5/-/resize/1000x/-/quality/lighter/ "vagabonds belfast, ireland")
 
@@ -157,8 +156,7 @@ Prague, Czech Republic
 
 <div class="article-text">
 
-<A href=”http://gojo-guest-house.com/
-”>Gojo GuestHouse</a>
+<A href=”http://gojo-guest-house.com/”>Gojo GuestHouse</a>
 
 </br>
 
@@ -166,7 +164,7 @@ Prague, Czech Republic
 
 </div>
 
-<div class=”article-image”>
+<div class="article-image">
 
 ![kyoto japan on a rainy night](https://ucarecdn.com/fdb60256-766b-4f88-bbe1-f724d54d3e5e/-/resize/1000x/-/quality/lighter/ "kyoto japan on a rainy night")
 
@@ -174,8 +172,7 @@ Prague, Czech Republic
 
 <div class="article-text">
 
-<a href=”https://www.booking.com/hotel/kr/that-house.en-gb.html?aid=311984;label=that-house-eIePgXJ4fQF1%2Akpuf0lzwAS162173049335%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap1t4%3Aneg%3Afi%3Atiaud-285284111486%3Akwd-168609599072%3Alp1008250%3Ali%3Adec%3Adm;sid=7cbee3a288e6addd92c054c438c7aaca;dest_id=-716583;dest_type=city;dist=0;hapos=1;hpos=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1560424436;srpvid=85564ef9e763019d;type=total;ucfs=1&#hotelTmpl
-”>That.House</a>
+<a href=”https://www.booking.com/hotel/kr/that-house.en-gb.html?aid=311984;label=that-house-eIePgXJ4fQF1%2Akpuf0lzwAS162173049335%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap1t4%3Aneg%3Afi%3Atiaud-285284111486%3Akwd-168609599072%3Alp1008250%3Ali%3Adec%3Adm;sid=7cbee3a288e6addd92c054c438c7aaca;dest_id=-716583;dest_type=city;dist=0;hapos=1;hpos=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1560424436;srpvid=85564ef9e763019d;type=total;ucfs=1&#hotelTmpl”>That.House</a>
 
 </br>
 
