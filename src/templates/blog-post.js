@@ -284,6 +284,12 @@ export default class BlogPostTemplate extends React.Component {
           />
           <meta property="og:url" content={this.state.url} />
           <meta property="og:image" content={post.frontmatter.bg_image} />
+          <meta
+            name="keywords"
+            content={`${
+              post.frontmatter.tags
+            }, blog, travel advice, solo travel, guides, flights, destincations`}
+          />
         </Helmet>
         <ArticleStyled>
           <PoseGroup animateOnMount>
