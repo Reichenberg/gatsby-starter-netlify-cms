@@ -156,6 +156,10 @@ My best hostel recs:
 
  Belfast, Ireland
 
+</br>
+
+More memories in 2 weeks than you'll normally have in years. This place knows how to party and won't give you a choice. The fun group of staff is world class and you'll leave wondering how you survived, in the best of ways.
+
 </div>
 
 <div class="article-image">
@@ -169,6 +173,10 @@ My best hostel recs:
 <a href="https://hostel-downtown.cz/en/">Hostel DownTown</a>
 
 Prague, Czech Republic
+
+</br>
+
+Dinners, puppet shows, and drinking games. It's hard to ask for much more this close to Charles Bridge.
 
 </div>
 
@@ -184,6 +192,10 @@ Prague, Czech Republic
 
  Kyoto, Japan
 
+</br>
+
+Welcomed from the moment you step in. This cozy hostel is one of a kind with the kindest staff.
+
 </div>
 
 <div class="article-image">
@@ -197,5 +209,9 @@ Prague, Czech Republic
 <a href=”https://app.onda.me/v2/booking/thathouse”>That.House</a>
 
  Seoul, SK
+
+</br>
+
+A unique hostel run by some fun locals who will go out of there way to make sure you feel at home. Expect improvised parties, home cooking, and nights filled with k-pop music videos in one of the best neighborhoods in Seoul.
 
 </div>
