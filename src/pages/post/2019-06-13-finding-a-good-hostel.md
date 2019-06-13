@@ -61,6 +61,22 @@ So let’s figure out how to sift through the thousands of death traps and find 
 
 For obvious reasons this is going to be a balancing act with price taking a central role. Think of price as a rubber band that will reign in our expectations… wait or the reigns on a horse that reign the horse. Actually, pretend you’re a horse and price is your set of reigns… yeah.
 
+</br>
+
+This is the second major benefit of hostels. Nothing is cheaper (for a solo-traveler) and provides an equivalent social atmosphere. Some offer an assortment of free toiletries and quality of life items. Hostels are the main reason the budget travel industry can even exist. TAKE ADVANTAGE OF THEIR EXISTENCE. 
+
+</br>
+
+Prices will fluctuate by seasons and holidays. So plan accordingly. 
+
+</br> 
+
+Prices will also vary by booking method and website. It's always suggested to view the property on multiple sites and their own.
+
+</br>
+
+**Quick Tip: HostelWorld typically has free cancellation up to 24hrs prior to check-in**
+
 ## EXPERIENCE
 
 What kind of experience are you looking to have? If all you’re concerned about is getting lit and going out with strangers, the franchise hostels are fine, but there are some issues.
