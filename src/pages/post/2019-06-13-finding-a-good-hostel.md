@@ -23,6 +23,8 @@ tags:
 
 ## Hostels
 
+
+
 Where university students are lured into sex slavery and house orgies are a nightly occurrence only occasionally spiced up by the odd backpack guitarist.
 
 </br>
@@ -33,7 +35,15 @@ But you want a good hostel.
 
 I've been to …. A couple at this point. I’d like to think I’ve gained enough knowledge to guide you in the right path, or at the very least teach you how to ask google where you should lay your head and valuables for a night or 4.
 
-</br>
+</div>
+
+<div class="article-image">
+
+![cascina raspau, como, italy](https://ucarecdn.com/59867f19-27da-4f58-bb4f-a9c7a8b766b6/-/resize/1000x/-/quality/lighter/ "cascina raspau, como, italy")
+
+</div>
+
+<div class="article-text">
 
 First. Hostels are fine. Forget the stereotypes you think you know, They’re mostly wrong, unless you’re right, then good job. Aside from the occasional room of sleep apnea patients, hostels are safe, communal places that are ideal for a solo traveler and mediocre for everyone else. Most offer private rooms if you’re afraid of people sleeping near you, and gender specific rooms for peace of mind.
 
