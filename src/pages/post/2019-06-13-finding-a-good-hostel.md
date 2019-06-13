@@ -47,13 +47,17 @@ For obvious reasons this is going to be a balancing act with price taking a cent
 
 ## EXPERIENCE
 
-What kind of experience are you looking to have? If all you’re concerned about is getting lit and going out with strangers, the franchise hostels are fine, but there are some issues.</br>
+What kind of experience are you looking to have? If all you’re concerned about is getting lit and going out with strangers, the franchise hostels are fine, but there are some issues.
+
+</br>
 
 Your “Generator Hostels” of the world:
 
 * They’ll charge you for basically everything shy of standing in the room
 * They don’t effectively plan group activities (typically)
-* There will be 3 million people. Getting lost in the crowd is a real possibility if you’re socially anxious.</br>
+* There will be 3 million people. Getting lost in the crowd is a real possibility if you’re socially anxious.
+
+</br>
 
 I tend to prefer the smaller, locally owned and operated hostels:
 
@@ -64,12 +68,17 @@ I tend to prefer the smaller, locally owned and operated hostels:
 
 ## REVIEWS
 
-Cross reference reviews from sites like Hostelworld, <a href="https://www.booking.com/s/34_6/871fccd7">Booking.com</a>, google reviews.</br>
+Cross reference reviews from sites like Hostelworld, <a href="https://www.booking.com/s/34_6/871fccd7">Booking.com</a>, google reviews.
+
+</br>
 
  Be on the lookout more for the amount of reviews that the overall rating. If the hostel has 4 or more stars, it will probably be a safe bet.
- </br>
 
-Read the worst reviews first. Typically, it will be someone complaining about an annoyance that is pretty insignificant, but this is where the worst of issues can be quickly highlighted, e.g. hygiene related trouble (plumbing, unusable showers), reasonably bad customer service, and the worst offender, UNUSABLE WIFI.</br>
+</br>
+
+Read the worst reviews first. Typically, it will be someone complaining about an annoyance that is pretty insignificant, but this is where the worst of issues can be quickly highlighted, e.g. hygiene related trouble (plumbing, unusable showers), reasonably bad customer service, and the worst offender, UNUSABLE WIFI.
+
+</br>
 
 Check that instagram. Is it active? Does it look like they portray a good atmosphere? Are there comments that praise the hostel (not from employees)
 .
@@ -87,11 +96,16 @@ Check that instagram. Is it active? Does it look like they portray a good atmosp
 <div class="article-text">
 
 **Here’s a quick tip.** Always figure out the good neighborhoods to stay in.
+
 </br>
 
-The last thing you want is a 45 minute commute back to your hostel every night, having no options for food, or, even worse, having to walk 20 minutes everyday just to get to the nearest metro station.</br>
+The last thing you want is a 45 minute commute back to your hostel every night, having no options for food, or, even worse, having to walk 20 minutes everyday just to get to the nearest metro station.
 
-Normally it’s as easy as googling “Best neighborhoods in xxx.”</br>
+</br>
+
+Normally it’s as easy as googling “Best neighborhoods in xxx.”
+
+</br>
 
 Other settings to keep in mind: 
 
@@ -108,21 +122,31 @@ Other settings to keep in mind:
 * Earplugs
 * Luggage storage
 * Hair dryers
-* Is there an ensuite shower? (these are always nice)
+* Is there an en-suite shower? (these are always nice)
 * Do they plan activities often?
 * How accommodating are they? From late night bookings to directions from the airport. It’s great to find a place with good recommendations that responds promptly. 
 
 ## THE PROCESS
 
-There is a benefit to booking ahead. There will always be more options and the price is unlikely to fluctuate anyway. If you know when you’re going to be in a city, it’s best to go ahead and press that button.</br>
+There is a benefit to booking ahead. There will always be more options and the price is unlikely to fluctuate anyway. If you know when you’re going to be in a city, it’s best to go ahead and press that button.
 
-Most hostels will also offer free cancellation up to 24 hours before your booking date. SO, if you’re like me and afraid of commitment, you’ve got a way to escape, I mean change your mind.</br>
+</br>
 
-Cross reference using Hostelworld and booking.</br>
+Most hostels will also offer free cancellation up to 24 hours before your booking date. SO, if you’re like me and afraid of commitment, you’ve got a way to escape, I mean change your mind.
 
-Always check the properties website last as they might have a cheaper booking since the other providers charge them a fee.</br>
+</br>
 
-Weigh the benefit of your preferences. Maybe that great location is a bit more every night, or that cozy looking hostel with the mascot cat is a 10 minute walk from the station.</br>
+Cross reference using Hostelworld and booking.
+
+</br>
+
+Always check the properties website last as they might have a cheaper booking since the other providers charge them a fee.
+
+</br>
+
+Weigh the benefit of your preferences. Maybe that great location is a bit more every night, or that cozy looking hostel with the mascot cat is a 10 minute walk from the station.
+
+</br>
 
 My best hostel recs:
 
