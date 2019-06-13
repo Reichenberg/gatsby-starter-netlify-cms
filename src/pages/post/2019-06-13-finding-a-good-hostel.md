@@ -158,7 +158,7 @@ My best hostel recs:
 
 </br>
 
-More memories in 2 weeks than you'll normally have in years. This place knows how to party and won't give you a choice. The fun group of staff is world class and you'll leave wondering how you survived, in the best of ways.
+More memories in 2 weeks than you'll normally have in years. This place knows how to party and won't give you a choice. The fun group of staff is world class, and you'll leave wondering how you survived, in the best of ways.
 
 </div>
 
@@ -212,6 +212,6 @@ Welcomed from the moment you step in. This cozy hostel is one of a kind with the
 
 </br>
 
-A unique hostel run by some fun locals who will go out of there way to make sure you feel at home. Expect improvised parties, home cooking, and nights filled with k-pop music videos in one of the best neighborhoods in Seoul.
+A unique hostel run by some fun locals who will go out of their way to make sure you feel at home. Expect improvised parties, home cooking, and nights filled with k-pop music videos in one of the best neighborhoods in Seoul.
 
 </div>
