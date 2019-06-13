@@ -123,6 +123,7 @@ const ArticleStyled = styled.div`
       background-color: #fdfdfd;
       color: black;
       .article-text {
+        list-style-position: inside;
         clear: both;
         padding-left: 20px;
         padding-top: 15px;
