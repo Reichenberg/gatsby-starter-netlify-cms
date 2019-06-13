@@ -158,7 +158,7 @@ Weigh the benefit of your preferences. Maybe that great location is a bit more e
 
 </br>
 
-My best hostel recs:
+Some of the best places I've ever laid my head:
 
 </br>
 
