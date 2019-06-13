@@ -150,9 +150,9 @@ Weigh the benefit of your preferences. Maybe that great location is a bit more e
 
 My best hostel recs:
 
-<a href=”http://www.vagabondsbelfast.com/”>Vagabonds</a>
-
 </br>
+
+<a href=”http://www.vagabondsbelfast.com/”>Vagabonds</a>
 
  Belfast, Ireland
 
@@ -182,8 +182,6 @@ Prague, Czech Republic
 
 <A href=”http://gojo-guest-house.com/”>Gojo GuestHouse</a>
 
-</br>
-
  Kyoto, Japan
 
 </div>
@@ -196,9 +194,7 @@ Prague, Czech Republic
 
 <div class="article-text">
 
-<a href=”https://www.booking.com/hotel/kr/that-house.en-gb.html?aid=311984;label=that-house-eIePgXJ4fQF1%2Akpuf0lzwAS162173049335%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap1t4%3Aneg%3Afi%3Atiaud-285284111486%3Akwd-168609599072%3Alp1008250%3Ali%3Adec%3Adm;sid=7cbee3a288e6addd92c054c438c7aaca;dest_id=-716583;dest_type=city;dist=0;hapos=1;hpos=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1560424436;srpvid=85564ef9e763019d;type=total;ucfs=1&#hotelTmpl”>That.House</a>
-
-</br>
+<a href=”https://app.onda.me/v2/booking/thathouse”>That.House</a>
 
  Seoul, SK
 
