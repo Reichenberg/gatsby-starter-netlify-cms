@@ -23,8 +23,6 @@ tags:
 
 ## Hostels
 
-
-
 Where university students are lured into sex slavery and house orgies are a nightly occurrence only occasionally spiced up by the odd backpack guitarist.
 
 </br>
@@ -45,7 +43,15 @@ I've been to …. A couple at this point. I’d like to think I’ve gained enou
 
 <div class="article-text">
 
-First. Hostels are fine. Forget the stereotypes you think you know, They’re mostly wrong, unless you’re right, then good job. Aside from the occasional room of sleep apnea patients, hostels are safe, communal places that are ideal for a solo traveler and mediocre for everyone else. Most offer private rooms if you’re afraid of people sleeping near you, and gender specific rooms for peace of mind.
+First. Hostels are fine. 
+
+</br>
+
+Forget the stereotypes you think you know, They’re mostly wrong, unless you’re right, then good job. Aside from the occasional room of sleep apnea patients, hostels are safe, communal places that are ideal for a solo traveler and mediocre for everyone else. Most offer private rooms if you’re afraid of people sleeping near you, and gender specific rooms for peace of mind.
+
+</br>
+
+If you're lucky you'll make lifelong friends. If you're unlucky you'll be mad at that guy Ted from Canada who came in at 4am and forgot how loud the zippers on his secondhand hiking bag are.
 
 </br>
 
