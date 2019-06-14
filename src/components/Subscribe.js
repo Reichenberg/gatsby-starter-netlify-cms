@@ -45,7 +45,7 @@ const FormStyled = styled.div`
       font-size: 20px;
       letter-spacing: 8px;
       z-index: 2;
-      left: 30%;
+      left: 0;
       top: 0;
       transition: all 0.5s ease-in-out;
     }
@@ -174,7 +174,7 @@ export default class Subscribe extends Component {
               />
             )}
             <label name="subscribe" htmlFor="email">
-              {subscribed ? 'Welcome!' : 'Subscribe'}
+              {subscribed ? 'Thanks!' : 'Subscribe'}
             </label>
           </div>
           <input type="hidden" name="form-name" value="subscribe" />

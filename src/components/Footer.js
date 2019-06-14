@@ -47,22 +47,14 @@ export default class Footer extends React.Component {
   constructor(props) {
     super(props);
 
-    this.state = {
-      subscribed: false,
-    };
+    this.state = {};
   }
 
-  onSubmit = () => {
-    this.setState({
-      subscribed: true,
-    });
-  };
-
   render() {
-    const { subscribed } = this.state;
+    const { subscribed } = this.props;
     return (
       <FooterStyled>
-        <Subscribe onSubmit={this.onSubmit} subscribed={subscribed} />
+        <Subscribe onSubmit={this.props.onSubmit} subscribed={subscribed} />
         <div className="site-maps">
           <ul>
             <li>

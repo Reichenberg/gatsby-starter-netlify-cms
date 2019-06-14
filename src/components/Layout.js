@@ -157,8 +157,15 @@ class TemplateWrapper extends Component {
     this.state = {
       open: false,
       scrolled: false,
+      subscribed: false,
     };
   }
+
+  onSubmit = () => {
+    this.setState({
+      subscribed: true,
+    });
+  };
 
   componentDidMount() {
     window.addEventListener('scroll', this.handleScroll);
@@ -183,7 +190,7 @@ class TemplateWrapper extends Component {
   };
 
   render() {
-    const { scrolled } = this.state;
+    const { scrolled, subscribed } = this.state;
     const { size, forceOpen, renderBg } = this.props;
 
     return (
@@ -300,10 +307,14 @@ class TemplateWrapper extends Component {
             <div className="overlay" />
 
             <div className="content">{this.props.children}</div>
-            <Footer />
+            <Footer onSubmit={this.onSubmit} subscribed={subscribed} />
             {size.width < 1024 && (
               <>
-                <Navbar open={this.state.open} />
+                <Navbar
+                  open={this.state.open}
+                  onSubmit={this.onSubmit}
+                  subscribed={subscribed}
+                />
                 <button
                   className={
                     !this.state.open ? ' nav-button' : ' closed nav-button'

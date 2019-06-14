@@ -1,13 +1,14 @@
-import React, { Component } from 'react'
-import { Link } from 'gatsby'
-import styled from 'styled-components'
-import HammoIcon from './images/HammoIcon'
-import LogoStatic from '../components/images/LogoStatic'
+import React, { Component } from 'react';
+import { Link } from 'gatsby';
+import styled from 'styled-components';
+import HammoIcon from './images/HammoIcon';
+import LogoStatic from '../components/images/LogoStatic';
+import Subscribe from '../components/Subscribe';
 
-import posed from 'react-pose'
-import Pinterest from './images/Pinterest'
-import Instagram from './images/Instagram'
-import Youtube from './images/Youtube'
+import posed from 'react-pose';
+import Pinterest from './images/Pinterest';
+import Instagram from './images/Instagram';
+import Youtube from './images/Youtube';
 
 const NavPosed = posed.div({
   open: {
@@ -24,17 +25,17 @@ const NavPosed = posed.div({
     ease: 'backIn',
     transition: { duration: 200 },
   },
-})
+});
 
 const BlackLogoPosed = posed.div({
   open: { opacity: 1, y: 0, transition: { delay: 200, duration: 250 } },
   closed: { opacity: 0, y: -20, transition: { duration: 0 } },
-})
+});
 
 const LinksPosed = posed.ul({
   open: { opacity: 1, x: 0, transition: { delay: 200 } },
   closed: { opacity: 0, x: 200, transition: { duration: 0 } },
-})
+});
 
 const SocialLinksPosed = posed.ul({
   open: {
@@ -47,12 +48,12 @@ const SocialLinksPosed = posed.ul({
     opacity: 0,
     transition: { duration: 0 },
   },
-})
+});
 
 const SocialIconPosed = posed.li({
   open: { opacity: 1, y: 0 },
   closed: { opacity: 0, y: 50 },
-})
+});
 
 const FixedNavStyled = styled.div`
   .nav {
@@ -95,6 +96,12 @@ const FixedNavStyled = styled.div`
         font-size: 26px;
       }
     }
+    .subscribe-form {
+      list-style-type: none;
+      position: absolute;
+      bottom: 100px;
+      left: 20px;
+    }
     .social-nav-links {
       list-style-type: none;
       position: absolute;
@@ -116,23 +123,24 @@ const FixedNavStyled = styled.div`
       }
     }
   }
-`
+`;
 class Navbar extends Component {
   constructor(props) {
-    super(props)
+    super(props);
     this.state = {
       open: this.props.open,
-    }
+    };
   }
 
   componentWillReceiveProps(nextProps) {
     this.setState({
       open: nextProps.open,
-    })
+    });
   }
 
   render() {
-    const { open } = this.state
+    const { open } = this.state;
+    const { subscribed } = this.props;
     return (
       <FixedNavStyled>
         <NavPosed className="nav" pose={open ? 'open' : 'closed'}>
@@ -160,6 +168,9 @@ class Navbar extends Component {
               <Link name="email">Work With Me</Link>
             </li> */}
           </LinksPosed>
+          <div className="subscribe-form">
+            <Subscribe onSubmit={this.props.onSubmit} subscribed={subscribed} />
+          </div>
           <SocialLinksPosed className="social-nav-links">
             <SocialIconPosed key="pin">
               <a
@@ -180,8 +191,8 @@ class Navbar extends Component {
           </SocialLinksPosed>
         </NavPosed>
       </FixedNavStyled>
-    )
+    );
   }
 }
 
-export default Navbar
+export default Navbar;
