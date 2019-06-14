@@ -85,6 +85,10 @@ const FixedNavStyled = styled.div`
       text-align: right;
       opacity: 0;
 
+      .nav-sub {
+        padding-bottom: 60px;
+      }
+
       li {
         width: 100%;
         height: 45px;
@@ -96,13 +100,7 @@ const FixedNavStyled = styled.div`
         font-size: 26px;
       }
     }
-    .subscribe-form {
-      list-style-type: none;
-      position: absolute;
-      bottom: 100px;
-      left: 20px;
-      width: 50%;
-    }
+
     .social-nav-links {
       list-style-type: none;
       position: absolute;
@@ -151,7 +149,7 @@ class Navbar extends Component {
             </BlackLogoPosed>
           </Link>
           <LinksPosed className="nav-links">
-            <li>
+            <li className="nav-sub">
               <Subscribe
                 onSubmit={this.props.onSubmit}
                 subscribed={subscribed}
