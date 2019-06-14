@@ -46,7 +46,7 @@ const FormStyled = styled.div`
       font-size: 20px;
       letter-spacing: 8px;
       z-index: 2;
-      left: 0;
+      ${props => (props.forceLabelRight ? 'right: 0;' : 'left: 0;')}
       top: 0;
       transition: all 0.5s ease-in-out;
     }
@@ -147,9 +147,9 @@ export default class Subscribe extends Component {
   };
 
   render() {
-    const { subscribed } = this.props;
+    const { subscribed, forceLabelRight } = this.props;
     return (
-      <FormStyled>
+      <FormStyled forceLabelRight={forceLabelRight}>
         <form
           className="subscribe"
           name="subscribe"

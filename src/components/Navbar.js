@@ -152,6 +152,13 @@ class Navbar extends Component {
           </Link>
           <LinksPosed className="nav-links">
             <li>
+              <Subscribe
+                onSubmit={this.props.onSubmit}
+                subscribed={subscribed}
+                forceLabelRight={true}
+              />
+            </li>
+            <li>
               <Link to="/Articles" name="articles">
                 Articles
               </Link>
@@ -169,9 +176,7 @@ class Navbar extends Component {
               <Link name="email">Work With Me</Link>
             </li> */}
           </LinksPosed>
-          <div className="subscribe-form">
-            <Subscribe onSubmit={this.props.onSubmit} subscribed={subscribed} />
-          </div>
+
           <SocialLinksPosed className="social-nav-links">
             <SocialIconPosed key="pin">
               <a
