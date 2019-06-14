@@ -12,6 +12,7 @@ const FormStyled = styled.div`
   .subscribe {
     flex: 1;
     display: flex;
+    padding-left: 10px;
 
     @media only screen and (min-width: 1024px) {
       width: 50%;

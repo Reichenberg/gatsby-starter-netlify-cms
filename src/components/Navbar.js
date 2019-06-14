@@ -101,6 +101,7 @@ const FixedNavStyled = styled.div`
       position: absolute;
       bottom: 100px;
       left: 20px;
+      width: 50%;
     }
     .social-nav-links {
       list-style-type: none;
