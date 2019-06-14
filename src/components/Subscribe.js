@@ -117,7 +117,6 @@ export default class Subscribe extends Component {
 
   keyPress = e => {
     if (e.keyCode == 13) {
-      console.log(e);
       this.handleSubmit(e);
     }
   };
@@ -126,6 +125,7 @@ export default class Subscribe extends Component {
     const { email } = this.state;
     e.preventDefault();
     const form = e.target;
+    console.log(e);
     if (!form.checkValidity()) {
       document.getElementById('email').innerHTML = 'Please enter a valid email';
       return;
@@ -134,7 +134,7 @@ export default class Subscribe extends Component {
       method: 'POST',
       headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
       body: encode({
-        'form-name': form.getAttribute('name'),
+        'form-name': 'subscribe',
         ...this.state,
       }),
     })
