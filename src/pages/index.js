@@ -66,20 +66,14 @@ export default class IndexPage extends React.Component {
                   <br />
                   Welcome to this self-induced rollercoaster.
                   <br />
-                  I quit my job and decided I needed to do something besides
-                  stare at a screen for a living.
+                  Because A life worth living is rarely stumbled upon.
                   <br />
-                  Don't get me wrong, I still stare at screens a lot, but now I
-                  get to write about it, or procrastinate writing about it.
-                  <br />
-                  I travel and gather stories and food to share with my
-                  presumptive future grandchildren.
-                  <br />
-                  Expect mostly stories with the occasionally informative twist
-                  and food in-between
-                  <br />
-                  Follow my journey more directly through instagram where I post
-                  updates <strike>incessantly</strike> regularly.
+                  My plan is to share stories and advice as I find time and
+                  motivation. If you want to be ahead of the game, follow me on
+                  instagram to see all my latest posts, city highlights, and
+                  photographs.
+                  <br /> Subscribe and eventually you'll be the first to know
+                  when I update the same article 3 times :D
                 </p>
                 <div className="social-links">
                   <a

@@ -14,6 +14,8 @@ const FooterStyled = styled.footer`
   position: relative;
   padding: 30px 20px;
   padding-bottom: 80px;
+  width: 100%;
+  box-sizing: border-box;
 
   @media only screen and (min-width: 1024px) {
     padding-bottom: 30px;

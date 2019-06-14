@@ -55,22 +55,30 @@ const LinksPosed = posed.ul({
 });
 
 const ContentStyled = styled.div`
+  .video-viewport {
+    width: 100%;
+    height: 100vh;
+    overflow-x: hidden;
+    z-index: 0;
+    position: fixed;
+  }
   #myVideo {
     position: fixed;
-    width: 100vw;
+
     z-index: 0;
     background-position-x: center;
 
     @media only screen and (min-width: 769px) {
       height: 100vh;
       width: auto;
+
       left: 0;
       top: 0;
     }
   }
 
   header {
-    width: 100vw;
+    width: 100%;
     position: fixed;
     z-index: 3;
     display: flex;
@@ -123,9 +131,12 @@ const ContentStyled = styled.div`
   }
 
   .content {
+    width: 100%;
     padding-top: 120px;
     position: relative;
     z-index: 2;
+    overflow-x: hidden;
+
     @media only screen and (min-width: 1023px) {
       padding-top: 250px;
     }
@@ -147,7 +158,7 @@ const ContentStyled = styled.div`
     box-shadow: none;
   }
 
-  width: 100vw;
+  width: 100%;
   height: 100vh;
 `;
 
@@ -294,15 +305,19 @@ class TemplateWrapper extends Component {
               )}
             </HeaderPosed>
             {renderBg && (
-              <video autoPlay muted loop id="myVideo" playbackrate={100}>
-                <source
-                  src={
-                    size.width > 769 ? `${bgLandscape}#t=0` : `${bgPortait}#t=0`
-                  }
-                  id="myVideo"
-                  type="video/mp4"
-                />
-              </video>
+              <div className="video-viewport">
+                <video autoPlay muted loop id="myVideo" playbackrate={100}>
+                  <source
+                    src={
+                      size.width > 769
+                        ? `${bgLandscape}#t=0`
+                        : `${bgPortait}#t=0`
+                    }
+                    id="myVideo"
+                    type="video/mp4"
+                  />
+                </video>
+              </div>
             )}
             <div className="overlay" />
 
