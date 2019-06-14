@@ -61,6 +61,10 @@ button{
        }
      }
 
+     .article:nth-child(3n){
+       width: 100vw;
+     }
+
      .article-overlay{
 @media only screen and (max-width: 475px){
   top: 0;
