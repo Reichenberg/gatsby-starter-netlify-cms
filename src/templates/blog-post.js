@@ -288,7 +288,7 @@ export default class BlogPostTemplate extends React.Component {
             name="keywords"
             content={`${
               post.frontmatter.tags
-            }, blog, travel advice, solo travel, guides, flights, destincations`}
+            }, blog, travel advice, solo travel, guides, flights, destinations, photography`}
           />
         </Helmet>
         <ArticleStyled>
