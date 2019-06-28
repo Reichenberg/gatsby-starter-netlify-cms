@@ -64,7 +64,7 @@ const ContentStyled = styled.div`
   }
   #myVideo {
     position: fixed;
-
+    width: 100vw;
     z-index: 0;
     background-position-x: center;
 

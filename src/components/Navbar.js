@@ -149,13 +149,13 @@ class Navbar extends Component {
             </BlackLogoPosed>
           </Link>
           <LinksPosed className="nav-links">
-            <li className="nav-sub">
+            {/* <li className="nav-sub">
               <Subscribe
                 onSubmit={this.props.onSubmit}
                 subscribed={subscribed}
                 forceLabelRight={true}
               />
-            </li>
+            </li> */}
             <li>
               <Link to="/Articles" name="articles">
                 Articles
