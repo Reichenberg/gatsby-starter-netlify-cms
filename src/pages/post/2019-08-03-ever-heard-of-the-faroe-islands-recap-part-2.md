@@ -14,7 +14,7 @@ tags:
 ---
 <div class="article-text">
 
-##  "Slow down"
+## "Slow down"
 
 That was a phrase strangers told me. Well, people strange enough to be traveling alone.
 
@@ -40,13 +40,17 @@ Confused and quickly coming to terms with with the lack of transit to my hostel,
 
 </br>
 
-1. $40 airport taxi 4 miles down the road.
+\    1)    $40 airport taxi 4 miles down the road.
+
+</br>
 
  **HA, NEXT.**
 
-2. Wait 1.25 hours for the next bus
+</br>
 
-3. Walk
+\    2)    Wait 1.25 hours for the next bus
+
+\    3)    Walk
 
 </br>
 
@@ -120,7 +124,7 @@ I left the islands with goodbyes from a wonderful group.
 
 </br>
 
-##  Copenhagen . . .
+## Copenhagen . . .
 
 </div>
 
@@ -200,7 +204,7 @@ Down that same street, I can hear shots of some kind being fired. In all reality
 
 </div>
 
-<div class="article-image">
+<div class="article-image">
 
 ![riot vans and a streets fire](https://ucarecdn.com/e8cbe5e6-f724-43aa-8442-d495d9a3bd5c/-/resize/1000x/-/quality/lighter/ "riot vans and a streets fire")
 
@@ -224,11 +228,14 @@ Through the night, the riots outside my hostel increased. The sound of helicopte
 
 </br>
 
-I slept clothed and packed that night. Now that I think about it... I've been sleeping in jeans a lot since that night.
+I slept clothed and packed that night.
+ Now that I think about it... I've been sleeping in jeans a lot since that night.
 
 </br>
 
 **For fear of being long winded, I'll recap Copenhagen properly in another post. Full of recommendations and junk.**
+
+</br>
 
 **But, for now. the personal junk**
 
@@ -264,7 +271,7 @@ I slept clothed and packed that night. Now that I think about it... I've been s
 * Took a day trip to visit my first Ikea across the border in Malmo, Sweden to try Swedish meatballs. 
 * Tracked down the cherry blossom bloom in a graveyard
 
-Copenhagen was packed. Full of experience and emotions I didn't expect, reinforcing the difficulty of relaxing while wandering. Goodbyes never get easy. 
+Copenhagen was packed. Full of experience and emotions I didn't expect, reinforcing the difficulty of relaxing while wandering. Goodbyes never get easy.
 
 </br>
 
