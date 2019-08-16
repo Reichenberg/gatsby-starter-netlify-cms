@@ -33,8 +33,7 @@ I wanted to kick off these new articles with a city that left a lasting impressi
 
 <div class="article-text">
 
-There are many, but none compare to the original in Sham Shui Po.
- Take a bus, walk, run, piggy back, etc..
+There are many, but none compare to the original in Sham Shui Po. Take a bus, walk, run, piggy back, etc..
 
 </div>
 
@@ -47,6 +46,8 @@ There are many, but none compare to the original in Sham Shui Po.
 <div class="article-text">
 
 Sure, it’s not the most amazing dim sum you can buy, but the price is unbeatable, and you’ll get to mark a Michelin star `struant off your bucket list.
+
+</br>
 
 Upon entering you'll be handed a daunting menu and a pencil to mark your selections. You'll have no idea what to get. Any dumplings are a safe bet.
 
@@ -78,6 +79,8 @@ Get the baked pork buns, 3 of them. You’re welcome.
 
 I’m sure at this point you’ve either seen, had, or heard whispers of bubble waffles.
 
+</br>
+
 Sorry. They all pale in comparison to this immaculate eggette. Perfected technique and trained cooks means you'll get a crispy, gooey perfected treat every time. Personally, you can’t beat the original or Banana Chocolate.
 
 ## A communal hot pot - Haidilao
@@ -100,6 +103,8 @@ This fun “do it yourself” meal is great or frustrating for the whole family,
 
 Yeah, it's messy. Most people have no idea how long to cook things. You'll figure it out.
 
+</br>
+
 And at this particular location, if you order some noodles, they come to your table and fling stretch one live, in your face.
 
 ## Dessert soups - Hoi Kee Walnut Place
@@ -118,6 +123,8 @@ And at this particular location, if you order some noodles, they come to your ta
 <div class="article-text">
 
 A bit more of an oddity, this one. Similar to dessert bowls in South Korea, but far more adventurous and distinctive. Smash together any number of ingredients, including, but not limited to, jellies, egg things, fruits, ice chips, water, milk, chocolate, beans, and you’ve got the idea. 
+
+</br>
 
 This stuff is everywhere. Bring some friends and try a couple late into the night.
 
@@ -155,8 +162,7 @@ Glossy, semi sweet, definitely made of egg. Not my favorite treat in the world, 
 
 ## A sandwich at Australia dairy company
 
-<a href="https://goo.gl/maps/AVAzVoQAEREqRyW17
-" target="_blank">47 Parkes St, Jordan, Hong Kong</a>
+<a href="https://goo.gl/maps/AVAzVoQAEREqRyW17" target="_blank">47 Parkes St, Jordan, Hong Kong</a>
 
 </div>
 
