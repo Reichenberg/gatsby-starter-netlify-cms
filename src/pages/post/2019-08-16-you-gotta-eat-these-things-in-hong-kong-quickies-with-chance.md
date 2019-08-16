@@ -19,7 +19,7 @@ tags:
 
 I wanted to kick off these new articles with a city that left a lasting impression during my time spent. Weaving between neon markets, bustling streets, and dancing skylines you’ll find food cultivated through decades of western influence and economic necessity. Culinarily captivating, Hong Kong is worthy of your visit and attention.
 
-## 1. Dim sum - Tim Ho Wan and Michelin star masterpiece.
+## 1. Dim sum - Tim Ho Wan, Michelin star on a budget.
 
 <a href="https://goo.gl/maps/9AHnmngZKYr2njSE9" target="_blank">9-11 Fuk Wing St, Sham Shui Po, Hong Kong</a>
 
