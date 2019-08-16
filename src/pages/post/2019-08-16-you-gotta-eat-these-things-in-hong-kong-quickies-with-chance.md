@@ -19,7 +19,7 @@ tags:
 
 I wanted to kick off these new articles with a city that left a lasting impression during my time spent. Weaving between neon markets, bustling streets, and dancing skylines you’ll find food cultivated through decades of western influence and economic necessity. Culinarily captivating, Hong Kong is worthy of your visit and attention.
 
-## Dim sum - Tim Ho Wan and Michelin star masterpiece.
+## 1. Dim sum - Tim Ho Wan and Michelin star masterpiece.
 
 <a href="https://goo.gl/maps/9AHnmngZKYr2njSE9" target="_blank">9-11 Fuk Wing St, Sham Shui Po, Hong Kong</a>
 
@@ -63,7 +63,7 @@ Upon entering you'll be handed a daunting menu and a pencil to mark your selecti
 
 Get the baked pork buns, 3 of them. You’re welcome.
 
-## The ORIGINAL mammy pancake
+## 2. The ORIGINAL mammy pancake
 
 <a href="https://goo.gl/maps/KV2E3crZ2abpv1vYA" target="_blank">8～12 Carnarvon Rd, Tsim Sha Tsui, Hong Kong</a>
 
@@ -83,7 +83,7 @@ I’m sure at this point you’ve either seen, had, or heard whispers of bubble 
 
 Sorry. They all pale in comparison to this immaculate eggette. Perfected technique and trained cooks means you'll get a crispy, gooey perfected treat every time. Personally, you can’t beat the original or Banana Chocolate.
 
-## A communal hot pot - Haidilao
+## 3. A communal hot pot - Haidilao
 
 <a href="https://goo.gl/maps/ycvwC4Bvs7MGVJ1d8" target="_blank">Kowloon Building, 2/F & 3/F, 555 Nathan Rd, Yau Ma Tei, Hong Kong</a>
 
@@ -107,7 +107,7 @@ Yeah, it's messy. Most people have no idea how long to cook things. You'll figur
 
 And at this particular location, if you order some noodles, they come to your table and fling stretch one live, in your face.
 
-## Dessert soups - Hoi Kee Walnut Place
+## 4. Dessert soups - Hoi Kee Walnut Place
 
 <a href="https://goo.gl/maps/fL9XcNpY7HF5unUf9" target="_blank"> 212 Sai Yeung Choi St S, Mong Kok, Hong Kong
 </a>
@@ -128,7 +128,7 @@ A bit more of an oddity, this one. Similar to dessert bowls in South Korea, but 
 
 This stuff is everywhere. Bring some friends and try a couple late into the night.
 
-## Street food - duck, buns, rice cakes
+## 5. Street food - duck, buns, rice cakes
 
 <a href="https://goo.gl/maps/GWpdXgJ3QkRb7zyC6" target="_blank">Mong Kok, Hong Kong</a>
 
@@ -144,7 +144,7 @@ This stuff is everywhere. Bring some friends and try a couple late into the nigh
 
 Just go to Mong Kok and try an array of goodies. This area of the city is lined with stalls, markets, street food abound. Definitely get the Peking duck, pineapple bun, and cheung fun, or steamed rice rolls. Despite the name, pineapple buns possess similarities to this fruit in name alone. Soft, sweet, cheap. Get 10. 
 
-## Egg tart on the Main Island
+## 6. Egg tart on the Main Island
 
 <a href="https://goo.gl/maps/nSzBKpMMAmg6pSwp6" target="_blank">Shop 1, G/F, Fuk Sing Court, 378 Queen’s Road Central, Sheung Wan, Hong Kong, 2543 3020</a>
 
@@ -160,7 +160,7 @@ Just go to Mong Kok and try an array of goodies. This area of the city is lined 
 
 Glossy, semi sweet, definitely made of egg. Not my favorite treat in the world, but enough of a unique aspect of Hong Kong food culture to get my recommendation.
 
-## A sandwich at Australia dairy company
+## 7. A sandwich at Australia dairy company
 
 <a href="https://goo.gl/maps/AVAzVoQAEREqRyW17" target="_blank">47 Parkes St, Jordan, Hong Kong</a>
 
