@@ -104,7 +104,7 @@ And at this particular location, if you order some noodles, they come to your ta
 
 ## Dessert soups - Hoi Kee Walnut Place
 
-<a href="https://goo.gl/maps/fL9XcNpY7HF5unUf9"> 212 Sai Yeung Choi St S, Mong Kok, Hong Kong
+<a href="https://goo.gl/maps/fL9XcNpY7HF5unUf9" target="_blank"> 212 Sai Yeung Choi St S, Mong Kok, Hong Kong
 </a>
 
 </div>
@@ -149,7 +149,7 @@ Just go to Mong Kok and try an array of goodies. This area of the city is lined 
 
 </div>
 
-<div class="article-text>
+<div class="article-text">
 
 Glossy, semi sweet, definitely made of egg. Not my favorite treat in the world, but enough of a unique aspect of Hong Kong food culture to get my recommendation.
 
@@ -166,7 +166,7 @@ Glossy, semi sweet, definitely made of egg. Not my favorite treat in the world, 
 
 </div>
 
-<div class="article-text>
+<div class="article-text">
 
 I know what you’re thinking….
 
