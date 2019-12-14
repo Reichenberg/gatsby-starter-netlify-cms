@@ -5,7 +5,7 @@
   "author": "Chance Reichenberg",
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.6",
-    "gatsby": "^2.18.2",
+    "gatsby": "^2.18.11",
     "gatsby-image": "^2.2.33",
     "gatsby-plugin-google-adsense": "^1.1.3",
     "gatsby-plugin-google-analytics": "^2.1.28",
