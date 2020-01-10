@@ -12,6 +12,8 @@ import bgLandscape from '../img/faroe-landscape-min.mp4';
 import { withSize } from 'react-sizeme';
 import { PoseGroup } from 'react-pose';
 import Footer from '../components/Footer';
+import HamIcon from '../img/HamIcon.svg';
+import CloseIcon from '../img/CloseIcon.svg';
 
 const HeaderPosed = posed.header({
   scrolled: {
@@ -51,6 +53,21 @@ const LinksPosed = posed.ul({
     opacity: 1,
     y: 0,
     transition: { duration: 800, delay: 500, ease: 'linear', type: 'tween' },
+  },
+});
+
+const ImagePosed = posed.img({
+  enter: {
+    opacity: 1,
+    transition: { ease: 'linear' },
+    delay: 300,
+    duration: 400,
+  },
+  exit: {
+    opacity: 0,
+    transition: { ease: 'linear' },
+    duration: 400,
+    delay: 300,
   },
 });
 
@@ -345,10 +362,14 @@ class TemplateWrapper extends Component {
                   onClick={this.toggleModal}
                   name="navigation button"
                 >
-                  <div className="ham-icon">
-                    <HammoIcon open={this.state.open} />
+                  <PoseGroup animateOnMount>
+                    {this.state.open ? (
+                      <ImagePosed src={CloseIcon} key={0} />
+                    ) : (
+                      <ImagePosed src={HamIcon} key={0} />
+                    )}
                     {/* pass active prop to icon to use POSE to translate it to other icon */}
-                  </div>
+                  </PoseGroup>
                 </button>
               </>
             )}
