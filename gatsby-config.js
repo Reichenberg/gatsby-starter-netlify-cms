@@ -7,6 +7,13 @@ module.exports = {
   },
   plugins: [
     'gatsby-plugin-sitemap',
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        host: 'https://chanceontravel.com',
+        sitemap: 'https://chanceontravel.com/sitemap.xml',
+        policy: [{ userAgent: '*', allow: '/' }]
+      },
     'gatsby-plugin-react-helmet',
     `gatsby-plugin-styled-components`,
 
