@@ -44,78 +44,10 @@ button{
         outline: none;
     }
 }
-.article-list{
-    display:flex;
-    width: 100vw;
-    flex-wrap: wrap;
-    padding-bottom: 100px;
 
-    @media only screen and (min-width: 1023px){
-    width: 50vw !important;
-    }
-     .article{
-       width: 50%;
-       overflow: hidden;
-       img{
-         width: 100% !important;
-       }
-     }
 
-     .article:nth-child(3n){
-       width: 100vw;
-     }
-
-     .article-overlay{
-@media only screen and (max-width: 475px){
-  top: 0;
-  background-color: rgba(0, 0, 0, 0.35) !important;
-
-    }
-
-     }
 
   
-  }
-
-.article {
-    margin: 0 !important;
-    position: relative;
-    overflow: hidden;
-    img {
-      width: 120%;
-      margin-left: auto;
-      margin-right: auto;
-    }
-
-    .article-overlay {
-      bottom: 0;
-      width: 100%;
-      background-color: rgba(0, 0, 0, 0.75);
-      position: absolute;
-      display: block-size;
-      padding: 10px 20px;
-      box-sizing: border-box;
-      .article-description {
-      padding: 10px 0;
-      font-size: 12px;
-    }
-      h2 {
-        margin: 0;
-        font-size: 18px;
-        line-height: 1;
-      }
-   
-      .detail-text {
-        font-size: 12px;
-        color: rgb(175,175,175);
-        position: absolute;
-        bottom: 10px;
-        right: 10px;
-      }
-
-    }
-    }
-  }
 
   .referral-header {
     text-align: center;

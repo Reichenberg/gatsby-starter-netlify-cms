@@ -12,7 +12,8 @@ import { ParallaxProvider, Parallax } from 'react-scroll-parallax';
 import Booking from '../img/booking.png';
 import Airbnb from '../img/airbnb.png';
 import Chase from '../img/sapphirePreferredCard.png';
-import ArticleList from '../components/ArticleList';
+import ArticleList from '../components/ArticleList/ArticleList';
+import Article from '../components/Article/Article';
 
 const FadeIn = posed.section({
   enter: {
@@ -93,13 +94,14 @@ export default class IndexPage extends React.Component {
               <FadeIn className="featured-header" key={1}>
                 <h2>Featured</h2>
               </FadeIn>
-              <FadeUp className="article featured-article" key={2}>
+
+              <Article details={posts[0]} key={0} isFeatured={true}></Article>
+              {/* 
+                <FadeUp className="article featured-article" key={2}>
                 <Link key={0} to={posts[0].node.fields.slug}>
                   <Parallax y={[10, -20]}>
                     <img
-                      src={`${
-                        posts[0].node.frontmatter.bg_image
-                      }/-/resize/1000x/-/quality/lighter/`}
+                      src={`${posts[0].node.frontmatter.bg_image}/-/resize/1000x/-/quality/lighter/`}
                       alt={posts[0].node.frontmatter.bg_alt}
                     />
                     <div className="article-overlay">
@@ -118,7 +120,7 @@ export default class IndexPage extends React.Component {
                     </div>
                   </Parallax>
                 </Link>
-              </FadeUp>
+              </FadeUp> */}
             </PoseGroup>
             <section>
               <h2 className="more-articles-header">More Words</h2>

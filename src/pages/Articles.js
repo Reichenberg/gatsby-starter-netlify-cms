@@ -6,7 +6,7 @@ import Booking from '../img/booking.png';
 import Airbnb from '../img/airbnb.png';
 import Chase from '../img/sapphirePreferredCard.png';
 import LazyLoad from 'react-lazyload';
-import ArticleList from '../components/ArticleList';
+import ArticleList from '../components/ArticleList/ArticleList';
 
 const FadeIn = posed.div({
   enter: { staggerChildren: 500 },

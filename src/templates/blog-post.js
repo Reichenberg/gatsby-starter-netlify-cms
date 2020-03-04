@@ -5,7 +5,7 @@ import styled from 'styled-components';
 import posed, { PoseGroup } from 'react-pose';
 import Share from '../components/images/Share';
 import Helmet from 'react-helmet';
-import ArticleList from '../components/ArticleList';
+import ArticleList from '../components/ArticleList/ArticleList';
 
 const FadePosed = posed.div({
   enter: { opacity: 1 },
@@ -286,9 +286,7 @@ export default class BlogPostTemplate extends React.Component {
           <meta property="og:image" content={post.frontmatter.bg_image} />
           <meta
             name="keywords"
-            content={`${
-              post.frontmatter.tags
-            }, blog, travel advice, solo travel, guides, flights, destinations, photography`}
+            content={`${post.frontmatter.tags}, blog, travel advice, solo travel, guides, flights, destinations, photography`}
           />
         </Helmet>
         <ArticleStyled>

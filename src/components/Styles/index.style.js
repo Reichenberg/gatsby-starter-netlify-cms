@@ -18,21 +18,6 @@ const IndexStyled = styled.div`
     }
   }
 
-  .featured-article {
-    justify-content: end;
-    @media only screen and (min-width: 1023px) {
-      width: 80%;
-      margin: auto !important;
-    }
-
-    h2 {
-      font-size: 28px !important;
-      @media only screen and (min-width: 1023px) {
-        font-size: 35px !important;
-      }
-    }
-  }
-
   .featured-header {
     h2 {
       margin: 0;
@@ -42,6 +27,18 @@ const IndexStyled = styled.div`
     }
     @media only screen and (min-width: 1023px) {
       width: 80%;
+      h2 {
+        font-size: 32px;
+      }
+    }
+
+    @media only screen and (min-width: 1440px) {
+      width: auto;
+      display: flex;
+      justify-content: center;
+      h2 {
+        font-size: 36px;
+      }
     }
   }
 
