@@ -95,7 +95,7 @@ export default class IndexPage extends React.Component {
                 <h2>Featured</h2>
               </FadeIn>
 
-              <Article details={posts[0]} key={0} isFeatured={true}></Article>
+              <Article details={posts[1]} key={2} isFeatured={true}></Article>
               {/* 
                 <FadeUp className="article featured-article" key={2}>
                 <Link key={0} to={posts[0].node.fields.slug}>

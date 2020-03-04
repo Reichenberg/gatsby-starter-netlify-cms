@@ -38,16 +38,16 @@ const ArticleStyled = styled.div`
       .article-description {
         padding: 10px 0;
         font-size: 12px;
-        @media only screen and (max-width: 1024px) {
+        @media only screen and (min-width: 1024px) {
           font-size: 16px;
-          padding: 20px 40px;
+          padding: 20px 20px;
         }
       }
       h2 {
         margin: 0;
         font-size: 18px;
         line-height: 1;
-        @media only screen and (max-width: 1024px) {
+        @media only screen and (min-width: 1024px) {
           font-size: 22px;
         }
       }
@@ -66,9 +66,7 @@ const ArticleStyled = styled.div`
     }
   }
 
-  ${props =>
-    props.isFeatured
-      ? ` .article {
+  .article-featured {
     justify-content: end;
     @media only screen and (min-width: 1023px) {
       width: 80%;
@@ -87,19 +85,21 @@ const ArticleStyled = styled.div`
     }
 
     .article-overlay {
-      @media only screen and (max-width: 1024px) {
+      @media only screen and (min-width: 1024px) {
         font-size: 16px !important;
         padding: 20px 40px !important;
       }
     }
-  }`
-      : ''}
+  }
 `;
 
 export default function Article({ details, isFeatured }) {
   return (
-    <ArticleStyled isFeatured={isFeatured && isFeatured}>
-      <ChildTest className="article" key={details.node.frontmatter.title}>
+    <ArticleStyled>
+      <ChildTest
+        className={`article ${isFeatured && 'article-featured'}`}
+        key={details.node.frontmatter.title}
+      >
         <Link to={details.node.fields.slug}>
           <LazyLoad height={200}>
             <img

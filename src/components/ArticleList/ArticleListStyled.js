@@ -16,16 +16,16 @@ const ArticleListStyled = styled.div`
       width: 100% !important;
     }
 
-    .article-position:nth-child(3n) {
-      width: 100% !important;
-    }
-
     .article-overlay {
       @media only screen and (max-width: 475px) {
         top: 0;
         background-color: rgba(0, 0, 0, 0.35) !important;
       }
     }
+  }
+
+  .article-position:nth-child(3n) {
+    width: 100% !important;
   }
 `;
 

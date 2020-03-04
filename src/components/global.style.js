@@ -11,7 +11,7 @@ body{
   font-family: dinosaur, sans-serif;
   color: #efefef;
   font-weight: 400;
-  background-color: #F2F2F2;
+  background-color: #111111;
 
 a{
   color: white;

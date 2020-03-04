@@ -85,7 +85,7 @@ const ContentStyled = styled.div`
     z-index: 0;
     background-position-x: center;
 
-    @media only screen and (min-width: 769px) {
+    @media only screen and (max-width: 769px) {
       height: 100vh;
       width: auto;
 
@@ -329,15 +329,21 @@ class TemplateWrapper extends Component {
                 </PoseGroup>
               )}
             </HeaderPosed>
-            {renderBg && (
+            {size.width > 769 ? (
               <div className="video-viewport">
                 <video autoPlay muted loop id="myVideo" playbackrate={100}>
                   <source
-                    src={
-                      size.width > 769
-                        ? `${bgLandscape}#t=0`
-                        : `${bgPortait}#t=0`
-                    }
+                    src={`${bgLandscape}#t=0`}
+                    id="myVideo"
+                    type="video/mp4"
+                  />
+                </video>
+              </div>
+            ) : (
+              <div className="video-viewport">
+                <video autoPlay muted loop id="myVideo" playbackrate={100}>
+                  <source
+                    src={`${bgPortait}#t=0`}
                     id="myVideo"
                     type="video/mp4"
                   />
