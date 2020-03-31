@@ -103,7 +103,7 @@ export default function Article({ details, isFeatured }) {
         <Link to={details.node.fields.slug}>
           <LazyLoad height={200}>
             <img
-              src={`${details.node.frontmatter.bg_image}/-/resize/700x/-/quality/lighter/`}
+              src={`${details.node.frontmatter.bg_image}`}
               alt={details.node.frontmatter.bg_alt}
             />
           </LazyLoad>
