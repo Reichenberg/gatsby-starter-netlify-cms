@@ -12,23 +12,40 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - name: 'post'
-    label: 'Post'
-    folder: 'src/pages/post'
-    create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+  - name: "homepage"
+    label: "Home"
+    folder: "src/pages/home"
+    slug: "/"
     fields:
       - {
-          label: 'Template Key',
-          name: 'templateKey',
-          widget: 'hidden',
-          default: 'blog-post',
+          label: "Headline",
+          name: "headline",
+          widget: "string",
+          default: "Welcome to some shit.",
         }
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Background', name: 'bg_image', widget: 'image' }
-      - { label: 'Alt Tag', name: 'bg_alt', widget: 'string' }
-      - { label: 'Author Name', name: 'author', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'text' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-      - { label: 'Tags', name: 'tags', widget: 'list' }
+      - {
+          label: "Intro Text",
+          name: "into_text",
+          widget: "string",
+          default: "This is where the /'magic/' happens.",
+        }
+  - name: "post"
+    label: "Post"
+    folder: "src/pages/post"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {
+          label: "Template Key",
+          name: "templateKey",
+          widget: "hidden",
+          default: "blog-post",
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Background", name: "bg_image", widget: "image" }
+      - { label: "Alt Tag", name: "bg_alt", widget: "string" }
+      - { label: "Author Name", name: "author", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list" }
