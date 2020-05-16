@@ -59,22 +59,20 @@ export default class IndexPage extends React.Component {
             <PoseGroup animateOnMount>
               <FadeIn key={0} className="bio">
                 <h1>
-                  One Perspective,
-                  <br /> Attempting to find a better one
+                  My Name Is Chance.
+                  <br />I vent and share memories and experiences, right here!
+                  <br />
+                  <i>exciting</i>
                 </h1>
                 <p>
-                  <b>Food, Photos, Insight, Epiphanies</b>
+                  Life is hard. I wanna complain about it, celebrate it,
+                  complain again, then tell you what I learned.
                   <br />
-                  Welcome to this self-induced rollercoaster.
+                  What was once a travel blog has now been{' '}
+                  <i>entrepreneurially</i> converted into a living journal and
+                  sounding board for whateverthef*ck.
                   <br />
-                  Because A life worth living is rarely stumbled upon.
-                  <br />
-                  My plan is to share stories and advice as I find time and
-                  motivation. If you want to be ahead of the game, follow me on
-                  instagram to see all my latest posts, city highlights, and
-                  photographs.
-                  <br /> Subscribe and eventually you'll be the first to know
-                  when I update the same article 3 times :D
+                  Join me, won't you?
                 </p>
                 <div className="social-links">
                   <a

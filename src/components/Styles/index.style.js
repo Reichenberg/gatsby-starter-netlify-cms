@@ -48,6 +48,10 @@ const IndexStyled = styled.div`
     h1 {
       text-shadow: 0px 0px 6px #000;
       line-height: 1.3;
+      i {
+        font-size: 28px;
+        line-height: 1;
+      }
     }
     p {
       margin-top: 35px;
@@ -70,6 +74,10 @@ const IndexStyled = styled.div`
       margin-right: auto;
       h1 {
         font-size: 50px;
+        i {
+          font-size: 35px;
+          line-height: 1;
+        }
       }
       p {
         font-size: 18px;
