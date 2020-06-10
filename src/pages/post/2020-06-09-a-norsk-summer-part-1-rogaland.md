@@ -110,7 +110,7 @@ We set up camp in a nearby site down in Lysebotn. Surrounded by cliffs and water
 
 <div class="article-text">
 
-We had some time to waste before the ferry taking us across Lysefjord to Forsand would arrive. So, we did a little catch and release fishing on the docks after a quick hike along the river further into the valley. Then at 15:30 we were on board, taking what time we could to marvel at Kjerag and Preikestolen from the fjord below.
+We had some time to waste before the ferry, **309nok**, taking us across Lysefjord to Forsand would arrive. So, we did a little catch and release fishing on the docks after a quick hike along the river further into the valley. Then at 15:30 we were on board, taking what time we could to marvel at Kjerag and Preikestolen from the fjord below.
 
 </br>
 
@@ -138,7 +138,7 @@ A short drive off the ferry and we'd made it to the Preikestolen base camp, but 
 
 </br>
 
-3 hours of sleep is all the night could afford, but it would do. Packed, and ready we set off, but it didn't seem the weather would not align with our goals this morning. Only an eerie path greeted us. Guided by stakes and crimson marked rocks, we stumbled through the thick fog.
+3 hours of sleep is all the night could afford, but it would do. Packed, and ready we set off, but it didn't seem the weather would align with our goals this morning. Only an eerie path greeted us. Guided by stakes and crimson marked rocks, we stumbled through the thick fog.
 
 The atmosphere was as memorable as I could hope. Alone at the edge of the abyss with Lysefjord below. We waited in vain for a break in the weather. 
 
