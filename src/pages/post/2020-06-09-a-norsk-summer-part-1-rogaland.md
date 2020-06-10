@@ -16,11 +16,11 @@ tags:
   - hike
   - camp
 ---
-<div class="article-text>
+<div class="article-text">
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1POHfcie_0nDVuUop2K0eT86ONTK9BhSW&hl=en" width="640" height="480"></iframe>
 
-# Travel.
+## Travel
 
 It's a thing I like. Turns out, that's a little more difficult this summer than normal. That is, until you take into account the prison I've chosen for my foreseeable future. You see, Norway is f\*\**ing beautiful. 
 
@@ -66,7 +66,15 @@ Not to be taken lightly, this seasonal trail opens in June. Featuring a series o
 
 SO, BRING GOOD GEAR. Decent shoes are a must to make this trip less than a nightmare.
 
-\*\**
+</div>
+
+<div class="article-image">
+
+![climb with chains ](/img/IMG_0062.jpg "ascent to kjeragbolten")
+
+</div>
+
+<div class="article-text">
 
 </br> 
 
@@ -80,11 +88,27 @@ Note: parking will surprisingly cost you **300nok.**
 
 We set up camp in a nearby site down in Lysebotn. Surrounded by cliffs and waterfalls, the showers at Lysebotn Camping were just a bonus for the 260nok we paid to stay.
 
-\*\**
+</div>
+
+<div class="article-image">
+
+![lysbotn camping](/img/IMG_0200.jpg "lysbotn camping")
+
+</div>
+
+<div class="article-text">
 
 ## Day 3
 
-\*\**
+</div>
+
+<div class="article-image">
+
+![fishing in lysbotn](/img/IMG_0240.jpg "fishing in lysbotn")
+
+</div>
+
+<div class="article-text">
 
 We had some time to waste before the ferry taking us across Lysefjord to Forsand would arrive. So, we did a little catch and release fishing on the docks after a quick hike along the river further into the valley. Then at 15:30 we were on board, taking what time we could to marvel at Kjerag and Preikestolen from the fjord below.
 
@@ -92,7 +116,15 @@ We had some time to waste before the ferry taking us across Lysefjord to Forsand
 
 A short drive off the ferry and we'd made it to the Preikestolen base camp, but we weren't planning on staying here. We wanted a unique and more difficult experience. I mean, we brought this camping gear for a reason. A couple hours before sunset, after some failed fishing attempts in the lake nearby, we headed up the path in search of a place to settle in for the night. Nestled between 2 small ponds a little more than halfway up the path, we found the perfect spot, suggested by another camper we stumbled into while doing our own searching.
 
-\*\**
+</div>
+
+<div class="article-image">
+
+![camping on the way to preikestolen](/img/IMG_0335.jpg "camping on the way to preikestolen")
+
+</div>
+
+<div class="article-text">
 
 </br>
 
@@ -106,7 +138,15 @@ A short drive off the ferry and we'd made it to the Preikestolen base camp, but 
 
 The atmosphere was as memorable as I could hope. Alone at the edge of the abyss with Lysefjord below. We waited in vain for a break in the weather. 
 
-\*\*\*\*
+</div>
+
+<div class="article-image">
+
+![the pulpit rock](/img/IMG_0368.jpg "Pulpit Rock in fog")
+
+</div>
+
+<div class="article-text">
 
 No luck. So, we took in the view around us and took the path down. Rain meeting us along the way. 
 
@@ -122,7 +162,15 @@ With a good half day left until our train was due to return us to Oslo, we didn'
 
 We rewarded ourselves with a few treats and boarded the train home.
 
-</br>
+</div>
+
+<div class="article-image">
+
+![kanelbolle on a day well earned](/img/IMG_0414.jpg "kanelbolle on a day well earned")
+
+</div>
+
+<div class="article-text">
 
 Overall: A pretty dope trip. 
 
