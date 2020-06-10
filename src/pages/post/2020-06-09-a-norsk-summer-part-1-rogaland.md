@@ -18,6 +18,8 @@ tags:
 ---
 <div class="article-text">
 
+</br>
+
 <iframe src="https://www.google.com/maps/d/embed?mid=1POHfcie_0nDVuUop2K0eT86ONTK9BhSW&hl=en" width="640" height="480"></iframe>
 
 ## Travel
@@ -40,7 +42,7 @@ Originally our goal was to camp somewhere outside the city, but with an arrival 
 
 </br>
 
-Speaking of camping. One of the many benefits of residing in Norway is something known as <a href="https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/right-of-access">the right to roam.</a>In short, this law allows for the respectful access to land in regard to exploring and camping. Don't litter, start fires, or otherwise be a nuisance, and you're free to experience nature to it's fullest extent.
+Speaking of camping. One of the many benefits of residing in Norway is something known as <a href="https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/right-of-access">the right to roam.</a> In short, this law allows for the respectful access to land in regard to exploring and camping. Don't litter, start fires, or otherwise be a nuisance, and you're free to experience nature to it's fullest extent.
 
 </br>
 
@@ -75,8 +77,6 @@ SO, BRING GOOD GEAR. Decent shoes are a must to make this trip less than a night
 </div>
 
 <div class="article-text">
-
-</br> 
 
 Note: parking will surprisingly cost you **300nok.**
 
@@ -132,7 +132,11 @@ A short drive off the ferry and we'd made it to the Preikestolen base camp, but 
 
 **Time: 3:00**
 
+</br>
+
 **Visibility: 10 meters**
+
+</br>
 
 3 hours of sleep is all the night could afford, but it would do. Packed, and ready we set off, but it didn't seem the weather would not align with our goals this morning. Only an eerie path greeted us. Guided by stakes and crimson marked rocks, we stumbled through the thick fog.
 
@@ -154,7 +158,11 @@ No luck. So, we took in the view around us and took the path down. Rain meeting 
 
 We were soaked by the time we made it back to our car, grateful for the efficient climate control.
 
+</br>
+
 **Time: 6:00**
+
+</br>
 
 With a good half day left until our train was due to return us to Oslo, we didn't have much left in us to explore too much, but we took the time to see a few more highlights with our time left, namely Sverd i fjell and Gamle Stavanger, both worth a quick trip if you have a little time to waste. 
 
