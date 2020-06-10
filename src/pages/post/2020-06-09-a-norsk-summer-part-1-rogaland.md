@@ -34,7 +34,7 @@ Not only that, but I'm lucky enough to have a girlfriend that shares in my sense
 
 ## Day 1
 
-Our journey started in Oslo with an 8 hour train. The views and snacks made the long journey pass fairly quickly. I personally love long train rides, and Norway has the most scenic. I know that's not a rare sentiment, but it was honestly something I'd been excited about since we had planned it all out.
+Our journey started in Oslo with an 8 hour train, **650nok** for a roundtrip ticket. The views and snacks made the long journey pass fairly quickly. I personally love long train rides, and Norway has the most scenic. I know that's not a rare sentiment, but it was honestly something I'd been excited about since we had planned it all out.
 
 </br>
 
@@ -86,7 +86,7 @@ Note: parking will surprisingly cost you **300nok.**
 
 </br>
 
-We set up camp in a nearby site down in Lysebotn. Surrounded by cliffs and waterfalls, the showers at Lysebotn Camping were just a bonus for the 260nok we paid to stay.
+We set up camp in a nearby site down in Lysebotn. Surrounded by cliffs and waterfalls, the showers at Lysebotn Camping were just a bonus for the **260nok** we paid to stay.
 
 </div>
 
@@ -168,7 +168,7 @@ With a good half day left until our train was due to return us to Oslo, we didn'
 
 </br>
 
-We rewarded ourselves with a few treats and boarded the train home.
+We rewarded ourselves with a few treats and free wifi from the local Kanelsnurren and boarded the train home.
 
 </div>
 
