@@ -28,13 +28,13 @@ It's a thing I like. Turns out, that's a little more difficult this summer than 
 
 </br>
 
-Not only that, but I'm lucky enough to have a girlfriend that shares in my sense of adventure and we've decided to spend the summer exploring what we can of Norway. This first excursion of which, takes us to Stavanger. 
+Not only that, but I'm lucky enough to have a girlfriend that shares in my sense of adventure, and we've decided to spend the summer exploring what we can of Norway. This first excursion of which, takes us to Stavanger. 
 
 </br>
 
 ## Day 1
 
-Our journey started in Oslo with an 8 hour train. The views and snacks made the long journey pass fairly quickly. I, personally, love train rides. I know that's not a rare sentiment, but it was honestly something I'd been excited about since we had planned it all out.
+Our journey started in Oslo with an 8 hour train. The views and snacks made the long journey pass fairly quickly. I personally love long train rides, and Norway has the most scenic. I know that's not a rare sentiment, but it was honestly something I'd been excited about since we had planned it all out.
 
 </br>
 
@@ -48,7 +48,7 @@ Speaking of camping. One of the many benefits of residing in Norway is something
 
 ## Day 2
 
-To get the most out of our short time in Rogaland, we decided to rent a car. The price we incredibly reasonable given the freedom the car would afford us. Maybe due to a dip in tourism and our early start to the season, **1300nok** was our price for 2 days, along with a free upgrade to an automatic. 
+To get the most out of our short time in Rogaland, we decided to rent a car. The price we incredibly reasonable given the freedom the car would afford us. Maybe due to a dip in tourism and our early start to the season, **1300nok** was the price levied on us for 2 days, along with a free upgrade to an automatic. 
 
 </br>
 
