@@ -114,7 +114,7 @@ We had some time to waste before the ferry, **309nok**, taking us across Lysefjo
 
 </br>
 
-A short drive off the ferry and we'd made it to the Preikestolen base camp, but we weren't planning on staying here. We wanted a unique and more difficult experience. I mean, we brought this camping gear for a reason. A couple hours before sunset, after some failed fishing attempts in the lake nearby, we headed up the path in search of a place to settle in for the night. Nestled between 2 small ponds a little more than halfway up the path, we found the perfect spot, suggested by another camper we stumbled into while doing our own searching.
+A short drive off the ferry and we'd made it to the Preikestolen base camp, where parking will cost you **250nok**, but we weren't planning on staying here. We wanted a unique and more difficult experience. I mean, we brought this camping gear for a reason. A couple hours before sunset, after some failed fishing attempts in the lake nearby, we headed up the path in search of a place to settle in for the night. Nestled between 2 small ponds a little more than halfway up the path, we found the perfect spot, suggested by another camper we stumbled into while doing our own searching.
 
 </div>
 
@@ -179,6 +179,10 @@ We rewarded ourselves with a few treats and free wifi from the local Kanelsnurre
 </div>
 
 <div class="article-text">
+
+**Total Cost for 2 people: ~4000 nok.**
+
+</br>
 
 Overall: A pretty dope trip. 
 
