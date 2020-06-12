@@ -32,7 +32,7 @@ Not only that, but I'm lucky enough to have a girlfriend that shares in my sense
 
 </br>
 
-## Day 1
+## Day 1: Train fra Oslo til Stavanger
 
 Our journey started in Oslo with an 8 hour train, **650nok** for a roundtrip ticket. The views and snacks made the long journey pass fairly quickly. I personally love long train rides, and Norway has the most scenic. I know that's not a rare sentiment, but it was honestly something I'd been excited about since we had planned it all out.
 
@@ -46,7 +46,7 @@ Speaking of camping. One of the many benefits of residing in Norway is something
 
 </br>
 
-## Day 2
+## Day 2: Snow og Kjeragbolten
 
 To get the most out of our short time in Rogaland, we decided to rent a car. The price we incredibly reasonable given the freedom the car would afford us. Maybe due to a dip in tourism and our early start to the season, **1300nok** was the price levied on us for 2 days, along with a free upgrade to an automatic. 
 
@@ -98,7 +98,7 @@ We set up camp in a nearby site down in Lysebotn. Surrounded by cliffs and water
 
 <div class="article-text">
 
-## Day 3
+## Day 3: Lysefjord og Preikestolen base camp
 
 </div>
 
@@ -120,7 +120,7 @@ A short drive off the ferry and we'd made it to the Preikestolen base camp, wher
 
 <div class="article-image">
 
-![camping on the way to preikestolen](/img/IMG_0335.jpg "camping on the way to preikestolen")
+![camping on the way to preikestolen](/img/IMG_0325.jpg "camping on the way to preikestolen")
 
 </div>
 
