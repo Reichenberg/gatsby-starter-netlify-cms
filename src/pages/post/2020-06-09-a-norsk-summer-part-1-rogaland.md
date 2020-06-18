@@ -42,7 +42,7 @@ Originally our goal was to camp somewhere outside the city, but with an arrival 
 
 </br>
 
-Speaking of camping. One of the many benefits of residing in Norway is something known as <a href="https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/right-of-access">the right to roam.</a> In short, this law allows for the respectful access to land in regard to exploring and camping. Don't litter, start fires, or otherwise be a nuisance, and you're free to experience nature to it's fullest extent.
+Speaking of camping. One of the many benefits of residing in Norway is something known as <a href="https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/right-of-access" target="_blank">the right to roam.</a> In short, this law allows for the respectful access to land in regard to exploring and camping. Don't litter, start fires, or otherwise be a nuisance, and you're free to experience nature to it's fullest extent.
 
 </br>
 
