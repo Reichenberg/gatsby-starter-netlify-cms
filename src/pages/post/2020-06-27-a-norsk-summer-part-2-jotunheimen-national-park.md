@@ -89,8 +89,6 @@ Besseggen is a little particular so here it goes. This is not normally a roundtr
 <br/>
 
 1. Start from Gjendesheim. This is not recommended for a couple reasons. Namely, the difficulty. parts of this hike are much harder going down than up. On top of that, if you're not planning on staying overnight on the other end , in Memurubu, you've gotta catch the last boat back at 16:55. 
-
-   <br/>
 2. Take the morning boat from Gjendesheim to Memurubu and get right back to your car. **Just do this one.**
 
 **Anyway... buy your tickets in advance**
@@ -159,7 +157,7 @@ We slept on Geirangerfjord, opting to make this a night in the car as our bodies
 
 <div class="article-text">
 
-### Day 3: Lom to Home
+## Day 3: Lom to Home
 
 A late morning start from Geiranger, we started back home with one goal left.
 
