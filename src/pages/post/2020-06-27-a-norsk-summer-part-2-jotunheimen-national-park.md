@@ -22,7 +22,9 @@ tags:
 
 Continuing my summer exploration of Norway. This little weekend excursion takes us north, through Jotunheimen National Park and beyond (if you're more interested in the Stavanger area and preikestolen <a>here ya go</a>); which, would have been impossible without help my girlfriend's wonderful family having lent us a car, and my indispensable ability to fumble my way through the operation of a manual transmission while pretending to be able to read the Norwegian road signs.
 
-<br/>>
+<br/>
+
+<br/>
 
 ## Day 1: Bolle, beer, og Bessheim
 
@@ -44,7 +46,11 @@ Hungry.
 
 As it turns out the many resorts and hotels in the area feature pretty extravagant 3 course meals and with the majority of our money being saved by a car loan and camping, we were gonna treat ourselves.
 
+<br/>
+
 ### Bessheim was our answer.
+
+<br/>
 
 **440kr, each,** for a buffet that will blow your damn mind, and complimentary access to reindeer and the chillest cat I've had the luxury to pet.
 
@@ -72,23 +78,34 @@ I won't go into detail on the food here. Just know, this was only the first cour
 
 Day 1 ended with a search for a campsite along the local... lake? Considering the last minute flood warning we received before bedding down for the night, we slept relatively well.
 
-## Day 2: Bessegen in the clouds. 
+## Day 2: Bessegen in the clouds.
 
 *A real quick note, cause it's probably important to know.*
 
+<br/>
+
 Besseggen is a little particular so here it goes. This is not normally a roundtrip hike, and there are 2 ways to approach it. 
 
-1) Start from Gjendesheim. This is not recommended for a couple reasons. Namely, the difficulty. parts of this hike are much harder going down than up. On top of that, if you're not planning on staying overnight on the other end , in Memurubu, you've gotta catch the last boat back at 16:55. 
+<br/>
 
-2) Take the morning boat from Gjendesheim to Memurubu and get right back to your car. **Just do this one.**
+1. Start from Gjendesheim. This is not recommended for a couple reasons. Namely, the difficulty. parts of this hike are much harder going down than up. On top of that, if you're not planning on staying overnight on the other end , in Memurubu, you've gotta catch the last boat back at 16:55. 
+
+   <br/>
+2. Take the morning boat from Gjendesheim to Memurubu and get right back to your car. **Just do this one.**
 
 **Anyway... buy your tickets in advance**
+
+<br/>
 
 Early morn with a beautiful sunrise, all thanks to the 4am Norwegian sunrise. 
 
 and it looks like we're facing the hike under pressure of rain and wind according to the internet 
 
+<br/>
+
 *...yay...*
+
+<br/>
 
 We were smart and opted for option number 2 and had a boat to catch at 9:30 to Memurubu. **170kr each, btw.**
 
@@ -96,13 +113,9 @@ We were smart and opted for option number 2 and had a boat to catch at 9:30 to M
 
 <div class="article-image">
 
-
-
 </div>
 
 <div class="article-text">
-
-
 
 </div>
 
@@ -130,15 +143,17 @@ Taking a quick stop in Lom for the worst kebab of my life, we continued on.
 
 Seeing the promise of flooding fulfilled , maybe it was the oddly high temps melting the snow or the influx of rain (maybe even both), the Otta river was bursting at the seams with rapids exploding from the river with height well in excess of the car we were driving. Houses, cabins, and barns were flooded all along our drive up.
 
+<br/>
+
 A drive through the snow covered Breheimen National Park.
+
+<br/>
 
 We slept on Geirangerfjord, opting to make this a night in the car as our bodies literally lacked the physical energy to assemble a tent.
 
 </div>
 
 <div class="article-image">
-
-
 
 </div>
 
@@ -168,11 +183,15 @@ Aside from some construction on the E6, our return trip was pretty uneventful.
 
 Tired and filled with bolle, we made it home about 7 hours later.
 
+<br/>
+
 **Gas: 800kr**
 
 **Boat: 170kr each**
 
 **total for 2 not including food: 1140kr**
+
+<br/>
 
 We were lucky enough to borrow a car, so your mileage and cost through public transit may vary, so uh. good luck.
 
