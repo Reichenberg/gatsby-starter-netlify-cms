@@ -111,19 +111,31 @@ We were smart and opted for option number 2 and had a boat to catch at 9:30 to M
 
 <div class="article-image">
 
-</div>
-
-<div class="article-text">
-
-</div>
-
-<div class="article-image">
-
 ![gjende from besseggen](/img/IMG_0771.jpg "gjende from besseggen")
 
 </div>
 
 <div class="article-text">
+
+The first ascent was long, but the view was spellbinding and a great reminder of how much extra time it takes to stop and take 50 photos I'll never use. 
+
+<br/>
+
+Once you reach Bessvatnet, the next challenge is what will activate you're heretofore unrealized fear of 100 meter clifss as you now have the luxury of conquering that immediate fear. You will be forced to quite literally climb up a ridge using hands and feet with very nearly a sheer drop meeting you on either side.
+
+<br/>
+
+But hey, I did it.
+
+<br/>
+
+After that, the rest is downhill... through thick fog and snow.
+
+<br/> 
+
+You might have better luck on a typical day, but our visibility was close to 0 and patience nearing the same. Cold, soaked, and exhausted, the remainder of the hike down felt relatively unrewarding. Especially when compared to the first half of our ascent.
+
+<br/>
 
 16km and **6.5 hours** later, after navigating cliffs and snow drifts, through clouds and rain, we made it.
 
@@ -149,14 +161,6 @@ A drive through the snow covered Breheimen National Park.
 
 We slept on Geirangerfjord, opting to make this a night in the car as our bodies literally lacked the physical energy to assemble a tent.
 
-</div>
-
-<div class="article-image">
-
-</div>
-
-<div class="article-text">
-
 ## Day 3: Lom to Home
 
 A late morning start from Geiranger, we started back home with one goal left.
@@ -175,7 +179,13 @@ Lom was our final stop.
 
 <div class="article-text">
 
-Give the bolle here a shot,check our the stavkirke, but don't worry about spending too much time here.
+Give the bolle here a shot, check out the stavkirke, but don't worry about spending too much time here.
+
+<br/>
+
+Once you've seen the river and consumed *Norges beste bolle*, there isn't much left to experience.
+
+<br/>
 
 Aside from some construction on the E6, our return trip was pretty uneventful. 
 
@@ -187,7 +197,7 @@ Tired and filled with bolle, we made it home about 7 hours later.
 
 **Boat: 170kr each**
 
-**total for 2 not including food: 1140kr**
+**Total for 2 not including food: 1140kr**
 
 <br/>
 
