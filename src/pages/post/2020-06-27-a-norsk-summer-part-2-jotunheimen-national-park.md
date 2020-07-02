@@ -20,11 +20,11 @@ tags:
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1RbSFijL9pIrYJVR-TilpUTMS4OGj9ELv" width="640" height="480"></iframe>
 
-Continuing my summer exploration of Norway. This little weekend excursion takes us north, through Jotunheimen National Park and beyond (if you're more interested in the Stavanger area and preikestolen <a>here ya go</a>); which, would have been impossible without help my girlfriend's wonderful family having lent us a car, and my indispensable ability to fumble my way through the operation of a manual transmission while pretending to be able to read the Norwegian road signs.
+Continuing my summer exploration of Norway. This little weekend excursion takes us north, through Jotunheimen National Park and beyond (if you're more interested in the Stavanger area and preikestolen <a>here ya go</a>); which would have been impossible without the help of my girlfriend's wonderful family having lent us a car, and my indispensable ability to fumble my way through the operation of a manual transmission while pretending to be able to read the Norwegian road signs.
 
 <br/>
 
-<br/>
+<
 
 ## Day 1: Bolle, beer, og Bessheim
 
