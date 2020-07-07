@@ -182,6 +182,7 @@ const ContentStyled = styled.div`
 class TemplateWrapper extends Component {
   constructor(props) {
     super(props);
+
     this.state = {
       open: false,
       scrolled: false,

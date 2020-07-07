@@ -54,6 +54,12 @@ button{
     margin-bottom: 40px;
   }
 
+.etsy-link{
+  text-align: center;
+  margin-bottom: 50px;
+  font-size: 20px;
+}
+
   .referral-link {
     position: relative;
     text-decoration: none;

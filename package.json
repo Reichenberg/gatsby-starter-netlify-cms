@@ -5,6 +5,8 @@
   "author": "Chance Reichenberg",
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.6",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
     "gatsby": "^2.18.11",
     "gatsby-image": "^2.2.33",
     "gatsby-plugin-google-adsense": "^1.1.3",
@@ -20,6 +22,7 @@
     "gatsby-remark-copy-linked-files": "^2.1.30",
     "gatsby-remark-images": "^3.1.33",
     "gatsby-remark-relative-images": "^0.2.3",
+    "gatsby-source-etsy": "^0.1.0",
     "gatsby-source-filesystem": "^2.1.38",
     "gatsby-source-shopify": "^2.2.2",
     "gatsby-source-shopify2": "^2.0.7",

@@ -1,3 +1,7 @@
+require('dotenv').config({
+  path: `.env.${process.env.NODE_ENV}`,
+});
+
 module.exports = {
   siteMetadata: {
     title: 'Chance Made a Travel Blog?',
@@ -94,7 +98,14 @@ module.exports = {
         modulePath: `${__dirname}/src/cms/cms.js`,
       },
     },
-
+    {
+      resolve: 'gatsby-source-etsy',
+      options: {
+        apiKey: 'bgyp6hrodr4dp6v001dw74h0',
+        shopId: '20469737',
+        language: 'en', // optional
+      },
+    },
     'gatsby-plugin-purgecss', // must be after other CSS plugins
     'gatsby-plugin-netlify',
     //{
