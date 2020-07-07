@@ -123,7 +123,7 @@ The first ascent was long, but the view was spellbinding and a great reminder of
 
 <br/>
 
-Once you reach Bessvatnet, the next challenge is what will activate you're heretofore unrealized fear of 100 meter clifss as you now have the luxury of conquering that immediate fear. You will be forced to quite literally climb up a ridge using hands and feet with very nearly a sheer drop meeting you on either side.
+Once you reach Bessvatnet, the next challenge is what will activate your heretofore unrealized fear of 100 meter cliffs as you now have the luxury of conquering that immediate fear. You will be forced to quite literally climb up a ridge using hands and feet with very nearly a sheer drop meeting you on either side.
 
 <br/>
 
