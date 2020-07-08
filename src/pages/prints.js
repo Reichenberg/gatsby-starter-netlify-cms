@@ -27,7 +27,7 @@ export default class Products extends React.Component {
             </FadeIn>
           </PoseGroup>
           <h2 className="referral-header">
-            Wanna see more prints you can get for yourself?
+            Haven't quite found what you're looking for?
           </h2>
           <a
             className="etsy-link"
