@@ -69,6 +69,11 @@ export default class Footer extends React.Component {
                 Photos
               </a>
             </li>
+            <li>
+              <Link name="prints" to="/prints">
+                Prints
+              </Link>
+            </li>
           </ul>
           <ul className="social-map">
             <li>

@@ -171,12 +171,9 @@ class Navbar extends Component {
               </a>
             </li>
             <li>
-              <a
-                href="https://www.etsy.com/shop/ChanceOnTravel"
-                target="_blank"
-              >
-                Print Store
-              </a>
+              <Link name="prints" to="/prints">
+                Prints
+              </Link>
             </li>
             {/* <li>
               <Link name="email">Work With Me</Link>
