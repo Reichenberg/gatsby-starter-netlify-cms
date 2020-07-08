@@ -9,6 +9,15 @@ const ProductListStyled = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: center;
+
+  @media only screen and (min-width: 1023px) {
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+  }
 `;
 
 export default function ProductList() {

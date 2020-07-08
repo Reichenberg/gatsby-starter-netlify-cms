@@ -1,6 +1,6 @@
 import React from 'react';
 import Layout from '../components/Layout';
-import IndexStyled from '../components/Styles/index.style';
+import ProductsStyled from '../components/Styles/products.style';
 import posed, { PoseGroup } from 'react-pose';
 import Booking from '../img/booking.png';
 import Airbnb from '../img/airbnb.png';
@@ -17,7 +17,7 @@ export default class Products extends React.Component {
   render() {
     return (
       <Layout renderBg={true}>
-        <IndexStyled>
+        <ProductsStyled>
           <h2 className="referral-header">
             Want a cool print for yourself? Well, I have some here.
           </h2>
@@ -91,7 +91,7 @@ export default class Products extends React.Component {
               <p className="detail-text">Rewards Program, Travel Credit Card</p>
             </div>
           </a>
-        </IndexStyled>
+        </ProductsStyled>
       </Layout>
     );
   }

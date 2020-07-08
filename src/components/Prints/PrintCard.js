@@ -27,6 +27,11 @@ const PrintCardStyled = styled.a`
     margin-left: auto;
     margin-right: auto;
 
+    @media only screen and (min-width: 1023px) {
+      width: 420px;
+      height: 420px;
+    }
+
     .print-details {
       padding: 5px;
       position: absolute;
@@ -44,6 +49,19 @@ const PrintCardStyled = styled.a`
         font-family: jaf-domus-titling-web, Arial, Helvetica, sans-serif;
         font-weight: 200;
         font-size: 28px;
+        line-height: 1;
+      }
+
+      @media only screen and (min-width: 1023px) {
+        padding: 10px;
+        height: 80px;
+        p {
+          font-size: 24px;
+        }
+
+        .price {
+          font-size: 34px;
+        }
       }
     }
   }
