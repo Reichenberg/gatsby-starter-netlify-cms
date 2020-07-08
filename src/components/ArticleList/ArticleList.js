@@ -7,7 +7,7 @@ import { Link, graphql } from 'gatsby';
 import ArticleListStyled from './ArticleListStyled';
 import Article from '../Article/Article';
 
-export default function ArticleList({ tags }) {
+export default function ArticleList({ tags, displayNumber }) {
   return (
     <StaticQuery
       query={graphql`
@@ -42,6 +42,12 @@ export default function ArticleList({ tags }) {
           {data.allMarkdownRemark.edges
             .filter(item =>
               tags && item.tags ? item.tags.some(tags.indexOf(item) >= 0) : true
+            )
+            .slice(
+              0,
+              displayNumber
+                ? displayNumber
+                : data.allMarkdownRemark.edges.length
             )
             .map((item, i) => (
               <div className="article-position" key={item + i}>

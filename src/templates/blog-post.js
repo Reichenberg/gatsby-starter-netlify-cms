@@ -325,7 +325,7 @@ export default class BlogPostTemplate extends React.Component {
                   <h2 className="more-articles-header">
                     More places and stories, RIGHT HERE!
                   </h2>
-                  <ArticleList tags={post.frontmatter.tags} />
+                  <ArticleList tags={post.frontmatter.tags} displayNumber={6} />
                 </section>
                 <section
                   className="instagram-refer"

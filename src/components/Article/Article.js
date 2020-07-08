@@ -110,8 +110,8 @@ export default function Article({ details, isFeatured }) {
           <div className="article-overlay">
             <h2>{details.node.frontmatter.title}</h2>
             <p className="article-description">
-              {details.node.frontmatter.description.length > 140
-                ? `${details.node.frontmatter.description.slice(0, 140)} . . .`
+              {details.node.frontmatter.description.length > 50
+                ? `${details.node.frontmatter.description.slice(0, 50)} . . .`
                 : details.node.frontmatter.description}
             </p>
             <p className="detail-text">{details.node.frontmatter.date}</p>
